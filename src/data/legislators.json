@@ -1,0 +1,3733 @@
+[
+  {
+    "name": "Aisha Wahab",
+    "first_name": "Aisha",
+    "last_name": "Wahab",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 10,
+    "email": "senator.wahab@senate.ca.gov",
+    "phone": "(916) 651-4410",
+    "capitol_phone": "8530 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Energy, Utilities and Communications",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Housing",
+        "chamber": "Senate",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Akilah Weber Pierson, M.D.",
+    "first_name": "Akilah",
+    "last_name": "Weber Pierson, M.D.",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 39,
+    "email": "senator.weberpierson@senate.ca.gov",
+    "phone": "(916) 651-4039",
+    "capitol_phone": "7310 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Al Muratsuchi",
+    "first_name": "Al",
+    "last_name": "Muratsuchi",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 66,
+    "email": "assemblymember.muratsuchi@assembly.ca.gov",
+    "phone": "(916) 319-2066",
+    "capitol_phone": "5310 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Education",
+        "chamber": "Assembly",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Higher Education",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Alex Lee",
+    "first_name": "Alex",
+    "last_name": "Lee",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 24,
+    "email": "assemblymember.lee@assembly.ca.gov",
+    "phone": "(916) 319-2024",
+    "capitol_phone": "6330 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Alexandra Macedo",
+    "first_name": "Alexandra",
+    "last_name": "Macedo",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 33,
+    "email": "assemblymember.macedo@assembly.ca.gov",
+    "phone": "(916) 319-2033",
+    "capitol_phone": "5530 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Anamarie Ávila Farías",
+    "first_name": "Anamarie",
+    "last_name": "Ávila Farías",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 15,
+    "email": "assemblymember.avilafarias@assembly.ca.gov",
+    "phone": "(916) 319-2015",
+    "capitol_phone": "6140 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Aging and Long-Term Care",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Military and Veterans Affairs",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Angelique Ashby",
+    "first_name": "Angelique",
+    "last_name": "Ashby",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 8,
+    "email": "senator.ashby@senate.ca.gov",
+    "phone": "(916) 651-4008",
+    "capitol_phone": "8630 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Energy, Utilities and Communications",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Revenue and Taxation",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Anna Caballero",
+    "first_name": "Anna",
+    "last_name": "Caballero",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 14,
+    "email": "senator.caballero@senate.ca.gov",
+    "phone": "(916) 651-4014",
+    "capitol_phone": "7620 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Senate",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Energy, Utilities and Communications",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Housing",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Public Safety",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Ash Kalra",
+    "first_name": "Ash",
+    "last_name": "Kalra",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 25,
+    "email": "assemblymember.kalra@assembly.ca.gov",
+    "phone": "(916) 319-2025",
+    "capitol_phone": "4610 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Assembly",
+        "role": "Chair"
+      }
+    ]
+  },
+  {
+    "name": "Avelino Valencia",
+    "first_name": "Avelino",
+    "last_name": "Valencia",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 68,
+    "email": "assemblymember.valencia@assembly.ca.gov",
+    "phone": "(916) 319-2068",
+    "capitol_phone": "5510 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Military and Veterans Affairs",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Benjamin Allen",
+    "first_name": "Benjamin",
+    "last_name": "Allen",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 24,
+    "email": "senator.allen@senate.ca.gov",
+    "phone": "(916) 651-4024",
+    "capitol_phone": "6610 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Elections and Constitutional Amendments",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Energy, Utilities and Communications",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Natural Resources and Water",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Blanca Pacheco",
+    "first_name": "Blanca",
+    "last_name": "Pacheco",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 64,
+    "email": "assemblymember.pacheco@assembly.ca.gov",
+    "phone": "(916) 319-2064",
+    "capitol_phone": "4510 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Local Government",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Rules",
+        "chamber": "Assembly",
+        "role": "Chair"
+      }
+    ]
+  },
+  {
+    "name": "Blanca Rubio",
+    "first_name": "Blanca",
+    "last_name": "Rubio",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 48,
+    "email": "assemblymember.rubio@assembly.ca.gov",
+    "phone": "(916) 319-2048",
+    "capitol_phone": "5250 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Aging and Long-Term Care",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Local Government",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Bob Archuleta",
+    "first_name": "Bob",
+    "last_name": "Archuleta",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 30,
+    "email": "senator.archuleta@senate.ca.gov",
+    "phone": "(916) 651-4030",
+    "capitol_phone": "6620 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Energy, Utilities and Communications",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Military and Veterans Affairs",
+        "chamber": "Senate",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Brian Jones",
+    "first_name": "Brian",
+    "last_name": "Jones",
+    "party": "R",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 40,
+    "email": "senator.jones@senate.ca.gov",
+    "phone": "(916) 651-4040",
+    "capitol_phone": "7640 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Rules",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Buffy Wicks",
+    "first_name": "Buffy",
+    "last_name": "Wicks",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 14,
+    "email": "assemblymember.wicks@assembly.ca.gov",
+    "phone": "(916) 319-2014",
+    "capitol_phone": "8140 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Assembly",
+        "role": "Chair"
+      }
+    ]
+  },
+  {
+    "name": "Carl DeMaio",
+    "first_name": "Carl",
+    "last_name": "DeMaio",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 75,
+    "email": "assemblymember.demaio@assembly.ca.gov",
+    "phone": "(916) 319-2075",
+    "capitol_phone": "4630 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Higher Education",
+        "chamber": "Assembly",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Revenue and Taxation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Caroline Menjivar",
+    "first_name": "Caroline",
+    "last_name": "Menjivar",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 20,
+    "email": "senator.menjivar@senate.ca.gov",
+    "phone": "(916) 651-4020",
+    "capitol_phone": "6630 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Environmental Quality",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Military and Veterans Affairs",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Catherine Blakespear",
+    "first_name": "Catherine",
+    "last_name": "Blakespear",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 38,
+    "email": "senator.blakespear@senate.ca.gov",
+    "phone": "(916) 651-4038",
+    "capitol_phone": "7720 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Environmental Quality",
+        "chamber": "Senate",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Catherine Stefani",
+    "first_name": "Catherine",
+    "last_name": "Stefani",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 19,
+    "email": "assemblymember.stefani@assembly.ca.gov",
+    "phone": "(916) 319-2019",
+    "capitol_phone": "5220 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Local Government",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Cecilia Aguiar-Curry",
+    "first_name": "Cecilia",
+    "last_name": "Aguiar-Curry",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 4,
+    "email": "assemblymember.aguiar-curry@assembly.ca.gov",
+    "phone": "(916) 319-2004",
+    "capitol_phone": "8210 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Transportation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Celeste Rodriguez",
+    "first_name": "Celeste",
+    "last_name": "Rodriguez",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 43,
+    "email": "assemblymember.celesterodriguez@assembly.ca.gov",
+    "phone": "(916) 319-2043",
+    "capitol_phone": "4320 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Higher Education",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Chris Rogers",
+    "first_name": "Chris",
+    "last_name": "Rogers",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 2,
+    "email": "assemblymember.rogers@assembly.ca.gov",
+    "phone": "(916) 319-2002",
+    "capitol_phone": "5130 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Christopher Cabaldon",
+    "first_name": "Christopher",
+    "last_name": "Cabaldon",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 3,
+    "email": "senator.cabaldon@senate.ca.gov",
+    "phone": "(916) 651-4003",
+    "capitol_phone": "7320 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Budget Subcommittee No. 4 on State Administration and General Government",
+        "chamber": "Senate",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Education",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Housing",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Local Government",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Christopher Ward",
+    "first_name": "Christopher",
+    "last_name": "Ward",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 78,
+    "email": "assemblymember.ward@assembly.ca.gov",
+    "phone": "(916) 319-2078",
+    "capitol_phone": "6350 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Budget Subcommittee No. 5 on State Administration",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Local Government",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Corey Jackson",
+    "first_name": "Corey",
+    "last_name": "Jackson",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 60,
+    "email": "assemblymember.jackson@assembly.ca.gov",
+    "phone": "(916) 319-2060",
+    "capitol_phone": "6120 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Higher Education",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Cottie Petrie-Norris",
+    "first_name": "Cottie",
+    "last_name": "Petrie-Norris",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 73,
+    "email": "assemblymember.petrie-norris@assembly.ca.gov",
+    "phone": "(916) 319-2073",
+    "capitol_phone": "8120 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Damon Connolly",
+    "first_name": "Damon",
+    "last_name": "Connolly",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 12,
+    "email": "assemblymember.connolly@assembly.ca.gov",
+    "phone": "(916) 319-2012",
+    "capitol_phone": "5240 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Darshana Patel",
+    "first_name": "Darshana",
+    "last_name": "Patel",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 76,
+    "email": "assemblymember.patel@assembly.ca.gov",
+    "phone": "(916) 319-2076",
+    "capitol_phone": "5140 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Education",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Higher Education",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Rules",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Dave Cortese",
+    "first_name": "Dave",
+    "last_name": "Cortese",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 15,
+    "email": "senator.cortese@senate.ca.gov",
+    "phone": "(916) 651-4015",
+    "capitol_phone": "7520 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Education",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Housing",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Labor, Public Employment and Retirement",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Senate",
+        "role": "Chair"
+      }
+    ]
+  },
+  {
+    "name": "David Alvarez",
+    "first_name": "David",
+    "last_name": "Alvarez",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 80,
+    "email": "assemblymember.alvarez@assembly.ca.gov",
+    "phone": "(916) 319-2080",
+    "capitol_phone": "5320 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "David Tangipa",
+    "first_name": "David",
+    "last_name": "Tangipa",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 8,
+    "email": "assemblymember.tangipa@assembly.ca.gov",
+    "phone": "(916) 319-2008",
+    "capitol_phone": "4310 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Higher Education",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Dawn Addis",
+    "first_name": "Dawn",
+    "last_name": "Addis",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 30,
+    "email": "assemblymember.addis@assembly.ca.gov",
+    "phone": "(916) 319-2030",
+    "capitol_phone": "4120 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Education",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Diane Dixon",
+    "first_name": "Diane",
+    "last_name": "Dixon",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 72,
+    "email": "assemblymember.dixon@assembly.ca.gov",
+    "phone": "(916) 319-2072",
+    "capitol_phone": "5330 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Assembly",
+        "role": "Vice Chair"
+      }
+    ]
+  },
+  {
+    "name": "Diane Papan",
+    "first_name": "Diane",
+    "last_name": "Papan",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 21,
+    "email": "assemblymember.papan@assembly.ca.gov",
+    "phone": "(916) 319-2021",
+    "capitol_phone": "4220 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Eloise Gómez Reyes",
+    "first_name": "Eloise Gómez",
+    "last_name": "Reyes",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 29,
+    "email": "senator.reyes@senate.ca.gov",
+    "phone": "(916) 651-4029",
+    "capitol_phone": "7210 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Education",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Environmental Quality",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Housing",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Rules",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Esmeralda Soria",
+    "first_name": "Esmeralda",
+    "last_name": "Soria",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 27,
+    "email": "assemblymember.soria@assembly.ca.gov",
+    "phone": "(916) 319-2027",
+    "capitol_phone": "4110 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Gail Pellerin",
+    "first_name": "Gail",
+    "last_name": "Pellerin",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 28,
+    "email": "assemblymember.pellerin@assembly.ca.gov",
+    "phone": "(916) 319-2028",
+    "capitol_phone": "6310 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Greg Wallis",
+    "first_name": "Greg",
+    "last_name": "Wallis",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 47,
+    "email": "assemblymember.wallis@assembly.ca.gov",
+    "phone": "(916) 319-2047",
+    "capitol_phone": "4330 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Budget Subcommittee No. 5 on State Administration",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Assembly",
+        "role": "Vice Chair"
+      }
+    ]
+  },
+  {
+    "name": "Gregg Hart",
+    "first_name": "Gregg",
+    "last_name": "Hart",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 37,
+    "email": "assemblymember.hart@assembly.ca.gov",
+    "phone": "(916) 319-2037",
+    "capitol_phone": "6230 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Heath Flora",
+    "first_name": "Heath",
+    "last_name": "Flora",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 9,
+    "email": "assemblymember.flora@assembly.ca.gov",
+    "phone": "(916) 319-2009",
+    "capitol_phone": "4730 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Vice Chair"
+      }
+    ]
+  },
+  {
+    "name": "Heather Hadwick",
+    "first_name": "Heather",
+    "last_name": "Hadwick",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 1,
+    "email": "assemblymember.hadwick@assembly.ca.gov",
+    "phone": "(916) 319-2001",
+    "capitol_phone": "5710 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Henry Stern",
+    "first_name": "Henry",
+    "last_name": "Stern",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 27,
+    "email": "senator.stern@senate.ca.gov",
+    "phone": "(916) 651-4027",
+    "capitol_phone": "7710 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Energy, Utilities and Communications",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Natural Resources and Water",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Isaac Bryan",
+    "first_name": "Isaac",
+    "last_name": "Bryan",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 55,
+    "email": "assemblymember.bryan@assembly.ca.gov",
+    "phone": "(916) 319-2055",
+    "capitol_phone": "5630 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Jacqui Irwin",
+    "first_name": "Jacqui",
+    "last_name": "Irwin",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 42,
+    "email": "assemblymember.irwin@assembly.ca.gov",
+    "phone": "(916) 319-2042",
+    "capitol_phone": "6220 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Rules",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "James Gallagher",
+    "first_name": "James",
+    "last_name": "Gallagher",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 3,
+    "email": "assemblymember.gallagher@assembly.ca.gov",
+    "phone": "(916) 319-2003",
+    "capitol_phone": "4740 (1021 O St.)",
+    "district_phone": "",
+    "committees": []
+  },
+  {
+    "name": "James Ramos",
+    "first_name": "James",
+    "last_name": "Ramos",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 45,
+    "email": "assemblymember.ramos@assembly.ca.gov",
+    "phone": "(916) 319-2045",
+    "capitol_phone": "8310 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Local Government",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Public Safety",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Jasmeet Kaur Bains",
+    "first_name": "Jasmeet Kaur",
+    "last_name": "Bains",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 35,
+    "email": "assemblymember.bains@assembly.ca.gov",
+    "phone": "(916) 319-2035",
+    "capitol_phone": "5730 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Aging and Long-Term Care",
+        "chamber": "Assembly",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Revenue and Taxation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Jeff Gonzalez",
+    "first_name": "Jeff",
+    "last_name": "Gonzalez",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 36,
+    "email": "assemblymember.jeffgonzalez@assembly.ca.gov",
+    "phone": "(916) 319-2036",
+    "capitol_phone": "4230 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Aging and Long-Term Care",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Higher Education",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Military and Veterans Affairs",
+        "chamber": "Assembly",
+        "role": "Vice Chair"
+      }
+    ]
+  },
+  {
+    "name": "Jerry McNerney",
+    "first_name": "Jerry",
+    "last_name": "McNerney",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 5,
+    "email": "senator.mcnerney@senate.ca.gov",
+    "phone": "(916) 651-4005",
+    "capitol_phone": "6640 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Energy, Utilities and Communications",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Military and Veterans Affairs",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Revenue and Taxation",
+        "chamber": "Senate",
+        "role": "Chair"
+      }
+    ]
+  },
+  {
+    "name": "Jesse Arreguín",
+    "first_name": "Jesse",
+    "last_name": "Arreguín",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 7,
+    "email": "senator.arreguin@senate.ca.gov",
+    "phone": "(916) 651-4007",
+    "capitol_phone": "6710 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Energy, Utilities and Communications",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Housing",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Local Government",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Public Safety",
+        "chamber": "Senate",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Jesse Gabriel",
+    "first_name": "Jesse",
+    "last_name": "Gabriel",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 46,
+    "email": "assemblymember.gabriel@assembly.ca.gov",
+    "phone": "(916) 319-2046",
+    "capitol_phone": "8230 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Jessica Caloza",
+    "first_name": "Jessica",
+    "last_name": "Caloza",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 52,
+    "email": "assemblymember.caloza@assembly.ca.gov",
+    "phone": "(916) 319-2052",
+    "capitol_phone": "5620 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Joaquin Arambula",
+    "first_name": "Joaquin",
+    "last_name": "Arambula",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 31,
+    "email": "assemblymember.arambula@assembly.ca.gov",
+    "phone": "(916) 319-2031",
+    "capitol_phone": "6130 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Aging and Long-Term Care",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Joe Patterson",
+    "first_name": "Joe",
+    "last_name": "Patterson",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 5,
+    "email": "assemblymember.joepatterson@assembly.ca.gov",
+    "phone": "(916) 319-2005",
+    "capitol_phone": "4530 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "John Harabedian",
+    "first_name": "John",
+    "last_name": "Harabedian",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 41,
+    "email": "assemblymember.harabedian@assembly.ca.gov",
+    "phone": "(916) 319-2041",
+    "capitol_phone": "4350 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Insurance",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Public Safety",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "John Laird",
+    "first_name": "John",
+    "last_name": "Laird",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 17,
+    "email": "senator.laird@senate.ca.gov",
+    "phone": "(916) 651-4017",
+    "capitol_phone": "8720 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Labor, Public Employment and Retirement",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Local Government",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Natural Resources and Water",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Rules",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "José Luis Solache",
+    "first_name": "José Luis",
+    "last_name": "Solache",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 62,
+    "email": "assemblymember.solache@assembly.ca.gov",
+    "phone": "(916) 319-2062",
+    "capitol_phone": "5110 (1020 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Josh Becker",
+    "first_name": "Josh",
+    "last_name": "Becker",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 13,
+    "email": "senator.becker@senate.ca.gov",
+    "phone": "(916) 651-4013",
+    "capitol_phone": "6520 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Energy, Utilities and Communications",
+        "chamber": "Senate",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Josh Hoover",
+    "first_name": "Josh",
+    "last_name": "Hoover",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 7,
+    "email": "assemblymember.hoover@assembly.ca.gov",
+    "phone": "(916) 319-2007",
+    "capitol_phone": "4540 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Education",
+        "chamber": "Assembly",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Local Government",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Josh Lowenthal",
+    "first_name": "Josh",
+    "last_name": "Lowenthal",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 69,
+    "email": "assemblymember.lowenthal@assembly.ca.gov",
+    "phone": "(916) 319-2069",
+    "capitol_phone": "8320 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Education",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Juan Alanis",
+    "first_name": "Juan",
+    "last_name": "Alanis",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 22,
+    "email": "assemblymember.alanis@assembly.ca.gov",
+    "phone": "(916) 319-2022",
+    "capitol_phone": "4640 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Public Safety",
+        "chamber": "Assembly",
+        "role": "Vice Chair"
+      }
+    ]
+  },
+  {
+    "name": "Juan Carrillo",
+    "first_name": "Juan",
+    "last_name": "Carrillo",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 39,
+    "email": "assemblymember.juancarrillo@assembly.ca.gov",
+    "phone": "(916) 319-2039",
+    "capitol_phone": "5610 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Local Government",
+        "chamber": "Assembly",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Military and Veterans Affairs",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Revenue and Taxation",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Kate Sanchez",
+    "first_name": "Kate",
+    "last_name": "Sanchez",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 71,
+    "email": "assemblymember.sanchez@assembly.ca.gov",
+    "phone": "(916) 319-2071",
+    "capitol_phone": "4340 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Assembly",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Rules",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Kelly Seyarto",
+    "first_name": "Kelly",
+    "last_name": "Seyarto",
+    "party": "R",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 32,
+    "email": "senator.seyarto@senate.ca.gov",
+    "phone": "(916) 651-4032",
+    "capitol_phone": "7120 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Housing",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Local Government",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Natural Resources and Water",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Public Safety",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "LaShae Sharp-Collins",
+    "first_name": "LaShae",
+    "last_name": "Sharp-Collins",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 79,
+    "email": "assemblymember.sharpcollins@assembly.ca.gov",
+    "phone": "(916) 319-2079",
+    "capitol_phone": "4130 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Aging and Long-Term Care",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Higher Education",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Military and Veterans Affairs",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Public Safety",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Laura Richardson",
+    "first_name": "Laura",
+    "last_name": "Richardson",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 35,
+    "email": "senator.richardson@senate.ca.gov",
+    "phone": "(916) 651-4035",
+    "capitol_phone": "7340 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Banking and Financial Institutions",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Laurie Davies",
+    "first_name": "Laurie",
+    "last_name": "Davies",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 74,
+    "email": "assemblymember.davies@assembly.ca.gov",
+    "phone": "(916) 319-2074",
+    "capitol_phone": "4720 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Military and Veterans Affairs",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Assembly",
+        "role": "Vice Chair"
+      }
+    ]
+  },
+  {
+    "name": "Lena Gonzalez",
+    "first_name": "Lena",
+    "last_name": "Gonzalez",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 33,
+    "email": "senator.gonzalez@senate.ca.gov",
+    "phone": "(916) 651-4033",
+    "capitol_phone": "8610 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Education",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Energy, Utilities and Communications",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Environmental Quality",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Public Safety",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Leticia Castillo",
+    "first_name": "Leticia",
+    "last_name": "Castillo",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 58,
+    "email": "assemblymember.castillo@assembly.ca.gov",
+    "phone": "(916) 319-2058",
+    "capitol_phone": "4240 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Education",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Lisa Calderon",
+    "first_name": "Lisa",
+    "last_name": "Calderon",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 56,
+    "email": "assemblymember.calderon@assembly.ca.gov",
+    "phone": "(916) 319-2056",
+    "capitol_phone": "4650 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Assembly",
+        "role": "Chair"
+      }
+    ]
+  },
+  {
+    "name": "Liz Ortega",
+    "first_name": "Liz",
+    "last_name": "Ortega",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 20,
+    "email": "assemblymember.ortega@assembly.ca.gov",
+    "phone": "(916) 319-2020",
+    "capitol_phone": "5120 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Budget Subcommittee No. 5 on State Administration",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Lola Smallwood-Cuevas",
+    "first_name": "Lola",
+    "last_name": "Smallwood-Cuevas",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 28,
+    "email": "senator.smallwood-cuevas@senate.ca.gov",
+    "phone": "(916) 651-4028",
+    "capitol_phone": "6530 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Budget Subcommittee No. 4 on State Administration and General Government",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Labor, Public Employment and Retirement",
+        "chamber": "Senate",
+        "role": "Chair"
+      }
+    ]
+  },
+  {
+    "name": "Lori Wilson",
+    "first_name": "Lori",
+    "last_name": "Wilson",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 11,
+    "email": "assemblymember.wilson@assembly.ca.gov",
+    "phone": "(916) 319-2011",
+    "capitol_phone": "8110 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Local Government",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Assembly",
+        "role": "Chair"
+      }
+    ]
+  },
+  {
+    "name": "Maggy Krell",
+    "first_name": "Maggy",
+    "last_name": "Krell",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 6,
+    "email": "assemblymember.krell@assembly.ca.gov",
+    "phone": "(916) 319-2006",
+    "capitol_phone": "5230 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Rules",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Marc Berman",
+    "first_name": "Marc",
+    "last_name": "Berman",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 23,
+    "email": "assemblymember.berman@assembly.ca.gov",
+    "phone": "(916) 319-2023",
+    "capitol_phone": "8130 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "María Elena Durazo",
+    "first_name": "María Elena",
+    "last_name": "Durazo",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 26,
+    "email": "senator.durazo@senate.ca.gov",
+    "phone": "(916) 651-4026",
+    "capitol_phone": "7530 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Housing",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Labor, Public Employment and Retirement",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Local Government",
+        "chamber": "Senate",
+        "role": "Chair"
+      }
+    ]
+  },
+  {
+    "name": "Marie Alvarado-Gil",
+    "first_name": "Marie",
+    "last_name": "Alvarado-Gil",
+    "party": "R",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 4,
+    "email": "senator.alvarado-gil@senate.ca.gov",
+    "phone": "(916) 651-4004",
+    "capitol_phone": "7240 (1021 O St.)",
+    "district_phone": "",
+    "committees": []
+  },
+  {
+    "name": "Mark González",
+    "first_name": "Mark",
+    "last_name": "González",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 54,
+    "email": "assemblymember.markgonzalez@assembly.ca.gov",
+    "phone": "(916) 319-2054",
+    "capitol_phone": "6150 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Public Safety",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Rules",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Matt Haney",
+    "first_name": "Matt",
+    "last_name": "Haney",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 17,
+    "email": "assemblymember.haney@assembly.ca.gov",
+    "phone": "(916) 319-2017",
+    "capitol_phone": "5740 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Budget Subcommittee No. 5 on State Administration",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Public Safety",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Megan Dahle",
+    "first_name": "Megan",
+    "last_name": "Dahle",
+    "party": "R",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 1,
+    "email": "senator.dahle@senate.ca.gov",
+    "phone": "(916) 651-4001",
+    "capitol_phone": "7230 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Energy, Utilities and Communications",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Environmental Quality",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Melissa Hurtado",
+    "first_name": "Melissa",
+    "last_name": "Hurtado",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 16,
+    "email": "senator.hurtado@senate.ca.gov",
+    "phone": "(916) 651-4016",
+    "capitol_phone": "6510 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Banking and Financial Institutions",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Energy, Utilities and Communications",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Environmental Quality",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Natural Resources and Water",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Mia Bonta",
+    "first_name": "Mia",
+    "last_name": "Bonta",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 18,
+    "email": "assemblymember.mbonta@assembly.ca.gov",
+    "phone": "(916) 319-2018",
+    "capitol_phone": "390 (1020 N St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Education",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Michelle Rodriguez",
+    "first_name": "Michelle",
+    "last_name": "Rodriguez",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 53,
+    "email": "assemblymember.michellerodriguez@assembly.ca.gov",
+    "phone": "(916) 319-2053",
+    "capitol_phone": "5640 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Military and Veterans Affairs",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Rules",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Mike Fong",
+    "first_name": "Mike",
+    "last_name": "Fong",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 49,
+    "email": "assemblymember.mikefong@assembly.ca.gov",
+    "phone": "(916) 319-2049",
+    "capitol_phone": "5650 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Higher Education",
+        "chamber": "Assembly",
+        "role": "Chair"
+      }
+    ]
+  },
+  {
+    "name": "Mike Gipson",
+    "first_name": "Mike",
+    "last_name": "Gipson",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 65,
+    "email": "assemblymember.gipson@assembly.ca.gov",
+    "phone": "(916) 319-2065",
+    "capitol_phone": "6210 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Revenue and Taxation",
+        "chamber": "Assembly",
+        "role": "Chair"
+      }
+    ]
+  },
+  {
+    "name": "Mike McGuire",
+    "first_name": "Mike",
+    "last_name": "McGuire",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 2,
+    "email": "senator.mcguire@senate.ca.gov",
+    "phone": "(916) 651-4002",
+    "capitol_phone": "8518 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Rules",
+        "chamber": "Senate",
+        "role": "Chair"
+      }
+    ]
+  },
+  {
+    "name": "Monique Limón",
+    "first_name": "Monique",
+    "last_name": "Limón",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 21,
+    "email": "senator.limon@senate.ca.gov",
+    "phone": "(916) 651-4021",
+    "capitol_phone": "7610 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Banking and Financial Institutions",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Elections and Constitutional Amendments",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Energy, Utilities and Communications",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Natural Resources and Water",
+        "chamber": "Senate",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Nick Schultz",
+    "first_name": "Nick",
+    "last_name": "Schultz",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 44,
+    "email": "assemblymember.schultz@assembly.ca.gov",
+    "phone": "(916) 319-2044",
+    "capitol_phone": "5150 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Public Safety",
+        "chamber": "Assembly",
+        "role": "Chair"
+      }
+    ]
+  },
+  {
+    "name": "Patrick Ahrens",
+    "first_name": "Patrick",
+    "last_name": "Ahrens",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 26,
+    "email": "assemblymember.ahrens@assembly.ca.gov",
+    "phone": "(916) 319-2026",
+    "capitol_phone": "6110 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Rules",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Phillip Chen",
+    "first_name": "Phillip",
+    "last_name": "Chen",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 59,
+    "email": "assemblymember.chen@assembly.ca.gov",
+    "phone": "(916) 319-2059",
+    "capitol_phone": "4620 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Pilar Schiavo",
+    "first_name": "Pilar",
+    "last_name": "Schiavo",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 40,
+    "email": "assemblymember.schiavo@assembly.ca.gov",
+    "phone": "(916) 319-2040",
+    "capitol_phone": "4140 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Military and Veterans Affairs",
+        "chamber": "Assembly",
+        "role": "Chair"
+      }
+    ]
+  },
+  {
+    "name": "Rebecca Bauer-Kahan",
+    "first_name": "Rebecca",
+    "last_name": "Bauer-Kahan",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 16,
+    "email": "assemblymember.bauer-kahan@assembly.ca.gov",
+    "phone": "(916) 319-2016",
+    "capitol_phone": "5210 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Rhodesia Ransom",
+    "first_name": "Rhodesia",
+    "last_name": "Ransom",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 13,
+    "email": "assemblymember.ransom@assembly.ca.gov",
+    "phone": "(916) 319-2013",
+    "capitol_phone": "6340 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Local Government",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Rick Chavez Zbur",
+    "first_name": "Rick Chavez",
+    "last_name": "Zbur",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 51,
+    "email": "assemblymember.zbur@assembly.ca.gov",
+    "phone": "(916) 319-2051",
+    "capitol_phone": "4250 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Rules",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Robert Garcia",
+    "first_name": "Robert",
+    "last_name": "Garcia",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 50,
+    "email": "assemblymember.garcia@assembly.ca.gov",
+    "phone": "(916) 319-2050",
+    "capitol_phone": "6240 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Education",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Robert Rivas",
+    "first_name": "Robert",
+    "last_name": "Rivas",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 29,
+    "email": "assemblymember.rrivas@assembly.ca.gov",
+    "phone": "(916) 319-2029",
+    "capitol_phone": "8330 (1021 O St.)",
+    "district_phone": "",
+    "committees": []
+  },
+  {
+    "name": "Roger Niello",
+    "first_name": "Roger",
+    "last_name": "Niello",
+    "party": "R",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 6,
+    "email": "senator.niello@senate.ca.gov",
+    "phone": "(916) 651-4006",
+    "capitol_phone": "7110 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Banking and Financial Institutions",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Budget Subcommittee No. 4 on State Administration and General Government",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      }
+    ]
+  },
+  {
+    "name": "Rosilicie Ochoa Bogh",
+    "first_name": "Rosilicie",
+    "last_name": "Ochoa Bogh",
+    "party": "R",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 19,
+    "email": "senator.ochoabogh@senate.ca.gov",
+    "phone": "(916) 651-4019",
+    "capitol_phone": "7220 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Education",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Energy, Utilities and Communications",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Housing",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Sabrina Cervantes",
+    "first_name": "Sabrina",
+    "last_name": "Cervantes",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 31,
+    "email": "senator.cervantes@senate.ca.gov",
+    "phone": "(916) 651-4031",
+    "capitol_phone": "7330 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Banking and Financial Institutions",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Elections and Constitutional Amendments",
+        "chamber": "Senate",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Sade Elhawary",
+    "first_name": "Sade",
+    "last_name": "Elhawary",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 57,
+    "email": "assemblymember.elhawary@assembly.ca.gov",
+    "phone": "(916) 319-2057",
+    "capitol_phone": "6320 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Sasha Renée Pérez",
+    "first_name": "Sasha Renée",
+    "last_name": "Pérez",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 25,
+    "email": "senator.perez@senate.ca.gov",
+    "phone": "(916) 651-4025",
+    "capitol_phone": "6720 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Education",
+        "chamber": "Senate",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Environmental Quality",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Public Safety",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Scott Wiener",
+    "first_name": "Scott",
+    "last_name": "Wiener",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 11,
+    "email": "senator.wiener@senate.ca.gov",
+    "phone": "(916) 651-4011",
+    "capitol_phone": "8620 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Local Government",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Public Safety",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Shannon Grove",
+    "first_name": "Shannon",
+    "last_name": "Grove",
+    "party": "R",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 12,
+    "email": "senator.grove@senate.ca.gov",
+    "phone": "(916) 651-4012",
+    "capitol_phone": "7150 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Energy, Utilities and Communications",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Military and Veterans Affairs",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Natural Resources and Water",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Rules",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      }
+    ]
+  },
+  {
+    "name": "Sharon Quirk-Silva",
+    "first_name": "Sharon",
+    "last_name": "Quirk-Silva",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 67,
+    "email": "assemblymember.quirk-silva@assembly.ca.gov",
+    "phone": "(916) 319-2067",
+    "capitol_phone": "4210 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Budget Subcommittee No. 5 on State Administration",
+        "chamber": "Assembly",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Revenue and Taxation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Stan Ellis",
+    "first_name": "Stan",
+    "last_name": "Ellis",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 32,
+    "email": "assemblymember.ellis@assembly.ca.gov",
+    "phone": "(916) 319-2032",
+    "capitol_phone": "5350 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Aging and Long-Term Care",
+        "chamber": "Assembly",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Stephanie Nguyen",
+    "first_name": "Stephanie",
+    "last_name": "Nguyen",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 10,
+    "email": "assemblymember.stephanienguyen@assembly.ca.gov",
+    "phone": "(916) 319-2010",
+    "capitol_phone": "5720 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Public Safety",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Stephen Padilla",
+    "first_name": "Stephen",
+    "last_name": "Padilla",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 18,
+    "email": "senator.padilla@senate.ca.gov",
+    "phone": "(916) 651-4018",
+    "capitol_phone": "7630 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Housing",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Steve Bennett",
+    "first_name": "Steve",
+    "last_name": "Bennett",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 38,
+    "email": "assemblymember.bennett@assembly.ca.gov",
+    "phone": "(916) 319-2038",
+    "capitol_phone": "4710 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Steven Choi, Ph.D.",
+    "first_name": "Steven",
+    "last_name": "Choi, Ph.D.",
+    "party": "R",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 37,
+    "email": "senator.choi@senate.ca.gov",
+    "phone": "(916) 651-4037",
+    "capitol_phone": "7130(1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Education",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Elections and Constitutional Amendments",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Local Government",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      }
+    ]
+  },
+  {
+    "name": "Susan Rubio",
+    "first_name": "Susan",
+    "last_name": "Rubio",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 22,
+    "email": "senator.rubio@senate.ca.gov",
+    "phone": "(916) 651-4022",
+    "capitol_phone": "8710 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Energy, Utilities and Communications",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Insurance",
+        "chamber": "Senate",
+        "role": "Chair"
+      }
+    ]
+  },
+  {
+    "name": "Suzette Martinez Valladares",
+    "first_name": "Suzette Martinez",
+    "last_name": "Valladares",
+    "party": "R",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 23,
+    "email": "senator.valladares@senate.ca.gov",
+    "phone": "(916) 651-4023",
+    "capitol_phone": "7140 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Environmental Quality",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Revenue and Taxation",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Tasha Boerner",
+    "first_name": "Tasha",
+    "last_name": "Boerner",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 77,
+    "email": "assemblymember.boerner@assembly.ca.gov",
+    "phone": "(916) 319-2077",
+    "capitol_phone": "4150 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Higher Education",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Thomas Umberg",
+    "first_name": "Thomas",
+    "last_name": "Umberg",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 34,
+    "email": "senator.umberg@senate.ca.gov",
+    "phone": "(916) 651-4034",
+    "capitol_phone": "7510 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Elections and Constitutional Amendments",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Judiciary",
+        "chamber": "Senate",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Military and Veterans Affairs",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Revenue and Taxation",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Timothy Grayson",
+    "first_name": "Timothy",
+    "last_name": "Grayson",
+    "party": "D",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 9,
+    "email": "senator.grayson@senate.ca.gov",
+    "phone": "(916) 651-4009",
+    "capitol_phone": "7250 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Banking and Financial Institutions",
+        "chamber": "Senate",
+        "role": "Chair"
+      },
+      {
+        "committee_name": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Housing",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Revenue and Taxation",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Senate",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Tina McKinnor",
+    "first_name": "Tina",
+    "last_name": "McKinnor",
+    "party": "D",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 61,
+    "email": "assemblymember.mckinnor@assembly.ca.gov",
+    "phone": "(916) 319-2061",
+    "capitol_phone": "5520 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Revenue and Taxation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Tom Lackey",
+    "first_name": "Tom",
+    "last_name": "Lackey",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 34,
+    "email": "assemblymember.lackey@assembly.ca.gov",
+    "phone": "(916) 319-2034",
+    "capitol_phone": "5340 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Budget",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Public Safety",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Rules",
+        "chamber": "Assembly",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Assembly",
+        "role": "Member"
+      }
+    ]
+  },
+  {
+    "name": "Tony Strickland",
+    "first_name": "Tony",
+    "last_name": "Strickland",
+    "party": "R",
+    "role": "Senator",
+    "chamber": "Senate",
+    "district": 36,
+    "email": "senator.strickland@senate.ca.gov",
+    "phone": "(916) 651-4036",
+    "capitol_phone": "6730 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Banking and Financial Institutions",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Energy, Utilities and Communications",
+        "chamber": "Senate",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Labor, Public Employment and Retirement",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Transportation",
+        "chamber": "Senate",
+        "role": "Vice Chair"
+      }
+    ]
+  },
+  {
+    "name": "Tri Ta",
+    "first_name": "Tri",
+    "last_name": "Ta",
+    "party": "R",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 70,
+    "email": "assemblymember.ta@assembly.ca.gov",
+    "phone": "(916) 319-2070",
+    "capitol_phone": "5540 (1021 O St.)",
+    "district_phone": "",
+    "committees": [
+      {
+        "committee_name": "Appropriations",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "Member"
+      },
+      {
+        "committee_name": "Local Government",
+        "chamber": "Assembly",
+        "role": "Vice Chair"
+      },
+      {
+        "committee_name": "Revenue and Taxation",
+        "chamber": "Assembly",
+        "role": "Vice Chair"
+      }
+    ]
+  },
+  {
+    "name": "Vacancy Vacancy63",
+    "first_name": "Vacancy",
+    "last_name": "Vacancy63",
+    "party": "Unknown",
+    "role": "Assembly Member",
+    "chamber": "Assembly",
+    "district": 63,
+    "email": "",
+    "phone": "(916) 319-2063",
+    "capitol_phone": "4520 (1021 O St.)",
+    "district_phone": "",
+    "committees": []
+  }
+]

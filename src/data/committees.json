@@ -1,0 +1,736 @@
+{
+  "metadata": {
+    "source": "Extracted from committee screenshots (Dec 2025)",
+    "generated_at": "2025-12-11",
+    "total_committees": 38,
+    "note": "Includes standing committees, budget committees, and subcommittees"
+  },
+  "committees": [
+    {
+      "name": "Aging and Long-Term Care",
+      "chamber": "Assembly",
+      "type": "Standing",
+      "members": [
+        {"name": "Jasmeet Bains", "role": "Chair"},
+        {"name": "Stan Ellis", "role": "Vice Chair"},
+        {"name": "Joaquin Arambula", "role": "Member"},
+        {"name": "Jeff Gonzalez", "role": "Member"},
+        {"name": "Blanca Rubio", "role": "Member"},
+        {"name": "LaShae Sharp-Collins", "role": "Member"},
+        {"name": "Anamarie Ávila Farías", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Elizabeth Fuller",
+        "email": "Elizabeth.Fuller@asm.ca.gov"
+      }
+    },
+    {
+      "name": "Appropriations",
+      "chamber": "Assembly",
+      "type": "Standing",
+      "members": [
+        {"name": "Buffy Wicks", "role": "Chair"},
+        {"name": "Kate Sanchez", "role": "Vice Chair"},
+        {"name": "Joaquin Arambula", "role": "Member"},
+        {"name": "Lisa Calderon", "role": "Member"},
+        {"name": "Jessica Caloza", "role": "Member"},
+        {"name": "Diane B. Dixon", "role": "Member"},
+        {"name": "Sade Elhawary", "role": "Member"},
+        {"name": "Mike Fong", "role": "Member"},
+        {"name": "Mark González", "role": "Member"},
+        {"name": "Gregg Hart", "role": "Member"},
+        {"name": "Blanca Pacheco", "role": "Member"},
+        {"name": "Gail Pellerin", "role": "Member"},
+        {"name": "Jose Luis Solache", "role": "Member"},
+        {"name": "Tri Ta", "role": "Member"},
+        {"name": "David J. Tangipa", "role": "Member"}
+      ]
+    },
+    {
+      "name": "Budget",
+      "chamber": "Assembly",
+      "type": "Budget",
+      "members": [
+        {"name": "Jesse Gabriel", "role": "Chair"},
+        {"name": "Heath Flora", "role": "Vice Chair"},
+        {"name": "Dawn Addis", "role": "Member"},
+        {"name": "Patrick J. Ahrens", "role": "Member"},
+        {"name": "Juan Alanis", "role": "Member"},
+        {"name": "David Alvarez", "role": "Member"},
+        {"name": "Steve Bennett", "role": "Member"},
+        {"name": "Mia Bonta", "role": "Member"},
+        {"name": "Damon Connolly", "role": "Member"},
+        {"name": "Mike Fong", "role": "Member"},
+        {"name": "Heather Hadwick", "role": "Member"},
+        {"name": "Matt Haney", "role": "Member"},
+        {"name": "Gregg Hart", "role": "Member"},
+        {"name": "Corey A. Jackson", "role": "Member"},
+        {"name": "Tom Lackey", "role": "Member"},
+        {"name": "Alex Lee", "role": "Member"},
+        {"name": "Al Muratsuchi", "role": "Member"},
+        {"name": "Liz Ortega", "role": "Member"},
+        {"name": "Darshana R. Patel", "role": "Member"},
+        {"name": "Joe Patterson", "role": "Member"},
+        {"name": "Cottie Petrie-Norris", "role": "Member"},
+        {"name": "Sharon Quirk-Silva", "role": "Member"},
+        {"name": "James C. Ramos", "role": "Member"},
+        {"name": "Chris Rogers", "role": "Member"},
+        {"name": "Pilar Schiavo", "role": "Member"},
+        {"name": "Nick Schultz", "role": "Member"},
+        {"name": "LaShae Sharp-Collins", "role": "Member"},
+        {"name": "Jose Luis Solache", "role": "Member"},
+        {"name": "David J. Tangipa", "role": "Member"},
+        {"name": "Greg Wallis", "role": "Member"},
+        {"name": "Christopher M. Ward", "role": "Member"},
+        {"name": "Lori D. Wilson", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Christian Griffith",
+        "email": "Christian.Griffith@asm.ca.gov"
+      }
+    },
+    {
+      "name": "Budget Subcommittee No. 5 on State Administration",
+      "chamber": "Assembly",
+      "type": "Subcommittee",
+      "members": [
+        {"name": "Sharon Quirk-Silva", "role": "Chair"},
+        {"name": "Matt Haney", "role": "Member"},
+        {"name": "Liz Ortega", "role": "Member"},
+        {"name": "Greg Wallis", "role": "Member"},
+        {"name": "Christopher M. Ward", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Timothy Griffiths",
+        "email": "timothy.griffiths@sen.ca.gov"
+      }
+    },
+    {
+      "name": "Business and Professions",
+      "chamber": "Assembly",
+      "type": "Standing",
+      "members": [
+        {"name": "Marc Berman", "role": "Chair"},
+        {"name": "Heath Flora", "role": "Vice Chair"},
+        {"name": "Patrick J. Ahrens", "role": "Member"},
+        {"name": "Juan Alanis", "role": "Member"},
+        {"name": "Jasmeet Bains", "role": "Member"},
+        {"name": "Rebecca Bauer-Kahan", "role": "Member"},
+        {"name": "Jessica Caloza", "role": "Member"},
+        {"name": "Phillip Chen", "role": "Member"},
+        {"name": "Sade Elhawary", "role": "Member"},
+        {"name": "Heather Hadwick", "role": "Member"},
+        {"name": "Matt Haney", "role": "Member"},
+        {"name": "Jacqui Irwin", "role": "Member"},
+        {"name": "Corey A. Jackson", "role": "Member"},
+        {"name": "Maggy Krell", "role": "Member"},
+        {"name": "Josh Lowenthal", "role": "Member"},
+        {"name": "Alexandra Macedo", "role": "Member"},
+        {"name": "Stephanie Nguyen", "role": "Member"},
+        {"name": "Gail Pellerin", "role": "Member"}
+      ]
+    },
+    {
+      "name": "Education",
+      "chamber": "Assembly",
+      "type": "Standing",
+      "members": [
+        {"name": "Al Muratsuchi", "role": "Chair"},
+        {"name": "Josh Hoover", "role": "Vice Chair"},
+        {"name": "Dawn Addis", "role": "Member"},
+        {"name": "David A. Alvarez", "role": "Member"},
+        {"name": "Mia Bonta", "role": "Member"},
+        {"name": "Leticia Castillo", "role": "Member"},
+        {"name": "Robert Garcia", "role": "Member"},
+        {"name": "Josh Lowenthal", "role": "Member"},
+        {"name": "Darshana R. Patel", "role": "Member"}
+      ]
+    },
+    {
+      "name": "Governmental Organization",
+      "chamber": "Assembly",
+      "type": "Standing",
+      "members": [
+        {"name": "Blanca Rubio", "role": "Chair"},
+        {"name": "Laurie Davies", "role": "Vice Chair"},
+        {"name": "David Alvarez", "role": "Member"},
+        {"name": "Marc Berman", "role": "Member"},
+        {"name": "Isaac G. Bryan", "role": "Member"},
+        {"name": "Juan Carrillo", "role": "Member"},
+        {"name": "Diane B. Dixon", "role": "Member"},
+        {"name": "Mike Fong", "role": "Member"},
+        {"name": "Jesse Gabriel", "role": "Member"},
+        {"name": "Mike Gipson", "role": "Member"},
+        {"name": "Alexandra Macedo", "role": "Member"},
+        {"name": "Tina McKinnor", "role": "Member"},
+        {"name": "Stephanie Nguyen", "role": "Member"},
+        {"name": "Blanca Pacheco", "role": "Member"},
+        {"name": "James C. Ramos", "role": "Member"},
+        {"name": "Michelle Rodriguez", "role": "Member"},
+        {"name": "Kate Sanchez", "role": "Member"},
+        {"name": "Jose Luis Solache", "role": "Member"},
+        {"name": "Esmeralda Soria", "role": "Member"},
+        {"name": "Tri Ta", "role": "Member"},
+        {"name": "Avelino Valencia", "role": "Member"},
+        {"name": "Greg Wallis", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Eric Johnson",
+        "email": "eric.johnson@asm.ca.gov"
+      }
+    },
+    {
+      "name": "Higher Education",
+      "chamber": "Assembly",
+      "type": "Standing",
+      "members": [
+        {"name": "Mike Fong", "role": "Chair"},
+        {"name": "Carl DeMaio", "role": "Vice Chair"},
+        {"name": "Tasha Boerner", "role": "Member"},
+        {"name": "Jeff Gonzalez", "role": "Member"},
+        {"name": "Corey A. Jackson", "role": "Member"},
+        {"name": "Al Muratsuchi", "role": "Member"},
+        {"name": "Darshana R. Patel", "role": "Member"},
+        {"name": "Celeste Rodriguez", "role": "Member"},
+        {"name": "LaShae Sharp-Collins", "role": "Member"},
+        {"name": "David J. Tangipa", "role": "Member"}
+      ]
+    },
+    {
+      "name": "Insurance",
+      "chamber": "Assembly",
+      "type": "Standing",
+      "members": [
+        {"name": "Lisa Calderon", "role": "Chair"},
+        {"name": "Greg Wallis", "role": "Vice Chair"},
+        {"name": "Dawn Addis", "role": "Member"},
+        {"name": "David Alvarez", "role": "Member"},
+        {"name": "Marc Berman", "role": "Member"},
+        {"name": "Phillip Chen", "role": "Member"},
+        {"name": "Stan Ellis", "role": "Member"},
+        {"name": "Mike Gipson", "role": "Member"},
+        {"name": "Heather Hadwick", "role": "Member"},
+        {"name": "John Harabedian", "role": "Member"},
+        {"name": "Maggy Krell", "role": "Member"},
+        {"name": "Stephanie Nguyen", "role": "Member"},
+        {"name": "Liz Ortega", "role": "Member"},
+        {"name": "Cottie Petrie-Norris", "role": "Member"},
+        {"name": "Michelle Rodriguez", "role": "Member"},
+        {"name": "Avelino Valencia", "role": "Member"},
+        {"name": "Anamarie Ávila Farías", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Kathleen O'Malley",
+        "email": "kathleen.omalley@asm.ca.gov"
+      }
+    },
+    {
+      "name": "Judiciary",
+      "chamber": "Assembly",
+      "type": "Standing",
+      "members": [
+        {"name": "Ash Kalra", "role": "Chair"},
+        {"name": "Diane B. Dixon", "role": "Vice Chair"},
+        {"name": "Rebecca Bauer-Kahan", "role": "Member"},
+        {"name": "Isaac G. Bryan", "role": "Member"},
+        {"name": "Damon Connolly", "role": "Member"},
+        {"name": "John Harabedian", "role": "Member"},
+        {"name": "Alexandra Macedo", "role": "Member"},
+        {"name": "Blanca Pacheco", "role": "Member"},
+        {"name": "Diane Papan", "role": "Member"},
+        {"name": "Kate Sanchez", "role": "Member"},
+        {"name": "Catherine Stefani", "role": "Member"},
+        {"name": "Rick Chavez Zbur", "role": "Member"}
+      ]
+    },
+    {
+      "name": "Local Government",
+      "chamber": "Assembly",
+      "type": "Standing",
+      "members": [
+        {"name": "Juan Carrillo", "role": "Chair"},
+        {"name": "Tri Ta", "role": "Vice Chair"},
+        {"name": "Josh Hoover", "role": "Member"},
+        {"name": "Blanca Pacheco", "role": "Member"},
+        {"name": "James C. Ramos", "role": "Member"},
+        {"name": "Rhodesia Ransom", "role": "Member"},
+        {"name": "Blanca Rubio", "role": "Member"},
+        {"name": "Catherine Stefani", "role": "Member"},
+        {"name": "Christopher M. Ward", "role": "Member"},
+        {"name": "Lori D. Wilson", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Angela Mapp",
+        "email": "angela.mapp@asm.ca.gov"
+      }
+    },
+    {
+      "name": "Military and Veterans Affairs",
+      "chamber": "Assembly",
+      "type": "Standing",
+      "members": [
+        {"name": "Pilar Schiavo", "role": "Chair"},
+        {"name": "Jeff Gonzalez", "role": "Vice Chair"},
+        {"name": "Juan Carrillo", "role": "Member"},
+        {"name": "Laurie Davies", "role": "Member"},
+        {"name": "Michelle Rodriguez", "role": "Member"},
+        {"name": "LaShae Sharp-Collins", "role": "Member"},
+        {"name": "Avelino Valencia", "role": "Member"},
+        {"name": "Anamarie Ávila Farías", "role": "Member"}
+      ]
+    },
+    {
+      "name": "Public Safety",
+      "chamber": "Assembly",
+      "type": "Standing",
+      "members": [
+        {"name": "Nick Schultz", "role": "Chair"},
+        {"name": "Juan Alanis", "role": "Vice Chair"},
+        {"name": "Mark González", "role": "Member"},
+        {"name": "Matt Haney", "role": "Member"},
+        {"name": "John Harabedian", "role": "Member"},
+        {"name": "Tom Lackey", "role": "Member"},
+        {"name": "Stephanie Nguyen", "role": "Member"},
+        {"name": "James C. Ramos", "role": "Member"},
+        {"name": "LaShae Sharp-Collins", "role": "Member"}
+      ]
+    },
+    {
+      "name": "Revenue and Taxation",
+      "chamber": "Assembly",
+      "type": "Standing",
+      "members": [
+        {"name": "Mike Gipson", "role": "Chair"},
+        {"name": "Tri Ta", "role": "Vice Chair"},
+        {"name": "Jasmeet Bains", "role": "Member"},
+        {"name": "Juan Carrillo", "role": "Member"},
+        {"name": "Carl DeMaio", "role": "Member"},
+        {"name": "Tina McKinnor", "role": "Member"},
+        {"name": "Sharon Quirk-Silva", "role": "Member"}
+      ]
+    },
+    {
+      "name": "Rules",
+      "chamber": "Assembly",
+      "type": "Standing",
+      "members": [
+        {"name": "Blanca Pacheco", "role": "Chair"},
+        {"name": "Tom Lackey", "role": "Vice Chair"},
+        {"name": "Patrick J. Ahrens", "role": "Member"},
+        {"name": "Mark González", "role": "Member"},
+        {"name": "Jacqui Irwin", "role": "Member"},
+        {"name": "Maggy Krell", "role": "Member"},
+        {"name": "Darshana R. Patel", "role": "Member"},
+        {"name": "Michelle Rodriguez", "role": "Member"},
+        {"name": "Kate Sanchez", "role": "Member"},
+        {"name": "Rick Chavez Zbur", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Lia Lopez",
+        "email": "lia.lopez@asm.ca.gov"
+      }
+    },
+    {
+      "name": "Transportation",
+      "chamber": "Assembly",
+      "type": "Standing",
+      "members": [
+        {"name": "Lori D. Wilson", "role": "Chair"},
+        {"name": "Laurie Davies", "role": "Vice Chair"},
+        {"name": "Cecilia Aguiar-Curry", "role": "Member"},
+        {"name": "Patrick J. Ahrens", "role": "Member"},
+        {"name": "Juan Carrillo", "role": "Member"},
+        {"name": "John Harabedian", "role": "Member"},
+        {"name": "Gregg Hart", "role": "Member"},
+        {"name": "Josh Hoover", "role": "Member"},
+        {"name": "Corey A. Jackson", "role": "Member"},
+        {"name": "Tom Lackey", "role": "Member"},
+        {"name": "Josh Lowenthal", "role": "Member"},
+        {"name": "Alexandra Macedo", "role": "Member"},
+        {"name": "Diane Papan", "role": "Member"},
+        {"name": "Rhodesia Ransom", "role": "Member"},
+        {"name": "Chris Rogers", "role": "Member"},
+        {"name": "Christopher M. Ward", "role": "Member"}
+      ]
+    },
+    {
+      "name": "Appropriations",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Anna M. Caballero", "role": "Chair"},
+        {"name": "Kelly Seyarto", "role": "Vice Chair"},
+        {"name": "Christopher Cabaldon", "role": "Member"},
+        {"name": "Megan Dahle", "role": "Member"},
+        {"name": "Timothy Grayson", "role": "Member"},
+        {"name": "Laura Richardson", "role": "Member"},
+        {"name": "Aisha Wahab", "role": "Member"}
+      ]
+    },
+    {
+      "name": "Banking and Financial Institutions",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Timothy Grayson", "role": "Chair"},
+        {"name": "Roger W. Niello", "role": "Vice Chair"},
+        {"name": "Sabrina Cervantes", "role": "Member"},
+        {"name": "Melissa Hurtado", "role": "Member"},
+        {"name": "Monique Limón", "role": "Member"},
+        {"name": "Laura Richardson", "role": "Member"},
+        {"name": "Tony Strickland", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Michael Burdick",
+        "email": "michael.burdick@sen.ca.gov"
+      }
+    },
+    {
+      "name": "Budget and Fiscal Review",
+      "chamber": "Senate",
+      "type": "Budget",
+      "members": [
+        {"name": "Scott D. Wiener", "role": "Chair"},
+        {"name": "Roger W. Niello", "role": "Vice Chair"},
+        {"name": "Benjamin Allen", "role": "Member"},
+        {"name": "Catherine Blakespear", "role": "Member"},
+        {"name": "Christopher Cabaldon", "role": "Member"},
+        {"name": "Steven Choi", "role": "Member"},
+        {"name": "Maria Elena Durazo", "role": "Member"},
+        {"name": "Shannon Grove", "role": "Member"},
+        {"name": "John Laird", "role": "Member"},
+        {"name": "Jerry McNerney", "role": "Member"},
+        {"name": "Caroline Menjivar", "role": "Member"},
+        {"name": "Rosilicie Ochoa Bogh", "role": "Member"},
+        {"name": "Sasha Renée Pérez", "role": "Member"},
+        {"name": "Laura Richardson", "role": "Member"},
+        {"name": "Kelly Seyarto", "role": "Member"},
+        {"name": "Lola Smallwood-Cuevas", "role": "Member"},
+        {"name": "Aisha Wahab", "role": "Member"},
+        {"name": "Akilah Weber", "role": "Member"}
+      ]
+    },
+    {
+      "name": "Budget Subcommittee No. 4 on State Administration and General Government",
+      "chamber": "Senate",
+      "type": "Subcommittee",
+      "members": [
+        {"name": "Christopher Cabaldon", "role": "Chair"},
+        {"name": "Roger W. Niello", "role": "Vice Chair"},
+        {"name": "Lola Smallwood-Cuevas", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Diego Emilio Lopez",
+        "email": "diego.lopez@sen.ca.gov"
+      }
+    },
+    {
+      "name": "Business, Professions and Economic Development",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Angelique Ashby", "role": "Chair"},
+        {"name": "Steven Choi", "role": "Vice Chair"},
+        {"name": "Bob Archuleta", "role": "Member"},
+        {"name": "Jesse Arreguín", "role": "Member"},
+        {"name": "Timothy Grayson", "role": "Member"},
+        {"name": "Caroline Menjivar", "role": "Member"},
+        {"name": "Roger W. Niello", "role": "Member"},
+        {"name": "Lola Smallwood-Cuevas", "role": "Member"},
+        {"name": "Tony Strickland", "role": "Member"},
+        {"name": "Thomas J. Umberg", "role": "Member"},
+        {"name": "Akilah Weber", "role": "Member"}
+      ]
+    },
+    {
+      "name": "Education",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Sasha Renée Pérez", "role": "Chair"},
+        {"name": "Rosilicie Ochoa Bogh", "role": "Vice Chair"},
+        {"name": "Christopher Cabaldon", "role": "Member"},
+        {"name": "Steven Choi", "role": "Member"},
+        {"name": "Dave Cortese", "role": "Member"},
+        {"name": "Lena Gonzalez", "role": "Member"},
+        {"name": "Eloise Gómez Reyes", "role": "Member"}
+      ]
+    },
+    {
+      "name": "Elections and Constitutional Amendments",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Sabrina Cervantes", "role": "Chair"},
+        {"name": "Steven Choi", "role": "Vice Chair"},
+        {"name": "Benjamin Allen", "role": "Member"},
+        {"name": "Monique Limón", "role": "Member"},
+        {"name": "Thomas J. Umberg", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Scott B. Matsumoto",
+        "email": "scott.matsumoto@sen.ca.gov"
+      }
+    },
+    {
+      "name": "Energy, Utilities and Communications",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Josh Becker", "role": "Chair"},
+        {"name": "Rosilicie Ochoa Bogh", "role": "Vice Chair"},
+        {"name": "Benjamin Allen", "role": "Member"},
+        {"name": "Bob Archuleta", "role": "Member"},
+        {"name": "Jesse Arreguín", "role": "Member"},
+        {"name": "Angelique Ashby", "role": "Member"},
+        {"name": "Anna M. Caballero", "role": "Member"},
+        {"name": "Megan Dahle", "role": "Member"},
+        {"name": "Lena Gonzalez", "role": "Member"},
+        {"name": "Shannon Grove", "role": "Member"},
+        {"name": "Melissa Hurtado", "role": "Member"},
+        {"name": "Monique Limón", "role": "Member"},
+        {"name": "Jerry McNerney", "role": "Member"},
+        {"name": "Susan Rubio", "role": "Member"},
+        {"name": "Henry Stern", "role": "Member"},
+        {"name": "Tony Strickland", "role": "Member"},
+        {"name": "Aisha Wahab", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Nidia Bautista",
+        "email": "nidia.bautista@sen.ca.gov"
+      }
+    },
+    {
+      "name": "Environmental Quality",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Catherine Blakespear", "role": "Chair"},
+        {"name": "Suzette Martinez Valladares", "role": "Vice Chair"},
+        {"name": "Megan Dahle", "role": "Member"},
+        {"name": "Lena Gonzalez", "role": "Member"},
+        {"name": "Melissa Hurtado", "role": "Member"},
+        {"name": "Caroline Menjivar", "role": "Member"},
+        {"name": "Sasha Renée Pérez", "role": "Member"},
+        {"name": "Eloise Gómez Reyes", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Brynn Cook",
+        "email": "brynn.cook@sen.ca.gov"
+      }
+    },
+    {
+      "name": "Governmental Organization",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Stephen Padilla", "role": "Chair"},
+        {"name": "Suzette Martinez Valladares", "role": "Vice Chair"},
+        {"name": "Bob Archuleta", "role": "Member"},
+        {"name": "Angelique Ashby", "role": "Member"},
+        {"name": "Catherine Blakespear", "role": "Member"},
+        {"name": "Sabrina Cervantes", "role": "Member"},
+        {"name": "Megan Dahle", "role": "Member"},
+        {"name": "Melissa Hurtado", "role": "Member"},
+        {"name": "Brian Jones", "role": "Member"},
+        {"name": "Rosilicie Ochoa Bogh", "role": "Member"},
+        {"name": "Laura Richardson", "role": "Member"},
+        {"name": "Susan Rubio", "role": "Member"},
+        {"name": "Lola Smallwood-Cuevas", "role": "Member"},
+        {"name": "Aisha Wahab", "role": "Member"},
+        {"name": "Akilah Weber Pierson", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Felipe Lopez",
+        "email": "Felipe.Lopez@sen.ca.gov"
+      }
+    },
+    {
+      "name": "Housing",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Aisha Wahab", "role": "Chair"},
+        {"name": "Kelly Seyarto", "role": "Vice Chair"},
+        {"name": "Jesse Arreguín", "role": "Member"},
+        {"name": "Christopher Cabaldon", "role": "Member"},
+        {"name": "Anna M. Caballero", "role": "Member"},
+        {"name": "Dave Cortese", "role": "Member"},
+        {"name": "Maria Elena Durazo", "role": "Member"},
+        {"name": "Timothy Grayson", "role": "Member"},
+        {"name": "Rosilicie Ochoa Bogh", "role": "Member"},
+        {"name": "Stephen Padilla", "role": "Member"},
+        {"name": "Eloise Gómez Reyes", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Alison Hughes",
+        "email": "alison.hughes@sen.ca.gov"
+      }
+    },
+    {
+      "name": "Insurance",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Susan Rubio", "role": "Chair"},
+        {"name": "Roger W. Niello", "role": "Vice Chair"},
+        {"name": "Josh Becker", "role": "Member"},
+        {"name": "Anna M. Caballero", "role": "Member"},
+        {"name": "Brian Jones", "role": "Member"},
+        {"name": "Stephen Padilla", "role": "Member"},
+        {"name": "Aisha Wahab", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Brandon Seto",
+        "email": "brandon.seto@sen.ca.gov"
+      }
+    },
+    {
+      "name": "Judiciary",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Thomas J. Umberg", "role": "Chair"},
+        {"name": "Roger W. Niello", "role": "Vice Chair"},
+        {"name": "Benjamin Allen", "role": "Member"},
+        {"name": "Angelique Ashby", "role": "Member"},
+        {"name": "Anna M. Caballero", "role": "Member"},
+        {"name": "Maria Elena Durazo", "role": "Member"},
+        {"name": "John Laird", "role": "Member"},
+        {"name": "Eloise Gómez Reyes", "role": "Member"},
+        {"name": "Henry Stern", "role": "Member"},
+        {"name": "Suzette Martinez Valladares", "role": "Member"},
+        {"name": "Aisha Wahab", "role": "Member"},
+        {"name": "Akilah Weber", "role": "Member"},
+        {"name": "Scott D. Wiener", "role": "Member"}
+      ]
+    },
+    {
+      "name": "Labor, Public Employment and Retirement",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Lola Smallwood-Cuevas", "role": "Chair"},
+        {"name": "Tony Strickland", "role": "Vice Chair"},
+        {"name": "Dave Cortese", "role": "Member"},
+        {"name": "Maria Elena Durazo", "role": "Member"},
+        {"name": "John Laird", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Alma Perez",
+        "email": "Alma.Perez@sen.ca.gov"
+      }
+    },
+    {
+      "name": "Local Government",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Maria Elena Durazo", "role": "Chair"},
+        {"name": "Steven Choi", "role": "Vice Chair"},
+        {"name": "Jesse Arreguín", "role": "Member"},
+        {"name": "Christopher Cabaldon", "role": "Member"},
+        {"name": "John Laird", "role": "Member"},
+        {"name": "Kelly Seyarto", "role": "Member"},
+        {"name": "Scott D. Wiener", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Anton Favorini-Csorba",
+        "email": "anton.favorini-csorba@sen.ca.gov"
+      }
+    },
+    {
+      "name": "Military and Veterans Affairs",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Bob Archuleta", "role": "Chair"},
+        {"name": "Shannon Grove", "role": "Vice Chair"},
+        {"name": "Jerry McNerney", "role": "Member"},
+        {"name": "Caroline Menjivar", "role": "Member"},
+        {"name": "Thomas J. Umberg", "role": "Member"}
+      ]
+    },
+    {
+      "name": "Natural Resources and Water",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Monique Limón", "role": "Chair"},
+        {"name": "Kelly Seyarto", "role": "Vice Chair"},
+        {"name": "Benjamin Allen", "role": "Member"},
+        {"name": "Shannon Grove", "role": "Member"},
+        {"name": "Melissa Hurtado", "role": "Member"},
+        {"name": "John Laird", "role": "Member"},
+        {"name": "Henry Stern", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Katharine Moore",
+        "email": "katharine.moore@sen.ca.gov"
+      }
+    },
+    {
+      "name": "Public Safety",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Jesse Arreguín", "role": "Chair"},
+        {"name": "Kelly Seyarto", "role": "Vice Chair"},
+        {"name": "Anna M. Caballero", "role": "Member"},
+        {"name": "Lena Gonzalez", "role": "Member"},
+        {"name": "Sasha Renée Pérez", "role": "Member"},
+        {"name": "Scott D. Wiener", "role": "Member"}
+      ]
+    },
+    {
+      "name": "Revenue and Taxation",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Jerry McNerney", "role": "Chair"},
+        {"name": "Suzette Martinez Valladares", "role": "Vice Chair"},
+        {"name": "Angelique Ashby", "role": "Member"},
+        {"name": "Timothy Grayson", "role": "Member"},
+        {"name": "Thomas J. Umberg", "role": "Member"}
+      ]
+    },
+    {
+      "name": "Rules",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Mike McGuire", "role": "Chair"},
+        {"name": "Shannon Grove", "role": "Vice Chair"},
+        {"name": "Brian Jones", "role": "Member"},
+        {"name": "John Laird", "role": "Member"},
+        {"name": "Eloise Gómez Reyes", "role": "Member"}
+      ],
+      "consultant": {
+        "name": "Erika Contreras",
+        "email": "erika.contreras@sen.ca.gov"
+      }
+    },
+    {
+      "name": "Transportation",
+      "chamber": "Senate",
+      "type": "Standing",
+      "members": [
+        {"name": "Dave Cortese", "role": "Chair"},
+        {"name": "Tony Strickland", "role": "Vice Chair"},
+        {"name": "Bob Archuleta", "role": "Member"},
+        {"name": "Jesse Arreguín", "role": "Member"},
+        {"name": "Catherine Blakespear", "role": "Member"},
+        {"name": "Sabrina Cervantes", "role": "Member"},
+        {"name": "Megan Dahle", "role": "Member"},
+        {"name": "Lena Gonzalez", "role": "Member"},
+        {"name": "Timothy Grayson", "role": "Member"},
+        {"name": "Monique Limón", "role": "Member"},
+        {"name": "Caroline Menjivar", "role": "Member"},
+        {"name": "Laura Richardson", "role": "Member"},
+        {"name": "Kelly Seyarto", "role": "Member"},
+        {"name": "Thomas J. Umberg", "role": "Member"},
+        {"name": "Suzette Martinez Valladares", "role": "Member"}
+      ]
+    }
+  ]
+}
