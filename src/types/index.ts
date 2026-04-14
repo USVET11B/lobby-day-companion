@@ -69,3 +69,15 @@ export interface LobbySession {
   organization: string | null;
   lobby_date: string;
 }
+
+export interface HearingRoom {
+  id: string;
+  room: string;
+  chamber: "Assembly" | "Senate";
+  building: string;
+  building_short: string;
+  floor: number;
+  description: string;
+}
+
+export type Quadrant = "NW" | "NE" | "SW" | "SE" | "center" | "unknown";

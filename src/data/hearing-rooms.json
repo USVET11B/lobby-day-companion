@@ -1,0 +1,103 @@
+{
+  "rooms": [
+    {
+      "id": "sc-1100",
+      "room": "1100",
+      "chamber": "Assembly",
+      "building": "1021 O St.",
+      "building_short": "Swing",
+      "floor": 1,
+      "description": "Assembly hearing room — west side, left when you enter through security"
+    },
+    {
+      "id": "sc-1200",
+      "room": "1200",
+      "chamber": "Senate",
+      "building": "1021 O St.",
+      "building_short": "Swing",
+      "floor": 1,
+      "description": "Senate hearing room — right when you walk in through security"
+    },
+    {
+      "id": "sc-2100",
+      "room": "2100",
+      "chamber": "Senate",
+      "building": "1021 O St.",
+      "building_short": "Swing",
+      "floor": 2,
+      "description": "Senate hearing room — second floor. Formal press conference room is on the same side."
+    },
+    {
+      "id": "sc-2200",
+      "room": "2200",
+      "chamber": "Senate",
+      "building": "1021 O St.",
+      "building_short": "Swing",
+      "floor": 2,
+      "description": "Senate hearing room — second floor"
+    },
+    {
+      "id": "cap-112",
+      "room": "112",
+      "chamber": "Senate",
+      "building": "Historic State Capitol, 1315 10th St.",
+      "building_short": "Capitol",
+      "floor": 1,
+      "description": "Senate hearing room in the historic State Capitol — first floor"
+    },
+    {
+      "id": "cap-113",
+      "room": "113",
+      "chamber": "Senate",
+      "building": "Historic State Capitol, 1315 10th St.",
+      "building_short": "Capitol",
+      "floor": 1,
+      "description": "Senate hearing room in the historic State Capitol — first floor"
+    },
+    {
+      "id": "cap-126",
+      "room": "126",
+      "chamber": "Assembly",
+      "building": "Historic State Capitol, 1315 10th St.",
+      "building_short": "Capitol",
+      "floor": 1,
+      "description": "Assembly hearing room in the historic State Capitol — first floor, opposite side of rotunda from Senate rooms"
+    },
+    {
+      "id": "cap-127",
+      "room": "127",
+      "chamber": "Assembly",
+      "building": "Historic State Capitol, 1315 10th St.",
+      "building_short": "Capitol",
+      "floor": 1,
+      "description": "Assembly hearing room in the historic State Capitol — first floor"
+    },
+    {
+      "id": "cap-437",
+      "room": "437",
+      "chamber": "Assembly",
+      "building": "Historic State Capitol, 1315 10th St.",
+      "building_short": "Capitol",
+      "floor": 4,
+      "description": "Assembly hearing room — fourth floor, north side (L St. side)"
+    },
+    {
+      "id": "cap-442",
+      "room": "442",
+      "chamber": "Assembly",
+      "building": "Historic State Capitol, 1315 10th St.",
+      "building_short": "Capitol",
+      "floor": 4,
+      "description": "Assembly hearing room — fourth floor, north side (L St. side)"
+    },
+    {
+      "id": "cap-447",
+      "room": "447",
+      "chamber": "Assembly",
+      "building": "Historic State Capitol, 1315 10th St.",
+      "building_short": "Capitol",
+      "floor": 4,
+      "description": "Assembly hearing room — fourth floor, north side (L St. side)"
+    }
+  ]
+}

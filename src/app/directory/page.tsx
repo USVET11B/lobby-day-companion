@@ -10,6 +10,7 @@ import {
   type SortMode,
 } from "@/lib/data";
 import SortFloorBar from "@/components/SortFloorBar";
+import OfficeLocation from "@/components/OfficeLocation";
 import type { Legislator } from "@/types";
 
 type ChamberFilter = "All" | "Senate" | "Assembly";
@@ -222,11 +223,7 @@ function LegislatorCard({
 
       {expanded && (
         <div className="px-4 pb-4 border-t border-ca-dark/5 pt-3 space-y-3">
-          {leg.capitol_building && (
-            <div className="text-xs text-ca-dark/60">
-              <span className="font-semibold text-ca-dark/80">Location:</span> {leg.capitol_building}
-            </div>
-          )}
+          <OfficeLocation room={leg.capitol_room} building={leg.capitol_building} />
 
           {leg.veteran_relevance_notes && (
             <div className="text-xs bg-ca-gold/10 border border-ca-gold/30 rounded-lg px-3 py-2 text-ca-dark/80">

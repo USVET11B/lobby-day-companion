@@ -3,10 +3,13 @@ import type {
   Committee,
   CommitteesData,
   ClientOrg,
+  HearingRoom,
+  Quadrant,
 } from "@/types";
 
 import legislatorsJson from "@/data/legislators.json";
 import committeesJson from "@/data/committees.json";
+import hearingRoomsJson from "@/data/hearing-rooms.json";
 
 export function getLegislators(): Legislator[] {
   return (legislatorsJson as Legislator[])
@@ -43,6 +46,74 @@ export function getBuildingShort(address: string | null | undefined): string {
   if (address.toLowerCase().includes("state capitol") || address.includes("1315"))
     return "Capitol";
   return address;
+}
+
+export function getHearingRooms(): HearingRoom[] {
+  return (hearingRoomsJson as { rooms: HearingRoom[] }).rooms;
+}
+
+/**
+ * For Swing Space rooms, derive the floor quadrant from the room number.
+ * Layout (same on every floor, per the building map):
+ *   Top-left (10th St/inside): X220-X350    [NW]
+ *   Top-right (11th St/inside): X510-X640   [NE]
+ *   Bottom-left (10th/O St corner): X100-X240 [SW]
+ *   Bottom-right (11th/O St corner): X620-X740 [SE]
+ *   Center: elevators, lobby, restrooms
+ */
+export function getSwingQuadrant(room: string | null | undefined): Quadrant {
+  if (!room) return "unknown";
+  const digits = room.replace(/\D/g, "");
+  if (digits.length < 4) return "unknown";
+  const sub = parseInt(digits.slice(1), 10); // ignore floor digit
+  if (Number.isNaN(sub)) return "unknown";
+  if (sub >= 100 && sub <= 199) return "SW";
+  if (sub >= 200 && sub <= 240) return "SW";
+  if (sub >= 241 && sub <= 350) return "NW";
+  if (sub >= 510 && sub <= 620) return "NE";
+  if (sub >= 621 && sub <= 740) return "SE";
+  return "unknown";
+}
+
+/**
+ * Per the orientation video: which chambers occupy which floors of the
+ * Swing Space. Used to label the floor map.
+ */
+export function getSwingFloorOccupancy(
+  floor: number
+): {
+  label: string;
+  detail: string | null;
+} {
+  switch (floor) {
+    case 3:
+      return {
+        label: "Committees & cafeteria",
+        detail:
+          "Senate committee offices, Dept. of Finance, Legislative Counsel, small cafeteria (no seating)",
+      };
+    case 4:
+    case 5:
+      return { label: "Assembly only", detail: null };
+    case 6:
+      return {
+        label: "Split floor",
+        detail: "Senate offices east side · Assembly offices west side",
+      };
+    case 7:
+      return { label: "Senate only", detail: null };
+    case 8:
+      return {
+        label: "Leadership · split",
+        detail:
+          "Most leadership offices · Senate east side · Assembly west side · Lt. Governor also here",
+      };
+    case 9:
+    case 10:
+      return { label: "Governor's office", detail: null };
+    default:
+      return { label: `Floor ${floor}`, detail: null };
+  }
 }
 
 export function getAvailableFloors(): number[] {

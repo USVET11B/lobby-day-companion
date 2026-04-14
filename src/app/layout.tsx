@@ -58,6 +58,12 @@ export default function RootLayout({
               >
                 Checklist
               </Link>
+              <Link
+                href="/hearings"
+                className="px-2 sm:px-3 py-1.5 rounded-lg hover:bg-white/10 transition-colors"
+              >
+                Hearings
+              </Link>
             </div>
           </div>
         </nav>
