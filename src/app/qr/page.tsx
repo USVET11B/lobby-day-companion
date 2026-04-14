@@ -3,7 +3,7 @@
 import { getClientOrgs } from "@/lib/data";
 import { QRCodeSVG } from "qrcode.react";
 
-const BASE_URL = "https://lobby.downrangerelations.com";
+const BASE_URL = "https://lobby-day-companion.vercel.app";
 
 export default function QRPage() {
   const orgs = getClientOrgs();

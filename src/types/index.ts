@@ -1,39 +1,52 @@
 export interface Legislator {
   id: string;
   name: string;
+  first_name: string | null;
+  last_name: string | null;
   chamber: "Senate" | "Assembly";
   district: number;
   party: "D" | "R";
-  email: string | null;
-  phone: string | null;
-  capitol_office: string | null;
-  district_office: string | null;
-  is_veteran: boolean;
-  veteran_branch: string | null;
-  leadership_position: string | null;
-  committees?: CommitteeAssignment[];
+  capitol_room: string | null;
+  capitol_building: string | null;
+  capitol_phone: string | null;
+  capitol_email: string | null;
+  district_office: {
+    street: string | null;
+    city: string | null;
+    state: string | null;
+    zip: string | null;
+    phone: string | null;
+  };
+  scheduling_portal_url: string | null;
+  scheduler_emails: string[];
+  veteran_relevance_score: number | null;
+  veteran_relevance_notes: string | null;
+  has_veteran_legislation: boolean;
+  has_military_base: boolean;
+  has_va_facility: boolean;
+  bio_notes: string | null;
+  committees: CommitteeAssignment[];
 }
 
 export interface CommitteeAssignment {
-  committee_name: string;
+  committee: string;
   chamber: string;
   role: string;
 }
 
 export interface Committee {
+  id: string;
   name: string;
   chamber: "Senate" | "Assembly";
-  type: "Standing" | "Budget" | "Subcommittee";
-  members: CommitteeMember[];
-  consultant?: {
-    name: string;
-    email: string;
-  };
+  committee_type: string | null;
+  phone: string | null;
+  secretary_name: string | null;
+  chair_legislator_id: string | null;
+  vice_chair_legislator_id: string | null;
 }
 
-export interface CommitteeMember {
-  name: string;
-  role: "Chair" | "Vice Chair" | "Member";
+export interface CommitteesData {
+  committees: Committee[];
 }
 
 export interface VisitChecklist {
@@ -48,51 +61,11 @@ export interface ClientOrg {
   key: string;
   name: string;
   display_name: string;
-  description: string;
-  talking_points: string[];
-  key_bills: string[];
 }
 
-export interface LegislatorRaw {
-  name: string;
-  first_name: string;
-  last_name: string;
-  party: string;
-  role: string;
-  chamber: string;
-  district: number;
-  email: string;
-  phone: string;
-  capitol_phone: string;
-  district_phone: string;
-  committees: {
-    committee_name: string;
-    chamber: string;
-    role: string;
-  }[];
-}
-
-export interface LegislatorDB {
-  id: string;
-  name: string;
-  chamber: string;
-  district: number;
-  party: string;
-  email: string | null;
-  phone: string | null;
-  capitol_office: string | null;
-  district_office: string | null;
-  is_veteran: boolean;
-  veteran_branch: string | null;
-  leadership_position: string | null;
-}
-
-export interface CommitteesData {
-  metadata: {
-    source: string;
-    generated_at: string;
-    total_committees: number;
-    note: string;
-  };
-  committees: Committee[];
+export interface LobbySession {
+  session_token: string;
+  participant_name: string;
+  organization: string | null;
+  lobby_date: string;
 }

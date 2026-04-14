@@ -1,736 +1,1304 @@
 {
-  "metadata": {
-    "source": "Extracted from committee screenshots (Dec 2025)",
-    "generated_at": "2025-12-11",
-    "total_committees": 38,
-    "note": "Includes standing committees, budget committees, and subcommittees"
-  },
   "committees": [
     {
+      "id": "4e716fca-0cd2-4b7d-a1b1-9168ba622ffe",
       "name": "Aging and Long-Term Care",
       "chamber": "Assembly",
-      "type": "Standing",
-      "members": [
-        {"name": "Jasmeet Bains", "role": "Chair"},
-        {"name": "Stan Ellis", "role": "Vice Chair"},
-        {"name": "Joaquin Arambula", "role": "Member"},
-        {"name": "Jeff Gonzalez", "role": "Member"},
-        {"name": "Blanca Rubio", "role": "Member"},
-        {"name": "LaShae Sharp-Collins", "role": "Member"},
-        {"name": "Anamarie Ávila Farías", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Elizabeth Fuller",
-        "email": "Elizabeth.Fuller@asm.ca.gov"
-      }
+      "committee_type": "standing",
+      "phone": "(916) 319-3990",
+      "secretary_name": null,
+      "chair_legislator_id": "669f5bfd-a339-4157-9b07-bc7eed1893a6",
+      "vice_chair_legislator_id": "289d4f09-9d4c-41fd-81f7-24cc525115cc"
     },
     {
+      "id": "8cffb383-7551-4724-9024-8b177dfead59",
+      "name": "Agriculture",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-2084",
+      "secretary_name": "Nicole Willis",
+      "chair_legislator_id": "51f500a7-c644-40b0-8f34-5533f9a0544c",
+      "vice_chair_legislator_id": "74415f1a-a30a-4767-8e6a-45acd79ef848"
+    },
+    {
+      "id": "51535c80-772b-423f-9261-a2d47d62cf2c",
       "name": "Appropriations",
       "chamber": "Assembly",
-      "type": "Standing",
-      "members": [
-        {"name": "Buffy Wicks", "role": "Chair"},
-        {"name": "Kate Sanchez", "role": "Vice Chair"},
-        {"name": "Joaquin Arambula", "role": "Member"},
-        {"name": "Lisa Calderon", "role": "Member"},
-        {"name": "Jessica Caloza", "role": "Member"},
-        {"name": "Diane B. Dixon", "role": "Member"},
-        {"name": "Sade Elhawary", "role": "Member"},
-        {"name": "Mike Fong", "role": "Member"},
-        {"name": "Mark González", "role": "Member"},
-        {"name": "Gregg Hart", "role": "Member"},
-        {"name": "Blanca Pacheco", "role": "Member"},
-        {"name": "Gail Pellerin", "role": "Member"},
-        {"name": "Jose Luis Solache", "role": "Member"},
-        {"name": "Tri Ta", "role": "Member"},
-        {"name": "David J. Tangipa", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 319-2081",
+      "secretary_name": "Kala Tailor",
+      "chair_legislator_id": "d4af9949-6be7-4061-8466-b687a17665fb",
+      "vice_chair_legislator_id": "86c563c7-c0d2-4e4f-96c9-5f7eda0e3ff3"
     },
     {
+      "id": "34af7310-8619-4753-91fe-001c7bc7a75b",
+      "name": "Arts, Entertainment, Sports, and Tourism",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-3450",
+      "secretary_name": "Tabatha Vogelsang",
+      "chair_legislator_id": "d326723c-d281-416b-a34e-79d959dcad98",
+      "vice_chair_legislator_id": "fa30aa9d-78d3-4f52-9512-c6b183829717"
+    },
+    {
+      "id": "87715e3e-8255-4b40-8388-b6c21d206a92",
+      "name": "Banking and Finance",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-3081",
+      "secretary_name": "Gina Neves",
+      "chair_legislator_id": "79b40d3f-73bd-4604-85b5-3af829c206b8",
+      "vice_chair_legislator_id": "e5809be7-a050-4ca7-9721-49c25e7b4965"
+    },
+    {
+      "id": "cf11ab5b-9057-48be-a64f-e6ac5033e8ee",
       "name": "Budget",
       "chamber": "Assembly",
-      "type": "Budget",
-      "members": [
-        {"name": "Jesse Gabriel", "role": "Chair"},
-        {"name": "Heath Flora", "role": "Vice Chair"},
-        {"name": "Dawn Addis", "role": "Member"},
-        {"name": "Patrick J. Ahrens", "role": "Member"},
-        {"name": "Juan Alanis", "role": "Member"},
-        {"name": "David Alvarez", "role": "Member"},
-        {"name": "Steve Bennett", "role": "Member"},
-        {"name": "Mia Bonta", "role": "Member"},
-        {"name": "Damon Connolly", "role": "Member"},
-        {"name": "Mike Fong", "role": "Member"},
-        {"name": "Heather Hadwick", "role": "Member"},
-        {"name": "Matt Haney", "role": "Member"},
-        {"name": "Gregg Hart", "role": "Member"},
-        {"name": "Corey A. Jackson", "role": "Member"},
-        {"name": "Tom Lackey", "role": "Member"},
-        {"name": "Alex Lee", "role": "Member"},
-        {"name": "Al Muratsuchi", "role": "Member"},
-        {"name": "Liz Ortega", "role": "Member"},
-        {"name": "Darshana R. Patel", "role": "Member"},
-        {"name": "Joe Patterson", "role": "Member"},
-        {"name": "Cottie Petrie-Norris", "role": "Member"},
-        {"name": "Sharon Quirk-Silva", "role": "Member"},
-        {"name": "James C. Ramos", "role": "Member"},
-        {"name": "Chris Rogers", "role": "Member"},
-        {"name": "Pilar Schiavo", "role": "Member"},
-        {"name": "Nick Schultz", "role": "Member"},
-        {"name": "LaShae Sharp-Collins", "role": "Member"},
-        {"name": "Jose Luis Solache", "role": "Member"},
-        {"name": "David J. Tangipa", "role": "Member"},
-        {"name": "Greg Wallis", "role": "Member"},
-        {"name": "Christopher M. Ward", "role": "Member"},
-        {"name": "Lori D. Wilson", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Christian Griffith",
-        "email": "Christian.Griffith@asm.ca.gov"
-      }
+      "committee_type": "standing",
+      "phone": "(916) 319-2099",
+      "secretary_name": "Irene Villarruz, Marco Rodriguez, Alexa Cottrell",
+      "chair_legislator_id": "a5eb6751-29c3-47da-a2e9-0914ee76236c",
+      "vice_chair_legislator_id": "7c0fa4c3-c412-4e24-b657-9533d490de4a"
     },
     {
+      "id": "4c6b0f57-8c1e-401b-8aa1-1639142df677",
+      "name": "Budget Subcommittee No. 1 on Health",
+      "chamber": "Assembly",
+      "committee_type": "budget_sub",
+      "phone": "(916) 319-2099",
+      "secretary_name": null,
+      "chair_legislator_id": "f3086582-0503-4049-9d1f-ae0a1bf5abcc",
+      "vice_chair_legislator_id": "4c4ad9f2-a377-41cf-a60b-8632f17d59d9"
+    },
+    {
+      "id": "2e2bafde-596f-4357-a7a0-389e5ef8165b",
+      "name": "Budget Subcommittee No. 2 on Human Services",
+      "chamber": "Assembly",
+      "committee_type": "budget_sub",
+      "phone": "(916) 319-2099",
+      "secretary_name": null,
+      "chair_legislator_id": "6dc6775b-01af-44df-b0d5-c78ddb43f11d",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "cf1d44ab-991d-44c0-a1b6-b94e6f6d0877",
+      "name": "Budget Subcommittee No. 3 on Education Finance",
+      "chamber": "Assembly",
+      "committee_type": "budget_sub",
+      "phone": "(916) 319-2099",
+      "secretary_name": null,
+      "chair_legislator_id": "81cec637-eee2-4ff8-af75-67df3fb25c70",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "1163aec7-234f-4888-9807-2731df52e7ef",
+      "name": "Budget Subcommittee No. 4 on Climate, Crisis, Resources, Energy and Transportation",
+      "chamber": "Assembly",
+      "committee_type": "budget_sub",
+      "phone": "(916) 319-2099",
+      "secretary_name": null,
+      "chair_legislator_id": "d64a8362-3b30-47a9-a899-afcdbf7b406f",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "22ec205c-9209-468a-9a1a-b117f2043958",
       "name": "Budget Subcommittee No. 5 on State Administration",
       "chamber": "Assembly",
-      "type": "Subcommittee",
-      "members": [
-        {"name": "Sharon Quirk-Silva", "role": "Chair"},
-        {"name": "Matt Haney", "role": "Member"},
-        {"name": "Liz Ortega", "role": "Member"},
-        {"name": "Greg Wallis", "role": "Member"},
-        {"name": "Christopher M. Ward", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Timothy Griffiths",
-        "email": "timothy.griffiths@sen.ca.gov"
-      }
+      "committee_type": "budget_sub",
+      "phone": "(916) 319-2099",
+      "secretary_name": null,
+      "chair_legislator_id": "6aef866d-f1bb-466d-b616-af5c5468bc17",
+      "vice_chair_legislator_id": null
     },
     {
+      "id": "e8303e60-d8e8-45c5-9861-445f5c5de310",
+      "name": "Budget Subcommittee No. 6 on Public Safety",
+      "chamber": "Assembly",
+      "committee_type": "budget_sub",
+      "phone": "(916) 319-2099",
+      "secretary_name": null,
+      "chair_legislator_id": "b8a29b27-a6d5-42b8-bd3e-aada7f1d7a48",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "1f8915d5-75e3-4e0e-a3b1-79b6cfd45307",
+      "name": "Budget Subcommittee No. 7 on Budget Accountability and Oversight",
+      "chamber": "Assembly",
+      "committee_type": "budget_sub",
+      "phone": "(916) 319-2099",
+      "secretary_name": "Irene Villaruz",
+      "chair_legislator_id": "4f36c495-b32a-4d32-aba0-696c581475c5",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "5643df60-6478-48b8-afaa-e3441893f499",
       "name": "Business and Professions",
       "chamber": "Assembly",
-      "type": "Standing",
-      "members": [
-        {"name": "Marc Berman", "role": "Chair"},
-        {"name": "Heath Flora", "role": "Vice Chair"},
-        {"name": "Patrick J. Ahrens", "role": "Member"},
-        {"name": "Juan Alanis", "role": "Member"},
-        {"name": "Jasmeet Bains", "role": "Member"},
-        {"name": "Rebecca Bauer-Kahan", "role": "Member"},
-        {"name": "Jessica Caloza", "role": "Member"},
-        {"name": "Phillip Chen", "role": "Member"},
-        {"name": "Sade Elhawary", "role": "Member"},
-        {"name": "Heather Hadwick", "role": "Member"},
-        {"name": "Matt Haney", "role": "Member"},
-        {"name": "Jacqui Irwin", "role": "Member"},
-        {"name": "Corey A. Jackson", "role": "Member"},
-        {"name": "Maggy Krell", "role": "Member"},
-        {"name": "Josh Lowenthal", "role": "Member"},
-        {"name": "Alexandra Macedo", "role": "Member"},
-        {"name": "Stephanie Nguyen", "role": "Member"},
-        {"name": "Gail Pellerin", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 319-3301",
+      "secretary_name": "Christina Rocha",
+      "chair_legislator_id": "97f1868c-fcca-41e0-b0c4-66f0cfb0ffcc",
+      "vice_chair_legislator_id": "f5f6566d-4f18-4cc9-b6a5-48719a059c5b"
     },
     {
+      "id": "cc094654-9a90-428c-a72a-a2dbcd78791d",
+      "name": "Communications and Conveyance",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-2637",
+      "secretary_name": "Elizabeth Delgado",
+      "chair_legislator_id": "3f1a2c3f-367d-4925-82ac-8dea2f2af9f6",
+      "vice_chair_legislator_id": "86c563c7-c0d2-4e4f-96c9-5f7eda0e3ff3"
+    },
+    {
+      "id": "7e4509d3-abe8-40c3-a0ef-5518a477c26c",
+      "name": "Economic Development, Growth, and Household Impact",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-2090",
+      "secretary_name": "Ashley Bennett",
+      "chair_legislator_id": "c5fba316-8a45-46ab-be70-8da7d75f00cb",
+      "vice_chair_legislator_id": "f95c3e44-1d70-4fd9-9f7f-af8d72448ae1"
+    },
+    {
+      "id": "d7ac89b9-59cf-460a-acc8-4aa82b4a4d7b",
       "name": "Education",
       "chamber": "Assembly",
-      "type": "Standing",
-      "members": [
-        {"name": "Al Muratsuchi", "role": "Chair"},
-        {"name": "Josh Hoover", "role": "Vice Chair"},
-        {"name": "Dawn Addis", "role": "Member"},
-        {"name": "David A. Alvarez", "role": "Member"},
-        {"name": "Mia Bonta", "role": "Member"},
-        {"name": "Leticia Castillo", "role": "Member"},
-        {"name": "Robert Garcia", "role": "Member"},
-        {"name": "Josh Lowenthal", "role": "Member"},
-        {"name": "Darshana R. Patel", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 319-2087",
+      "secretary_name": "Lauren Robinson",
+      "chair_legislator_id": "5bb0f8e2-b4c9-41d7-af5f-a46ffc9cc10a",
+      "vice_chair_legislator_id": "86c563c7-c0d2-4e4f-96c9-5f7eda0e3ff3"
     },
     {
+      "id": "d5661858-dc2a-4390-b411-dfed3b88db5d",
+      "name": "Elections",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-2094",
+      "secretary_name": "Lori Barber",
+      "chair_legislator_id": "5d6bab0a-b71e-4e6b-a7e9-97532150548e",
+      "vice_chair_legislator_id": "f9281b62-7306-41e5-b8fa-45a5bb65f54f"
+    },
+    {
+      "id": "9b7569f1-ab10-4903-ba25-d0936b4bbe01",
+      "name": "Emergency Management",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-3802",
+      "secretary_name": "Brenda Harris",
+      "chair_legislator_id": "2896d70e-9bf8-4e0c-9226-77ecbf97a86b",
+      "vice_chair_legislator_id": "74415f1a-a30a-4767-8e6a-45acd79ef848"
+    },
+    {
+      "id": "5f0fe5b2-a39e-4282-a81a-1dd71295250a",
+      "name": "Environmental Safety and Toxic Materials",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-3965",
+      "secretary_name": "Margaret Buxton",
+      "chair_legislator_id": "211bf622-6dfc-41ca-bea9-a30f86fb3d5a",
+      "vice_chair_legislator_id": "289d4f09-9d4c-41fd-81f7-24cc525115cc"
+    },
+    {
+      "id": "2953f4dc-8ea2-490d-95d4-d799828a3314",
       "name": "Governmental Organization",
       "chamber": "Assembly",
-      "type": "Standing",
-      "members": [
-        {"name": "Blanca Rubio", "role": "Chair"},
-        {"name": "Laurie Davies", "role": "Vice Chair"},
-        {"name": "David Alvarez", "role": "Member"},
-        {"name": "Marc Berman", "role": "Member"},
-        {"name": "Isaac G. Bryan", "role": "Member"},
-        {"name": "Juan Carrillo", "role": "Member"},
-        {"name": "Diane B. Dixon", "role": "Member"},
-        {"name": "Mike Fong", "role": "Member"},
-        {"name": "Jesse Gabriel", "role": "Member"},
-        {"name": "Mike Gipson", "role": "Member"},
-        {"name": "Alexandra Macedo", "role": "Member"},
-        {"name": "Tina McKinnor", "role": "Member"},
-        {"name": "Stephanie Nguyen", "role": "Member"},
-        {"name": "Blanca Pacheco", "role": "Member"},
-        {"name": "James C. Ramos", "role": "Member"},
-        {"name": "Michelle Rodriguez", "role": "Member"},
-        {"name": "Kate Sanchez", "role": "Member"},
-        {"name": "Jose Luis Solache", "role": "Member"},
-        {"name": "Esmeralda Soria", "role": "Member"},
-        {"name": "Tri Ta", "role": "Member"},
-        {"name": "Avelino Valencia", "role": "Member"},
-        {"name": "Greg Wallis", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Eric Johnson",
-        "email": "eric.johnson@asm.ca.gov"
-      }
+      "committee_type": "standing",
+      "phone": "(916) 319-2531",
+      "secretary_name": "Karla Mendoza",
+      "chair_legislator_id": "2620b638-bba3-4304-ae73-6c73b6b34a79",
+      "vice_chair_legislator_id": "050b885b-c472-4a3f-a34f-cd5fb5ac982e"
     },
     {
+      "id": "ba2439bf-3199-4cee-b758-c50b652f9d3c",
+      "name": "Health",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-2097",
+      "secretary_name": "Grant Silva, Keisha Anderson",
+      "chair_legislator_id": "4c4ad9f2-a377-41cf-a60b-8632f17d59d9",
+      "vice_chair_legislator_id": "e5809be7-a050-4ca7-9721-49c25e7b4965"
+    },
+    {
+      "id": "475fbd89-9241-47d9-960d-67e039833ed4",
       "name": "Higher Education",
       "chamber": "Assembly",
-      "type": "Standing",
-      "members": [
-        {"name": "Mike Fong", "role": "Chair"},
-        {"name": "Carl DeMaio", "role": "Vice Chair"},
-        {"name": "Tasha Boerner", "role": "Member"},
-        {"name": "Jeff Gonzalez", "role": "Member"},
-        {"name": "Corey A. Jackson", "role": "Member"},
-        {"name": "Al Muratsuchi", "role": "Member"},
-        {"name": "Darshana R. Patel", "role": "Member"},
-        {"name": "Celeste Rodriguez", "role": "Member"},
-        {"name": "LaShae Sharp-Collins", "role": "Member"},
-        {"name": "David J. Tangipa", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 319-3960",
+      "secretary_name": "Kiersten Wall",
+      "chair_legislator_id": "0e643be3-3d8c-4fe2-8f19-811d25e47b72",
+      "vice_chair_legislator_id": "30e0a865-0e12-48bf-b288-7bc14f17323b"
     },
     {
+      "id": "79fb7982-09f4-47fc-a5bf-edc116c076f9",
+      "name": "Housing and Community Development",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-2085",
+      "secretary_name": "Despina Demas",
+      "chair_legislator_id": "6bf7d220-eb5d-41db-a7c9-ac5d2ef96f34",
+      "vice_chair_legislator_id": "6229c3a2-535c-4a8b-8aa7-ec3ec59080ad"
+    },
+    {
+      "id": "1bcb6bb9-d2a5-49b5-8557-4109b9c2777c",
+      "name": "Human Services",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-2089",
+      "secretary_name": "Toni J. Zupan",
+      "chair_legislator_id": "9e26076b-2412-4373-b7d3-b535116e0fa5",
+      "vice_chair_legislator_id": "f95c3e44-1d70-4fd9-9f7f-af8d72448ae1"
+    },
+    {
+      "id": "14fffd07-8fa2-4749-99ce-512525719e02",
       "name": "Insurance",
       "chamber": "Assembly",
-      "type": "Standing",
-      "members": [
-        {"name": "Lisa Calderon", "role": "Chair"},
-        {"name": "Greg Wallis", "role": "Vice Chair"},
-        {"name": "Dawn Addis", "role": "Member"},
-        {"name": "David Alvarez", "role": "Member"},
-        {"name": "Marc Berman", "role": "Member"},
-        {"name": "Phillip Chen", "role": "Member"},
-        {"name": "Stan Ellis", "role": "Member"},
-        {"name": "Mike Gipson", "role": "Member"},
-        {"name": "Heather Hadwick", "role": "Member"},
-        {"name": "John Harabedian", "role": "Member"},
-        {"name": "Maggy Krell", "role": "Member"},
-        {"name": "Stephanie Nguyen", "role": "Member"},
-        {"name": "Liz Ortega", "role": "Member"},
-        {"name": "Cottie Petrie-Norris", "role": "Member"},
-        {"name": "Michelle Rodriguez", "role": "Member"},
-        {"name": "Avelino Valencia", "role": "Member"},
-        {"name": "Anamarie Ávila Farías", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Kathleen O'Malley",
-        "email": "kathleen.omalley@asm.ca.gov"
-      }
+      "committee_type": "standing",
+      "phone": "(916) 319-2086",
+      "secretary_name": "Stephanie Morwell",
+      "chair_legislator_id": "b4a7e6ff-93ce-406b-968a-d5a56c349bb4",
+      "vice_chair_legislator_id": "d2567eff-dcbf-4179-9e11-4c07d404a0ad"
     },
     {
+      "id": "a7c30ae8-cb7b-44c5-bdc3-c72fb7d502a1",
       "name": "Judiciary",
       "chamber": "Assembly",
-      "type": "Standing",
-      "members": [
-        {"name": "Ash Kalra", "role": "Chair"},
-        {"name": "Diane B. Dixon", "role": "Vice Chair"},
-        {"name": "Rebecca Bauer-Kahan", "role": "Member"},
-        {"name": "Isaac G. Bryan", "role": "Member"},
-        {"name": "Damon Connolly", "role": "Member"},
-        {"name": "John Harabedian", "role": "Member"},
-        {"name": "Alexandra Macedo", "role": "Member"},
-        {"name": "Blanca Pacheco", "role": "Member"},
-        {"name": "Diane Papan", "role": "Member"},
-        {"name": "Kate Sanchez", "role": "Member"},
-        {"name": "Catherine Stefani", "role": "Member"},
-        {"name": "Rick Chavez Zbur", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 319-2334",
+      "secretary_name": "Sergio Hernandez Alcantara, Cindy Morante",
+      "chair_legislator_id": "ea1fdf44-95e1-4990-86ed-653e3e6c548d",
+      "vice_chair_legislator_id": "54d7b717-166b-4725-8033-0b5546b23b36"
     },
     {
+      "id": "aeb6ad80-6936-4f40-9100-aa47dc95265d",
+      "name": "Labor and Employment",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-2091",
+      "secretary_name": "Kristina Calderon",
+      "chair_legislator_id": "ebde34ba-6f31-4d72-a273-3ac482651cce",
+      "vice_chair_legislator_id": "1d2f5ff1-4953-4853-9699-2704bc9088fe"
+    },
+    {
+      "id": "1a73836a-cf24-4db3-9280-eed8a73b02c8",
+      "name": "Legislative Ethics",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-3752",
+      "secretary_name": null,
+      "chair_legislator_id": "50530ccd-ff14-4138-9380-3d3e6942e8c4",
+      "vice_chair_legislator_id": "e5809be7-a050-4ca7-9721-49c25e7b4965"
+    },
+    {
+      "id": "369643ba-055d-45f2-b5b7-d46d16012b42",
       "name": "Local Government",
       "chamber": "Assembly",
-      "type": "Standing",
-      "members": [
-        {"name": "Juan Carrillo", "role": "Chair"},
-        {"name": "Tri Ta", "role": "Vice Chair"},
-        {"name": "Josh Hoover", "role": "Member"},
-        {"name": "Blanca Pacheco", "role": "Member"},
-        {"name": "James C. Ramos", "role": "Member"},
-        {"name": "Rhodesia Ransom", "role": "Member"},
-        {"name": "Blanca Rubio", "role": "Member"},
-        {"name": "Catherine Stefani", "role": "Member"},
-        {"name": "Christopher M. Ward", "role": "Member"},
-        {"name": "Lori D. Wilson", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Angela Mapp",
-        "email": "angela.mapp@asm.ca.gov"
-      }
+      "committee_type": "standing",
+      "phone": "(916) 319-3958",
+      "secretary_name": "Marisa Lanchester",
+      "chair_legislator_id": "a3af546c-fd80-4946-8a6e-94868d627fdc",
+      "vice_chair_legislator_id": "2e4022d2-1326-4f5e-98ab-0f2009734a44"
     },
     {
+      "id": "9f9711d4-c04b-420b-a9e0-f74f2cdbb006",
       "name": "Military and Veterans Affairs",
       "chamber": "Assembly",
-      "type": "Standing",
-      "members": [
-        {"name": "Pilar Schiavo", "role": "Chair"},
-        {"name": "Jeff Gonzalez", "role": "Vice Chair"},
-        {"name": "Juan Carrillo", "role": "Member"},
-        {"name": "Laurie Davies", "role": "Member"},
-        {"name": "Michelle Rodriguez", "role": "Member"},
-        {"name": "LaShae Sharp-Collins", "role": "Member"},
-        {"name": "Avelino Valencia", "role": "Member"},
-        {"name": "Anamarie Ávila Farías", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 319-3550",
+      "secretary_name": "Graciela Amezcua",
+      "chair_legislator_id": "2b41b4f9-24f4-422b-954e-d323a46fbc71",
+      "vice_chair_legislator_id": "1744a2dc-ddb3-4adc-b6f9-d067844d379f"
     },
     {
+      "id": "1b5898f6-b613-406b-bd73-76c9111a5a49",
+      "name": "Natural Resources",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-2092",
+      "secretary_name": "Martha Gutierrez",
+      "chair_legislator_id": "e6eb5a26-13bf-4bd6-8c14-cd2edaa2128f",
+      "vice_chair_legislator_id": "289d4f09-9d4c-41fd-81f7-24cc525115cc"
+    },
+    {
+      "id": "5e7f3936-d9a2-4459-aa20-a6842b6befa5",
+      "name": "Privacy and Consumer Protection",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-2200",
+      "secretary_name": "Mimi Holtkamp",
+      "chair_legislator_id": "d18808e8-fbc0-477c-91d3-7e9cba0388a4",
+      "vice_chair_legislator_id": "54d7b717-166b-4725-8033-0b5546b23b36"
+    },
+    {
+      "id": "0c4414de-ec2d-43cc-9854-2d934834659b",
+      "name": "Public Employment and Retirement",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-3957",
+      "secretary_name": "Irene Reteguin",
+      "chair_legislator_id": "4350705f-afb6-43f3-a927-1724f3312fd3",
+      "vice_chair_legislator_id": "fa30aa9d-78d3-4f52-9512-c6b183829717"
+    },
+    {
+      "id": "543368db-6516-466f-b15a-9774628af085",
       "name": "Public Safety",
       "chamber": "Assembly",
-      "type": "Standing",
-      "members": [
-        {"name": "Nick Schultz", "role": "Chair"},
-        {"name": "Juan Alanis", "role": "Vice Chair"},
-        {"name": "Mark González", "role": "Member"},
-        {"name": "Matt Haney", "role": "Member"},
-        {"name": "John Harabedian", "role": "Member"},
-        {"name": "Tom Lackey", "role": "Member"},
-        {"name": "Stephanie Nguyen", "role": "Member"},
-        {"name": "James C. Ramos", "role": "Member"},
-        {"name": "LaShae Sharp-Collins", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 319-3744",
+      "secretary_name": "Samarpreet Kaur",
+      "chair_legislator_id": "07e9afc7-d233-4a4f-8ff1-128fa3a4c5b1",
+      "vice_chair_legislator_id": "1d2f5ff1-4953-4853-9699-2704bc9088fe"
     },
     {
+      "id": "cae3a87c-402e-4ab9-a93e-7dc834537912",
       "name": "Revenue and Taxation",
       "chamber": "Assembly",
-      "type": "Standing",
-      "members": [
-        {"name": "Mike Gipson", "role": "Chair"},
-        {"name": "Tri Ta", "role": "Vice Chair"},
-        {"name": "Jasmeet Bains", "role": "Member"},
-        {"name": "Juan Carrillo", "role": "Member"},
-        {"name": "Carl DeMaio", "role": "Member"},
-        {"name": "Tina McKinnor", "role": "Member"},
-        {"name": "Sharon Quirk-Silva", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 319-2098",
+      "secretary_name": "Sue Highland",
+      "chair_legislator_id": "69aff420-2080-4cf1-a93f-5ca8552e92fd",
+      "vice_chair_legislator_id": "7722ff82-6276-4f80-85e9-3bb1494c83b7"
     },
     {
+      "id": "e135d0b1-7ba6-4e3a-9d72-91e48041bb32",
       "name": "Rules",
       "chamber": "Assembly",
-      "type": "Standing",
-      "members": [
-        {"name": "Blanca Pacheco", "role": "Chair"},
-        {"name": "Tom Lackey", "role": "Vice Chair"},
-        {"name": "Patrick J. Ahrens", "role": "Member"},
-        {"name": "Mark González", "role": "Member"},
-        {"name": "Jacqui Irwin", "role": "Member"},
-        {"name": "Maggy Krell", "role": "Member"},
-        {"name": "Darshana R. Patel", "role": "Member"},
-        {"name": "Michelle Rodriguez", "role": "Member"},
-        {"name": "Kate Sanchez", "role": "Member"},
-        {"name": "Rick Chavez Zbur", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Lia Lopez",
-        "email": "lia.lopez@asm.ca.gov"
-      }
+      "committee_type": "standing",
+      "phone": "(916) 319-2800",
+      "secretary_name": null,
+      "chair_legislator_id": "d359fbe8-8b5f-4675-ab3b-fdfe02f7f757",
+      "vice_chair_legislator_id": "fa30aa9d-78d3-4f52-9512-c6b183829717"
     },
     {
+      "id": "f658d203-d637-47a1-90e9-b09b78df3108",
+      "name": "Select Committee on 2028 Olympic and Paralympic Games",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "4350705f-afb6-43f3-a927-1724f3312fd3",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "e055d1f9-7c04-462e-bde6-2d2645ca339b",
+      "name": "Select Committee on Alternative Protien Innovation",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "ea1fdf44-95e1-4990-86ed-653e3e6c548d",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "8cd36e82-f602-4019-b869-cdcb5e636039",
+      "name": "Select Committee on Asia/California Trade and Investment",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "b08fd339-2f2c-44ad-9bbd-a4222c52cae0",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "558c3404-509f-4fa5-9c76-b1bc871972dc",
+      "name": "Select Committee on Biotechnology and Medical Technology",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "d326723c-d281-416b-a34e-79d959dcad98",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "54014772-5c0a-4b6f-89fa-435ae3ed4a98",
+      "name": "Select Committee on Calfresh Enrollment and Nutrition",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "4c4ad9f2-a377-41cf-a60b-8632f17d59d9",
+      "vice_chair_legislator_id": "38ae202d-f415-4fc5-8f02-05f3a3a1c274"
+    },
+    {
+      "id": "a28b4ee0-5756-45f1-98c5-50d137c373e8",
+      "name": "Select Committee on California-Mexico Bi-National Affairs",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "81cec637-eee2-4ff8-af75-67df3fb25c70",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "d8637ff8-5593-412d-8cbb-e28a9ce85f5f",
+      "name": "Select Committee on California's Mental Health Crisis",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "5d6bab0a-b71e-4e6b-a7e9-97532150548e",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "f20f11fe-8491-4018-ac0e-847d2b7588b9",
+      "name": "Select Committee on Child Care Costs",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "01951f0c-0db8-4b30-ae18-3872afa32da0",
+      "vice_chair_legislator_id": "e45c95c1-de2b-4a3e-8109-33084fbb8a3a"
+    },
+    {
+      "id": "669ffdd0-aa68-405e-a2f6-8128125182c2",
+      "name": "Select Committee on Climate Innovation and Infrastructure",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "13d1e593-bd79-43e8-b684-5838849f13bb",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "1a1044b4-dba6-41b1-b734-0c2a882208c8",
+      "name": "Select Committee on Community Economic Mobility and Investment",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "51141a4c-0ef9-4f47-af2d-30dccd270718",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "9b37eed0-504f-4478-8984-21e9cd05fb20",
+      "name": "Select Committee on Community Reinvestment",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "cf5b9fd8-af6e-49a7-8f7b-ad3b845d6dc1",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "72175847-5dd9-4b36-8007-ffef30a62273",
+      "name": "Select Committee on Cybersecurity",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "b1c64ace-45a1-4b79-9c00-18611dc1a981",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "970f4598-c489-4995-88f3-1ca372bc40a5",
+      "name": "Select Committee on Domestic Violence",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "2620b638-bba3-4304-ae73-6c73b6b34a79",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "9b200f4a-e1d7-4f5e-8928-eaf1b2202304",
+      "name": "Select Committee on Downtown Recovery",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "6bf7d220-eb5d-41db-a7c9-ac5d2ef96f34",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "57f5b93e-f733-4029-83a7-2175f347fa6f",
+      "name": "Select Committee on Effective Postsecondary Career Technical Education and Workforce Development Programs",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "0e643be3-3d8c-4fe2-8f19-811d25e47b72",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "49f040d8-886b-422d-ba5e-9cb32aa5dee2",
+      "name": "Select Committee on Electric Vehicles and Charging Infrastructure",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "2b41b4f9-24f4-422b-954e-d323a46fbc71",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "222b7918-bdeb-4a41-a451-9a548c80815a",
+      "name": "Select Committee on Housing Construction Innovation",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "d4af9949-6be7-4061-8466-b687a17665fb",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "41d507d7-18fd-4428-828e-fc2947af3d02",
+      "name": "Select Committee on Housing Finance and Affordability",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "276d0b10-4df1-4353-aba3-14acbc577b2e",
+      "vice_chair_legislator_id": "b5545f1a-8367-40f7-849e-8f4399a5a969"
+    },
+    {
+      "id": "d1e07c76-2371-40fa-bc1c-115c922632ee",
+      "name": "Select Committee on Latina Inequities",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "d803542c-0795-4758-8c39-38e6dbe3b7c3",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "a073e905-d3be-4ed3-a1f9-0eb15e00c59e",
+      "name": "Select Committee on Master Plan for Higher Education in California",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "97f1868c-fcca-41e0-b0c4-66f0cfb0ffcc",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "723e82e1-0d98-49c8-a14c-092532c5ed25",
+      "name": "Select Committee on Native American Affairs",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "b8a29b27-a6d5-42b8-bd3e-aada7f1d7a48",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "cf56fec7-1a3e-4287-af8d-f699acc72013",
+      "name": "Select Committee on Ports and Goods Movement",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "69aff420-2080-4cf1-a93f-5ca8552e92fd",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "8d2e70ce-e193-4c64-a1f7-8fb55ec2229e",
+      "name": "Select Committee on Racism, Hate, and Xenophobia",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "6dc6775b-01af-44df-b0d5-c78ddb43f11d",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "f240224b-68c7-469d-b08f-76c9fd42fd79",
+      "name": "Select Committee on Regulatory Authority",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "d359fbe8-8b5f-4675-ab3b-fdfe02f7f757",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "5e5e86fa-2710-4919-834e-58b0cba426b6",
+      "name": "Select Committee on Reproductive Health",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "d18808e8-fbc0-477c-91d3-7e9cba0388a4",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "5df0572b-0996-4149-b328-9a8944f737cd",
+      "name": "Select Committee on Sea Level Rise and the California Economy",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "3f1a2c3f-367d-4925-82ac-8dea2f2af9f6",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "37282016-c699-48d7-a453-cf8018826ccc",
+      "name": "Select Committee on Serving Students With Disabilities",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "f3086582-0503-4049-9d1f-ae0a1bf5abcc",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "0c5a025d-a3fc-4386-9028-76400c8a61dc",
+      "name": "Select Committee on Social Housing",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "9e26076b-2412-4373-b7d3-b535116e0fa5",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "41e2d231-93b8-4b96-9a2c-bfacf865e43b",
+      "name": "Select Committee on the Independent Restaurant Industry in California",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "5f64b73e-8a9e-4a03-a5b0-21cf1f1bcfc7",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "0662c7a4-c045-4b55-852e-a3d2159138a3",
+      "name": "Select Committee on the Nonprofit Sector",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "4f36c495-b32a-4d32-aba0-696c581475c5",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "2ec0c684-d517-45fd-94bd-1bd18027162c",
+      "name": "Select Committee on the Status of Boys and Men of Color",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "e6eb5a26-13bf-4bd6-8c14-cd2edaa2128f",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "9e5bb81d-508c-40ad-8d89-5d1d832298e4",
+      "name": "Select Committee on the Transportation Costs and Impact of the Low Carbon Fuel Standard",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "81cec637-eee2-4ff8-af75-67df3fb25c70",
+      "vice_chair_legislator_id": "6ce08d48-e28c-498b-b3e6-ce83500b7e6c"
+    },
+    {
+      "id": "97135ce5-6dac-49b3-b2f5-f5693dc2d23a",
+      "name": "Select Committee on Wildfire Prevention",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "211bf622-6dfc-41ca-bea9-a30f86fb3d5a",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "ac7cb80e-2ca9-44be-ab48-f7dcd7781fbf",
+      "name": "Select Committee on Youth Mental Health and Treatment Accessibility",
+      "chamber": "Assembly",
+      "committee_type": "select",
+      "phone": null,
+      "secretary_name": null,
+      "chair_legislator_id": "f396f1af-20f4-4dfe-8dc6-21ce5938081d",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "fdaef610-a0ce-44b7-ad32-d5a4a9a630bb",
       "name": "Transportation",
       "chamber": "Assembly",
-      "type": "Standing",
-      "members": [
-        {"name": "Lori D. Wilson", "role": "Chair"},
-        {"name": "Laurie Davies", "role": "Vice Chair"},
-        {"name": "Cecilia Aguiar-Curry", "role": "Member"},
-        {"name": "Patrick J. Ahrens", "role": "Member"},
-        {"name": "Juan Carrillo", "role": "Member"},
-        {"name": "John Harabedian", "role": "Member"},
-        {"name": "Gregg Hart", "role": "Member"},
-        {"name": "Josh Hoover", "role": "Member"},
-        {"name": "Corey A. Jackson", "role": "Member"},
-        {"name": "Tom Lackey", "role": "Member"},
-        {"name": "Josh Lowenthal", "role": "Member"},
-        {"name": "Alexandra Macedo", "role": "Member"},
-        {"name": "Diane Papan", "role": "Member"},
-        {"name": "Rhodesia Ransom", "role": "Member"},
-        {"name": "Chris Rogers", "role": "Member"},
-        {"name": "Christopher M. Ward", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 319-2093",
+      "secretary_name": "Aimee Anspach",
+      "chair_legislator_id": "6ce08d48-e28c-498b-b3e6-ce83500b7e6c",
+      "vice_chair_legislator_id": "050b885b-c472-4a3f-a34f-cd5fb5ac982e"
     },
     {
+      "id": "bdf29e54-8f2e-4858-8050-8678327d1695",
+      "name": "Utilities and Energy",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-2083",
+      "secretary_name": "Vanessa Gonzales",
+      "chair_legislator_id": "8fadc14b-1345-4e98-b5b8-1de7e064ca47",
+      "vice_chair_legislator_id": "6229c3a2-535c-4a8b-8aa7-ec3ec59080ad"
+    },
+    {
+      "id": "72a1a541-c775-4593-9f53-b80d97268237",
+      "name": "Water, Parks, and Wildlife",
+      "chamber": "Assembly",
+      "committee_type": "standing",
+      "phone": "(916) 319-2096",
+      "secretary_name": "Katarina Maly",
+      "chair_legislator_id": "cf5b9fd8-af6e-49a7-8f7b-ad3b845d6dc1",
+      "vice_chair_legislator_id": "1744a2dc-ddb3-4adc-b6f9-d067844d379f"
+    },
+    {
+      "id": "ad5e71d1-09c3-43b0-b2a6-9a20274f5b7a",
+      "name": "X1 Session Budget and Fiscal Review",
+      "chamber": "Assembly",
+      "committee_type": "session",
+      "phone": "(916) 319-2099",
+      "secretary_name": "Irene Villarruz, Marco Rodriguez, Alexa Cottrell",
+      "chair_legislator_id": "a5eb6751-29c3-47da-a2e9-0914ee76236c",
+      "vice_chair_legislator_id": "3cac6177-c829-4d37-9d56-b232cdef405a"
+    },
+    {
+      "id": "89414e85-0f8f-45c3-9570-076257fecadd",
+      "name": "X1 Session Rules",
+      "chamber": "Assembly",
+      "committee_type": "session",
+      "phone": "(916) 319-2800",
+      "secretary_name": null,
+      "chair_legislator_id": "d359fbe8-8b5f-4675-ab3b-fdfe02f7f757",
+      "vice_chair_legislator_id": "fa30aa9d-78d3-4f52-9512-c6b183829717"
+    },
+    {
+      "id": "d78b4ef7-0fab-4cd9-8711-ca7d18a50a8d",
+      "name": "Joint Committee on Fairs, Allocation and Classification",
+      "chamber": "Joint",
+      "committee_type": "joint",
+      "phone": "(916) 319-2030",
+      "secretary_name": null,
+      "chair_legislator_id": "51f500a7-c644-40b0-8f34-5533f9a0544c",
+      "vice_chair_legislator_id": "43a983bb-bdd5-478c-b324-15d84af92a65"
+    },
+    {
+      "id": "800c874c-2a33-4531-809d-12a9b5df15b4",
+      "name": "Joint Committee on Fisheries and Aquaculture",
+      "chamber": "Joint",
+      "committee_type": "joint",
+      "phone": "(916) 651-4338",
+      "secretary_name": null,
+      "chair_legislator_id": "bd51dc19-e783-4160-9da4-e75646b68bf5",
+      "vice_chair_legislator_id": "cf5b9fd8-af6e-49a7-8f7b-ad3b845d6dc1"
+    },
+    {
+      "id": "de044200-868e-4a87-a5d7-4b4dff1b59fa",
+      "name": "Joint Committee on Rules",
+      "chamber": "Joint",
+      "committee_type": "joint",
+      "phone": "(916) 319-2800",
+      "secretary_name": null,
+      "chair_legislator_id": "d359fbe8-8b5f-4675-ab3b-fdfe02f7f757",
+      "vice_chair_legislator_id": "3ef3f72b-5785-4f63-91b2-64cecda7189e"
+    },
+    {
+      "id": "519e4412-db04-4c34-a46f-775f234c4f1b",
+      "name": "Joint Committee on the Arts",
+      "chamber": "Joint",
+      "committee_type": "joint",
+      "phone": "(916) 651-4026",
+      "secretary_name": null,
+      "chair_legislator_id": "c10ba4e1-d0d4-4bde-8f39-77a9461a2ee9",
+      "vice_chair_legislator_id": "d326723c-d281-416b-a34e-79d959dcad98"
+    },
+    {
+      "id": "ec41688e-5f8d-4beb-9421-725fbbc1db9b",
+      "name": "Joint Legislative Audit Committee",
+      "chamber": "Joint",
+      "committee_type": "joint",
+      "phone": "(916) 319-3300",
+      "secretary_name": "Sheriall Smith-Brandon",
+      "chair_legislator_id": "b5545f1a-8367-40f7-849e-8f4399a5a969",
+      "vice_chair_legislator_id": "fbb67d2d-74fb-483e-b4cc-4d8997f9f02e"
+    },
+    {
+      "id": "f2e6972a-b653-4d8f-b4e5-861f36334cbe",
+      "name": "Joint Legislative Budget Committee",
+      "chamber": "Joint",
+      "committee_type": "joint",
+      "phone": "(916) 651-1891",
+      "secretary_name": null,
+      "chair_legislator_id": "3ef3f72b-5785-4f63-91b2-64cecda7189e",
+      "vice_chair_legislator_id": "a5eb6751-29c3-47da-a2e9-0914ee76236c"
+    },
+    {
+      "id": "37ca1a64-2134-448b-8f0d-3a70da5ed4dd",
+      "name": "Joint Legislative Committee on Climate Change Policies",
+      "chamber": "Joint",
+      "committee_type": "joint",
+      "phone": "(916) 319-3549",
+      "secretary_name": null,
+      "chair_legislator_id": "b1c64ace-45a1-4b79-9c00-18611dc1a981",
+      "vice_chair_legislator_id": "7081bb3d-a421-4565-9dab-f45ac55c6c50"
+    },
+    {
+      "id": "b79fa5d1-b69c-48ff-bb16-6eb4eb324a77",
+      "name": "Joint Legislative Committee on Emergency Management",
+      "chamber": "Joint",
+      "committee_type": "joint",
+      "phone": "(916) 651-1749",
+      "secretary_name": null,
+      "chair_legislator_id": "7081bb3d-a421-4565-9dab-f45ac55c6c50",
+      "vice_chair_legislator_id": "2896d70e-9bf8-4e0c-9226-77ecbf97a86b"
+    },
+    {
+      "id": "4b9becec-32ed-4a78-88df-225127495571",
+      "name": "Agriculture",
+      "chamber": "Senate",
+      "committee_type": "standing",
+      "phone": "(916) 651-1508",
+      "secretary_name": "Siena Rice",
+      "chair_legislator_id": "e662277b-e074-4958-9659-10a9ef7dea20",
+      "vice_chair_legislator_id": "83b12153-1a4a-4718-aab8-7172d461af6a"
+    },
+    {
+      "id": "d40ba0b5-2124-4a14-a168-7700cf648a90",
       "name": "Appropriations",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Anna M. Caballero", "role": "Chair"},
-        {"name": "Kelly Seyarto", "role": "Vice Chair"},
-        {"name": "Christopher Cabaldon", "role": "Member"},
-        {"name": "Megan Dahle", "role": "Member"},
-        {"name": "Timothy Grayson", "role": "Member"},
-        {"name": "Laura Richardson", "role": "Member"},
-        {"name": "Aisha Wahab", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 651-4101",
+      "secretary_name": "Jennifer Douglas, Briana Diaz",
+      "chair_legislator_id": "a26e76d3-4b39-4f25-ac2d-cd99e01efc55",
+      "vice_chair_legislator_id": "b78d1651-dabb-4e27-bc76-dfcf75ab0f64"
     },
     {
+      "id": "ee2261e4-f940-4634-a171-c9e8709149d0",
       "name": "Banking and Financial Institutions",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Timothy Grayson", "role": "Chair"},
-        {"name": "Roger W. Niello", "role": "Vice Chair"},
-        {"name": "Sabrina Cervantes", "role": "Member"},
-        {"name": "Melissa Hurtado", "role": "Member"},
-        {"name": "Monique Limón", "role": "Member"},
-        {"name": "Laura Richardson", "role": "Member"},
-        {"name": "Tony Strickland", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Michael Burdick",
-        "email": "michael.burdick@sen.ca.gov"
-      }
+      "committee_type": "standing",
+      "phone": "(916) 651-4102",
+      "secretary_name": "Rae Flores",
+      "chair_legislator_id": "6bf30328-efc6-40da-ae27-9f1e31e38d32",
+      "vice_chair_legislator_id": "1f3f3aa8-dde1-47fc-96e0-4a617f1906d6"
     },
     {
+      "id": "c57b6ec2-ca07-4fc6-8a74-a6c21239ff3f",
       "name": "Budget and Fiscal Review",
       "chamber": "Senate",
-      "type": "Budget",
-      "members": [
-        {"name": "Scott D. Wiener", "role": "Chair"},
-        {"name": "Roger W. Niello", "role": "Vice Chair"},
-        {"name": "Benjamin Allen", "role": "Member"},
-        {"name": "Catherine Blakespear", "role": "Member"},
-        {"name": "Christopher Cabaldon", "role": "Member"},
-        {"name": "Steven Choi", "role": "Member"},
-        {"name": "Maria Elena Durazo", "role": "Member"},
-        {"name": "Shannon Grove", "role": "Member"},
-        {"name": "John Laird", "role": "Member"},
-        {"name": "Jerry McNerney", "role": "Member"},
-        {"name": "Caroline Menjivar", "role": "Member"},
-        {"name": "Rosilicie Ochoa Bogh", "role": "Member"},
-        {"name": "Sasha Renée Pérez", "role": "Member"},
-        {"name": "Laura Richardson", "role": "Member"},
-        {"name": "Kelly Seyarto", "role": "Member"},
-        {"name": "Lola Smallwood-Cuevas", "role": "Member"},
-        {"name": "Aisha Wahab", "role": "Member"},
-        {"name": "Akilah Weber", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 651-4103",
+      "secretary_name": "Sandy Perez, Macy Mendoza",
+      "chair_legislator_id": "3ef3f72b-5785-4f63-91b2-64cecda7189e",
+      "vice_chair_legislator_id": "1f3f3aa8-dde1-47fc-96e0-4a617f1906d6"
     },
     {
-      "name": "Budget Subcommittee No. 4 on State Administration and General Government",
+      "id": "b53692ba-dbc5-49d2-935b-755c5675e42f",
+      "name": "Budget and Fiscal Review Subcommittee No. 1 on Education",
       "chamber": "Senate",
-      "type": "Subcommittee",
-      "members": [
-        {"name": "Christopher Cabaldon", "role": "Chair"},
-        {"name": "Roger W. Niello", "role": "Vice Chair"},
-        {"name": "Lola Smallwood-Cuevas", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Diego Emilio Lopez",
-        "email": "diego.lopez@sen.ca.gov"
-      }
+      "committee_type": "budget_sub",
+      "phone": "(916) 651-4103",
+      "secretary_name": null,
+      "chair_legislator_id": "e7a0dae3-9cf8-44a6-9900-a678ec50f494",
+      "vice_chair_legislator_id": null
     },
     {
+      "id": "9e3825ef-1b82-4413-8a72-d52bf944ec72",
+      "name": "Budget and Fiscal Review Subcommittee No. 2 on Resources, Environmental Protection and Energy",
+      "chamber": "Senate",
+      "committee_type": "budget_sub",
+      "phone": "(916) 651-4103",
+      "secretary_name": null,
+      "chair_legislator_id": "25d9ec6f-b155-4860-aaf5-889fdc04642a",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "adb58a84-1391-4ce2-8824-ed9f5c01bda4",
+      "name": "Budget and Fiscal Review Subcommittee No. 3 on Health and Human Services",
+      "chamber": "Senate",
+      "committee_type": "budget_sub",
+      "phone": "(916) 651-4103",
+      "secretary_name": null,
+      "chair_legislator_id": "fc149731-da86-4f18-a8e4-ed3d98b977e2",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "640af26c-3f2b-46d4-9352-d51da73fffe6",
+      "name": "Budget and Fiscal Review Subcommittee No. 4 on State Administration and General Government",
+      "chamber": "Senate",
+      "committee_type": "budget_sub",
+      "phone": "(916) 651-4103",
+      "secretary_name": null,
+      "chair_legislator_id": "3c2aad1f-24a7-41b4-83bf-46b4f7e7f128",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "ab6e269c-6136-4814-8cff-3b76e609f941",
+      "name": "Budget and Fiscal Review Subcommittee No. 5 on Corrections, Public Safety, Judiciary, Labor and Transportation",
+      "chamber": "Senate",
+      "committee_type": "budget_sub",
+      "phone": "(916) 651-4103",
+      "secretary_name": null,
+      "chair_legislator_id": "ea7cab29-aeae-4cf7-81a0-9bfbb1e4cd2d",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "43221d16-47b0-4b99-b3f3-f266cfa58857",
       "name": "Business, Professions and Economic Development",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Angelique Ashby", "role": "Chair"},
-        {"name": "Steven Choi", "role": "Vice Chair"},
-        {"name": "Bob Archuleta", "role": "Member"},
-        {"name": "Jesse Arreguín", "role": "Member"},
-        {"name": "Timothy Grayson", "role": "Member"},
-        {"name": "Caroline Menjivar", "role": "Member"},
-        {"name": "Roger W. Niello", "role": "Member"},
-        {"name": "Lola Smallwood-Cuevas", "role": "Member"},
-        {"name": "Tony Strickland", "role": "Member"},
-        {"name": "Thomas J. Umberg", "role": "Member"},
-        {"name": "Akilah Weber", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 651-4104",
+      "secretary_name": "Krimilda McKenzie",
+      "chair_legislator_id": "2da7544b-5770-4898-9f5a-9c0361f72021",
+      "vice_chair_legislator_id": null
     },
     {
+      "id": "ca3c02bc-943b-45e8-aedf-062ea1ecfe2a",
       "name": "Education",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Sasha Renée Pérez", "role": "Chair"},
-        {"name": "Rosilicie Ochoa Bogh", "role": "Vice Chair"},
-        {"name": "Christopher Cabaldon", "role": "Member"},
-        {"name": "Steven Choi", "role": "Member"},
-        {"name": "Dave Cortese", "role": "Member"},
-        {"name": "Lena Gonzalez", "role": "Member"},
-        {"name": "Eloise Gómez Reyes", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 651-4105",
+      "secretary_name": "Maria Velez, Irma Kam",
+      "chair_legislator_id": "e7a0dae3-9cf8-44a6-9900-a678ec50f494",
+      "vice_chair_legislator_id": "73195c77-f9da-4e18-a5d0-42eef39166c5"
     },
     {
+      "id": "f341997c-9626-44f0-8a66-ce664b3052fa",
       "name": "Elections and Constitutional Amendments",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Sabrina Cervantes", "role": "Chair"},
-        {"name": "Steven Choi", "role": "Vice Chair"},
-        {"name": "Benjamin Allen", "role": "Member"},
-        {"name": "Monique Limón", "role": "Member"},
-        {"name": "Thomas J. Umberg", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Scott B. Matsumoto",
-        "email": "scott.matsumoto@sen.ca.gov"
-      }
+      "committee_type": "standing",
+      "phone": "(916) 651-4106",
+      "secretary_name": "Rida Shaikh",
+      "chair_legislator_id": "7061603d-3ddc-4245-86fc-b585c400b4c7",
+      "vice_chair_legislator_id": null
     },
     {
-      "name": "Energy, Utilities and Communications",
+      "id": "64b3997d-e6eb-4477-9ee7-88d77085f158",
+      "name": "Emergency Management",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Josh Becker", "role": "Chair"},
-        {"name": "Rosilicie Ochoa Bogh", "role": "Vice Chair"},
-        {"name": "Benjamin Allen", "role": "Member"},
-        {"name": "Bob Archuleta", "role": "Member"},
-        {"name": "Jesse Arreguín", "role": "Member"},
-        {"name": "Angelique Ashby", "role": "Member"},
-        {"name": "Anna M. Caballero", "role": "Member"},
-        {"name": "Megan Dahle", "role": "Member"},
-        {"name": "Lena Gonzalez", "role": "Member"},
-        {"name": "Shannon Grove", "role": "Member"},
-        {"name": "Melissa Hurtado", "role": "Member"},
-        {"name": "Monique Limón", "role": "Member"},
-        {"name": "Jerry McNerney", "role": "Member"},
-        {"name": "Susan Rubio", "role": "Member"},
-        {"name": "Henry Stern", "role": "Member"},
-        {"name": "Tony Strickland", "role": "Member"},
-        {"name": "Aisha Wahab", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Nidia Bautista",
-        "email": "nidia.bautista@sen.ca.gov"
-      }
+      "committee_type": "standing",
+      "phone": "(916) 651-1547",
+      "secretary_name": null,
+      "chair_legislator_id": "7081bb3d-a421-4565-9dab-f45ac55c6c50",
+      "vice_chair_legislator_id": "b78d1651-dabb-4e27-bc76-dfcf75ab0f64"
     },
     {
+      "id": "8bec01fb-afdc-4a00-9f79-9992869a14b9",
+      "name": "Energy Utilities and Communications",
+      "chamber": "Senate",
+      "committee_type": "standing",
+      "phone": "(916) 651-4107",
+      "secretary_name": "Melanie Cain",
+      "chair_legislator_id": "c10ba4e1-d0d4-4bde-8f39-77a9461a2ee9",
+      "vice_chair_legislator_id": "73195c77-f9da-4e18-a5d0-42eef39166c5"
+    },
+    {
+      "id": "33c1fc57-b82f-4042-9a92-4d944787257a",
       "name": "Environmental Quality",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Catherine Blakespear", "role": "Chair"},
-        {"name": "Suzette Martinez Valladares", "role": "Vice Chair"},
-        {"name": "Megan Dahle", "role": "Member"},
-        {"name": "Lena Gonzalez", "role": "Member"},
-        {"name": "Melissa Hurtado", "role": "Member"},
-        {"name": "Caroline Menjivar", "role": "Member"},
-        {"name": "Sasha Renée Pérez", "role": "Member"},
-        {"name": "Eloise Gómez Reyes", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Brynn Cook",
-        "email": "brynn.cook@sen.ca.gov"
-      }
+      "committee_type": "standing",
+      "phone": "(916) 651-4108",
+      "secretary_name": "Anna Larson",
+      "chair_legislator_id": "baaa399d-2a74-4f7a-b643-651a4ab237d6",
+      "vice_chair_legislator_id": "0717c49d-e496-4677-ae55-91b697b62f1e"
     },
     {
+      "id": "0ba23f93-aa96-46e1-afcc-92ed04479020",
       "name": "Governmental Organization",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Stephen Padilla", "role": "Chair"},
-        {"name": "Suzette Martinez Valladares", "role": "Vice Chair"},
-        {"name": "Bob Archuleta", "role": "Member"},
-        {"name": "Angelique Ashby", "role": "Member"},
-        {"name": "Catherine Blakespear", "role": "Member"},
-        {"name": "Sabrina Cervantes", "role": "Member"},
-        {"name": "Megan Dahle", "role": "Member"},
-        {"name": "Melissa Hurtado", "role": "Member"},
-        {"name": "Brian Jones", "role": "Member"},
-        {"name": "Rosilicie Ochoa Bogh", "role": "Member"},
-        {"name": "Laura Richardson", "role": "Member"},
-        {"name": "Susan Rubio", "role": "Member"},
-        {"name": "Lola Smallwood-Cuevas", "role": "Member"},
-        {"name": "Aisha Wahab", "role": "Member"},
-        {"name": "Akilah Weber Pierson", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Felipe Lopez",
-        "email": "Felipe.Lopez@sen.ca.gov"
-      }
+      "committee_type": "standing",
+      "phone": "(916) 651-1530",
+      "secretary_name": "Monique Graham",
+      "chair_legislator_id": "81e545ad-58ed-45a5-b08e-3f8eb6f15b84",
+      "vice_chair_legislator_id": "0717c49d-e496-4677-ae55-91b697b62f1e"
     },
     {
+      "id": "27f29f06-86f1-448c-97a1-5fed66427d61",
+      "name": "Health",
+      "chamber": "Senate",
+      "committee_type": "standing",
+      "phone": "(916) 651-4111",
+      "secretary_name": "Margarita Niemann",
+      "chair_legislator_id": null,
+      "vice_chair_legislator_id": "0717c49d-e496-4677-ae55-91b697b62f1e"
+    },
+    {
+      "id": "d04b9763-2392-43ed-b408-838b48ea8838",
       "name": "Housing",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Aisha Wahab", "role": "Chair"},
-        {"name": "Kelly Seyarto", "role": "Vice Chair"},
-        {"name": "Jesse Arreguín", "role": "Member"},
-        {"name": "Christopher Cabaldon", "role": "Member"},
-        {"name": "Anna M. Caballero", "role": "Member"},
-        {"name": "Dave Cortese", "role": "Member"},
-        {"name": "Maria Elena Durazo", "role": "Member"},
-        {"name": "Timothy Grayson", "role": "Member"},
-        {"name": "Rosilicie Ochoa Bogh", "role": "Member"},
-        {"name": "Stephen Padilla", "role": "Member"},
-        {"name": "Eloise Gómez Reyes", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Alison Hughes",
-        "email": "alison.hughes@sen.ca.gov"
-      }
+      "committee_type": "standing",
+      "phone": "(916) 651-4124",
+      "secretary_name": "Jacqueline Diaz",
+      "chair_legislator_id": "50c1ac7d-ec82-4944-a24b-bc87c82fff27",
+      "vice_chair_legislator_id": "b78d1651-dabb-4e27-bc76-dfcf75ab0f64"
     },
     {
+      "id": "d033f83e-214a-4331-89c5-afd42a8f700a",
+      "name": "Human Services",
+      "chamber": "Senate",
+      "committee_type": "standing",
+      "phone": "(916) 651-1524",
+      "secretary_name": "Amy Quist",
+      "chair_legislator_id": "d9c72699-8c88-4e31-b4cd-c24e2adbc678",
+      "vice_chair_legislator_id": "73195c77-f9da-4e18-a5d0-42eef39166c5"
+    },
+    {
+      "id": "62181977-3a7c-48ec-9e57-57c11c66b12e",
       "name": "Insurance",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Susan Rubio", "role": "Chair"},
-        {"name": "Roger W. Niello", "role": "Vice Chair"},
-        {"name": "Josh Becker", "role": "Member"},
-        {"name": "Anna M. Caballero", "role": "Member"},
-        {"name": "Brian Jones", "role": "Member"},
-        {"name": "Stephen Padilla", "role": "Member"},
-        {"name": "Aisha Wahab", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Brandon Seto",
-        "email": "brandon.seto@sen.ca.gov"
-      }
+      "committee_type": "standing",
+      "phone": "(916) 651-4110",
+      "secretary_name": "Ronni Alemar",
+      "chair_legislator_id": "b0620462-e6e6-485e-a6b7-cc2219177e87",
+      "vice_chair_legislator_id": "1f3f3aa8-dde1-47fc-96e0-4a617f1906d6"
     },
     {
+      "id": "ffcbd1bf-e296-438b-b2a4-dfaf793b5cb9",
       "name": "Judiciary",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Thomas J. Umberg", "role": "Chair"},
-        {"name": "Roger W. Niello", "role": "Vice Chair"},
-        {"name": "Benjamin Allen", "role": "Member"},
-        {"name": "Angelique Ashby", "role": "Member"},
-        {"name": "Anna M. Caballero", "role": "Member"},
-        {"name": "Maria Elena Durazo", "role": "Member"},
-        {"name": "John Laird", "role": "Member"},
-        {"name": "Eloise Gómez Reyes", "role": "Member"},
-        {"name": "Henry Stern", "role": "Member"},
-        {"name": "Suzette Martinez Valladares", "role": "Member"},
-        {"name": "Aisha Wahab", "role": "Member"},
-        {"name": "Akilah Weber", "role": "Member"},
-        {"name": "Scott D. Wiener", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 651-4113",
+      "secretary_name": "Ryan Samoville, Erica Porter",
+      "chair_legislator_id": "5eecc43f-f3e6-47f9-990d-fbf96d45c06c",
+      "vice_chair_legislator_id": "1f3f3aa8-dde1-47fc-96e0-4a617f1906d6"
     },
     {
+      "id": "47dc722c-ba51-403e-b0a7-9725efcf7507",
       "name": "Labor, Public Employment and Retirement",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Lola Smallwood-Cuevas", "role": "Chair"},
-        {"name": "Tony Strickland", "role": "Vice Chair"},
-        {"name": "Dave Cortese", "role": "Member"},
-        {"name": "Maria Elena Durazo", "role": "Member"},
-        {"name": "John Laird", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Alma Perez",
-        "email": "Alma.Perez@sen.ca.gov"
-      }
+      "committee_type": "standing",
+      "phone": "(916) 651-1556",
+      "secretary_name": "Anastasia Hatzakos",
+      "chair_legislator_id": "07c3aaf4-6b83-4945-965d-035be7482b4f",
+      "vice_chair_legislator_id": "358d8763-6b03-4402-9124-2fc8f1abdf4a"
     },
     {
+      "id": "d9ffe774-4bc5-4bf0-9c9d-86ad00a7b1bd",
+      "name": "Legislative Ethics",
+      "chamber": "Senate",
+      "committee_type": "standing",
+      "phone": "(916) 651-1507",
+      "secretary_name": "Stacey Medlock",
+      "chair_legislator_id": "25d9ec6f-b155-4860-aaf5-889fdc04642a",
+      "vice_chair_legislator_id": "9619a972-d62d-43ce-a248-e694d49660b3"
+    },
+    {
+      "id": "5dbf4418-bee5-4230-86b0-71de41370312",
       "name": "Local Government",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Maria Elena Durazo", "role": "Chair"},
-        {"name": "Steven Choi", "role": "Vice Chair"},
-        {"name": "Jesse Arreguín", "role": "Member"},
-        {"name": "Christopher Cabaldon", "role": "Member"},
-        {"name": "John Laird", "role": "Member"},
-        {"name": "Kelly Seyarto", "role": "Member"},
-        {"name": "Scott D. Wiener", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Anton Favorini-Csorba",
-        "email": "anton.favorini-csorba@sen.ca.gov"
-      }
+      "committee_type": "standing",
+      "phone": "(916) 651-4119",
+      "secretary_name": "Sophia Reynoso-Lopez",
+      "chair_legislator_id": "89b1f36a-d348-46a4-9953-eae764bed7d4",
+      "vice_chair_legislator_id": null
     },
     {
+      "id": "646b0678-e70a-4e8d-a633-5ec685be340d",
       "name": "Military and Veterans Affairs",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Bob Archuleta", "role": "Chair"},
-        {"name": "Shannon Grove", "role": "Vice Chair"},
-        {"name": "Jerry McNerney", "role": "Member"},
-        {"name": "Caroline Menjivar", "role": "Member"},
-        {"name": "Thomas J. Umberg", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 651-1503",
+      "secretary_name": "Darlene Garth",
+      "chair_legislator_id": "a3e73338-e67d-4200-acda-6ee8f108d5be",
+      "vice_chair_legislator_id": "9619a972-d62d-43ce-a248-e694d49660b3"
     },
     {
+      "id": "834cf401-e72a-4f1e-9d70-4b37d80775bc",
       "name": "Natural Resources and Water",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Monique Limón", "role": "Chair"},
-        {"name": "Kelly Seyarto", "role": "Vice Chair"},
-        {"name": "Benjamin Allen", "role": "Member"},
-        {"name": "Shannon Grove", "role": "Member"},
-        {"name": "Melissa Hurtado", "role": "Member"},
-        {"name": "John Laird", "role": "Member"},
-        {"name": "Henry Stern", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Katharine Moore",
-        "email": "katharine.moore@sen.ca.gov"
-      }
+      "committee_type": "standing",
+      "phone": "(916) 651-4116",
+      "secretary_name": "Rebecca Fontaine",
+      "chair_legislator_id": "d9c72699-8c88-4e31-b4cd-c24e2adbc678",
+      "vice_chair_legislator_id": "b78d1651-dabb-4e27-bc76-dfcf75ab0f64"
     },
     {
+      "id": "c8453f9f-a614-4903-9019-efbc7fbe244b",
+      "name": "Privacy, Digital Technologies, and Consumer Protection",
+      "chamber": "Senate",
+      "committee_type": "standing",
+      "phone": "(916) 651-1548",
+      "secretary_name": "Renae Tipton",
+      "chair_legislator_id": "fbb67d2d-74fb-483e-b4cc-4d8997f9f02e",
+      "vice_chair_legislator_id": "90726194-4cdf-4849-bb67-578499cb5c59"
+    },
+    {
+      "id": "4533f4aa-f3a9-4e58-8295-ea68af119f04",
       "name": "Public Safety",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Jesse Arreguín", "role": "Chair"},
-        {"name": "Kelly Seyarto", "role": "Vice Chair"},
-        {"name": "Anna M. Caballero", "role": "Member"},
-        {"name": "Lena Gonzalez", "role": "Member"},
-        {"name": "Sasha Renée Pérez", "role": "Member"},
-        {"name": "Scott D. Wiener", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 651-4118",
+      "secretary_name": "Sarah Loftin, Zandra Chavez",
+      "chair_legislator_id": "50c1ac7d-ec82-4944-a24b-bc87c82fff27",
+      "vice_chair_legislator_id": "b78d1651-dabb-4e27-bc76-dfcf75ab0f64"
     },
     {
+      "id": "2d7fd8ed-5ac9-49f6-9deb-390e0997b5dd",
       "name": "Revenue and Taxation",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Jerry McNerney", "role": "Chair"},
-        {"name": "Suzette Martinez Valladares", "role": "Vice Chair"},
-        {"name": "Angelique Ashby", "role": "Member"},
-        {"name": "Timothy Grayson", "role": "Member"},
-        {"name": "Thomas J. Umberg", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 651-4117",
+      "secretary_name": "Talia D'Amato",
+      "chair_legislator_id": "5adf386b-fc1f-422a-9b2b-cfc232f5d328",
+      "vice_chair_legislator_id": "83b12153-1a4a-4718-aab8-7172d461af6a"
     },
     {
+      "id": "8989971c-dcfe-48f8-b0fa-fb7c2806f9e4",
       "name": "Rules",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Mike McGuire", "role": "Chair"},
-        {"name": "Shannon Grove", "role": "Vice Chair"},
-        {"name": "Brian Jones", "role": "Member"},
-        {"name": "John Laird", "role": "Member"},
-        {"name": "Eloise Gómez Reyes", "role": "Member"}
-      ],
-      "consultant": {
-        "name": "Erika Contreras",
-        "email": "erika.contreras@sen.ca.gov"
-      }
+      "committee_type": "standing",
+      "phone": "(916) 651-4120",
+      "secretary_name": "Jocelyn Twilla",
+      "chair_legislator_id": "1990ac9b-763b-4229-af99-024a6cddfd7f",
+      "vice_chair_legislator_id": "9619a972-d62d-43ce-a248-e694d49660b3"
     },
     {
+      "id": "b072a3fc-324b-45d8-a20b-129a52bf9402",
+      "name": "Select Committee on Bay Area Public Transportation",
+      "chamber": "Senate",
+      "committee_type": "select",
+      "phone": "(916) 651-4011",
+      "secretary_name": null,
+      "chair_legislator_id": "7061603d-3ddc-4245-86fc-b585c400b4c7",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "904a4da9-21df-4447-9b66-04139650e5a1",
+      "name": "Select Committee on California-Mexico Cooperation and Dialogue",
+      "chamber": "Senate",
+      "committee_type": "select",
+      "phone": "(916) 651-4018",
+      "secretary_name": null,
+      "chair_legislator_id": "b0620462-e6e6-485e-a6b7-cc2219177e87",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "a149491f-f7f7-478b-9101-9bd37a5b187a",
+      "name": "Select Committee on California's Wine Industry",
+      "chamber": "Senate",
+      "committee_type": "select",
+      "phone": "(916) 651-4003",
+      "secretary_name": null,
+      "chair_legislator_id": "fbb67d2d-74fb-483e-b4cc-4d8997f9f02e",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "530709c9-da66-4f87-af4c-aa031810a27b",
+      "name": "Select Committee on Community College: the Hub of the Community",
+      "chamber": "Senate",
+      "committee_type": "select",
+      "phone": "(916) 651-4029",
+      "secretary_name": null,
+      "chair_legislator_id": "25d9ec6f-b155-4860-aaf5-889fdc04642a",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "3c80b8e5-94ea-4ef7-889c-eb427f149110",
+      "name": "Select Committee on Economic Development and Technological Innovation",
+      "chamber": "Senate",
+      "committee_type": "select",
+      "phone": "(916) 651-4013",
+      "secretary_name": null,
+      "chair_legislator_id": "d9c72699-8c88-4e31-b4cd-c24e2adbc678",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "5cd6abc3-7695-4170-ab2a-32e7412f0bf0",
+      "name": "Select Committee on Green Economic Development",
+      "chamber": "Senate",
+      "committee_type": "select",
+      "phone": "(916) 651-4009",
+      "secretary_name": null,
+      "chair_legislator_id": "6bf30328-efc6-40da-ae27-9f1e31e38d32",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "fcd2f54d-b82e-4f83-8e4b-39be9eb54a85",
+      "name": "Select Committee on Hydrogen Energy",
+      "chamber": "Senate",
+      "committee_type": "select",
+      "phone": "(916) 651-4030",
+      "secretary_name": null,
+      "chair_legislator_id": "a3e73338-e67d-4200-acda-6ee8f108d5be",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "ab70046c-0649-4e1f-a34d-7b446462045c",
+      "name": "Select Committee on Minority Economic Development",
+      "chamber": "Senate",
+      "committee_type": "select",
+      "phone": "(916) 651-4022",
+      "secretary_name": null,
+      "chair_legislator_id": "81e545ad-58ed-45a5-b08e-3f8eb6f15b84",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "d3eec3d2-1f82-4847-819b-0cbf99e38cb2",
+      "name": "Select Committee on Nonprofit Sector",
+      "chamber": "Senate",
+      "committee_type": "select",
+      "phone": "(916) 651-4021",
+      "secretary_name": null,
+      "chair_legislator_id": "5adf386b-fc1f-422a-9b2b-cfc232f5d328",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "c57f4b03-995b-45b5-a5b4-0bce27569275",
+      "name": "Select Committee on Older LGBTQ+ Californians",
+      "chamber": "Senate",
+      "committee_type": "select",
+      "phone": "(916) 651-4017",
+      "secretary_name": null,
+      "chair_legislator_id": "3ef3f72b-5785-4f63-91b2-64cecda7189e",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "236b1416-3659-45f1-a79d-b921ec7dd3bf",
+      "name": "Select Committee on Ports and Goods Movement",
+      "chamber": "Senate",
+      "committee_type": "select",
+      "phone": "(916) 651-4033",
+      "secretary_name": null,
+      "chair_legislator_id": "10e76de0-00cd-44b6-87c8-485ddc289292",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "0f8709bb-1712-4724-b977-3f0885980331",
+      "name": "Select Committee on Social Determinants of Health",
+      "chamber": "Senate",
+      "committee_type": "select",
+      "phone": "(916) 651-4039",
+      "secretary_name": null,
+      "chair_legislator_id": null,
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "30d663f3-e267-41d4-9c21-1264fad5b089",
+      "name": "Special Committee on International Sporting Events: Olympics, Paralympics and World Cup Soccer",
+      "chamber": "Senate",
+      "committee_type": "special",
+      "phone": "(916) 651-4024",
+      "secretary_name": null,
+      "chair_legislator_id": "c10ba4e1-d0d4-4bde-8f39-77a9461a2ee9",
+      "vice_chair_legislator_id": "2da7544b-5770-4898-9f5a-9c0361f72021"
+    },
+    {
+      "id": "983d455e-dce4-4e61-816d-182a7a5430be",
       "name": "Transportation",
       "chamber": "Senate",
-      "type": "Standing",
-      "members": [
-        {"name": "Dave Cortese", "role": "Chair"},
-        {"name": "Tony Strickland", "role": "Vice Chair"},
-        {"name": "Bob Archuleta", "role": "Member"},
-        {"name": "Jesse Arreguín", "role": "Member"},
-        {"name": "Catherine Blakespear", "role": "Member"},
-        {"name": "Sabrina Cervantes", "role": "Member"},
-        {"name": "Megan Dahle", "role": "Member"},
-        {"name": "Lena Gonzalez", "role": "Member"},
-        {"name": "Timothy Grayson", "role": "Member"},
-        {"name": "Monique Limón", "role": "Member"},
-        {"name": "Caroline Menjivar", "role": "Member"},
-        {"name": "Laura Richardson", "role": "Member"},
-        {"name": "Kelly Seyarto", "role": "Member"},
-        {"name": "Thomas J. Umberg", "role": "Member"},
-        {"name": "Suzette Martinez Valladares", "role": "Member"}
-      ]
+      "committee_type": "standing",
+      "phone": "(916) 651-4121",
+      "secretary_name": "Paulina Rodriguez",
+      "chair_legislator_id": "eb45f50f-973b-4c4e-aeb7-196196016749",
+      "vice_chair_legislator_id": "358d8763-6b03-4402-9124-2fc8f1abdf4a"
+    },
+    {
+      "id": "63e4cc33-a4d0-412c-b970-ef98ac86d69b",
+      "name": "Transportation Subcommittee on LOSSAN Rail Corridor Resiliency",
+      "chamber": "Senate",
+      "committee_type": "budget_sub",
+      "phone": "(916) 651-4038",
+      "secretary_name": "Paulina Rodriguez",
+      "chair_legislator_id": "baaa399d-2a74-4f7a-b643-651a4ab237d6",
+      "vice_chair_legislator_id": null
+    },
+    {
+      "id": "ee85b926-ea98-4571-af25-938bdc6447e5",
+      "name": "X1 Session Budget and Fiscal Review",
+      "chamber": "Senate",
+      "committee_type": "session",
+      "phone": "(916) 651-4013",
+      "secretary_name": "Sandy Perez, Samuel Lanchester",
+      "chair_legislator_id": "7061603d-3ddc-4245-86fc-b585c400b4c7",
+      "vice_chair_legislator_id": "1f3f3aa8-dde1-47fc-96e0-4a617f1906d6"
     }
   ]
 }
