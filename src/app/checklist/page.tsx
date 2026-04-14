@@ -3,7 +3,6 @@
 import { useState, useEffect, useMemo, useCallback, useRef } from "react";
 import { getLegislators, getFloor, getAvailableFloors, sortLegislators, getBuildingShort, type SortMode } from "@/lib/data";
 import SortFloorBar from "@/components/SortFloorBar";
-import OfficeLocation from "@/components/OfficeLocation";
 import { getSession } from "@/lib/session";
 import { supabase } from "@/lib/supabase";
 import type { Legislator, LobbySession } from "@/types";
@@ -369,7 +368,11 @@ function ChecklistItem({
 
       {expanded && (
         <div className="px-4 pb-4 border-t border-ca-dark/5 pt-3 space-y-3">
-          <OfficeLocation room={leg.capitol_room} building={leg.capitol_building} />
+          {leg.capitol_building && (
+            <div className="text-xs text-ca-dark/60">
+              <span className="font-semibold text-ca-dark/80">Location:</span> {leg.capitol_building}
+            </div>
+          )}
 
           {/* Plan to visit — prominent pre-event action */}
           <button
