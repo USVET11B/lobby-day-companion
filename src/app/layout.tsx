@@ -48,15 +48,27 @@ export default function RootLayout({
             <div className="flex gap-1 text-sm">
               <Link
                 href="/directory"
-                className="px-2 sm:px-3 py-1.5 rounded-lg hover:bg-white/10 transition-colors"
+                className="px-2 py-1.5 rounded-lg hover:bg-white/10 transition-colors"
               >
                 Directory
               </Link>
               <Link
                 href="/checklist"
-                className="px-2 sm:px-3 py-1.5 rounded-lg hover:bg-white/10 transition-colors"
+                className="px-2 py-1.5 rounded-lg hover:bg-white/10 transition-colors"
               >
                 Checklist
+              </Link>
+              <Link
+                href="/map"
+                className="px-2 py-1.5 rounded-lg hover:bg-white/10 transition-colors"
+              >
+                Map
+              </Link>
+              <Link
+                href="/hearings"
+                className="px-2 py-1.5 rounded-lg hover:bg-white/10 transition-colors"
+              >
+                Hearings
               </Link>
             </div>
           </div>
