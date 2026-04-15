@@ -277,18 +277,12 @@ function FloorDiagram({
 }
 
 function Floor3Diagram() {
-  const edgeLabel =
-    "flex items-center justify-center font-bold text-[10px] text-ca-dark/50 uppercase tracking-wider px-1";
-
   const committeeCell = (corner: string) => (
-    <div className="border-2 border-dashed border-ca-blue/30 bg-ca-blue/5 rounded-lg p-2 min-h-[110px] flex flex-col items-center justify-center text-center">
-      <div className="text-[10px] font-bold uppercase tracking-wider text-ca-blue">
-        Committee
+    <div className="border-2 border-dashed border-ca-blue/30 bg-ca-blue/5 rounded-lg p-3 min-h-[110px] flex flex-col items-center justify-center text-center">
+      <div className="text-[11px] font-bold uppercase tracking-wider text-ca-blue">
+        Committee Offices
       </div>
-      <div className="text-[10px] font-bold uppercase tracking-wider text-ca-blue">
-        Offices
-      </div>
-      <div className="text-[9px] text-ca-dark/50 mt-1">{corner}</div>
+      <div className="text-[9px] text-ca-dark/50 mt-1">({corner})</div>
     </div>
   );
 
@@ -298,48 +292,71 @@ function Floor3Diagram() {
         ↑ Back of building (away from O St)
       </div>
 
-      <div className="grid grid-cols-[auto_1fr_1fr_auto] gap-2 items-stretch">
-        {/* Row 1: 10th | NW committees | NE committees | 11th */}
-        <div className={edgeLabel}>10th St</div>
-        {committeeCell("10th St side")}
-        {committeeCell("11th St side")}
-        <div className={edgeLabel}>11th St</div>
+      <div className="grid grid-cols-[auto_1fr_auto_1fr_auto] gap-2">
+        {/* Col 1: 10th St label, spans all 3 rows */}
+        <div className="row-start-1 row-end-4 col-start-1 flex items-center justify-center font-bold text-[10px] text-ca-dark/50 uppercase tracking-wider px-1">
+          10th St
+        </div>
 
-        {/* Row 2: center strip — restroom · lobby · cafeteria (vertical) · lobby · elevators */}
-        <div className={edgeLabel}>10th St</div>
-        <div className="col-span-2 bg-ca-cream border-y border-dashed border-ca-dark/20 py-3 px-2">
-          <div className="flex items-stretch gap-2 min-h-[120px]">
-            <div className="flex items-center text-[10px] uppercase tracking-wider font-bold text-ca-dark/60">
-              Restroom
-            </div>
-            <div className="flex-1 flex items-center justify-center text-[10px] uppercase tracking-wider font-bold text-ca-dark/50 italic">
-              open lobby
-            </div>
-            <div className="bg-ca-gold/40 border-2 border-ca-gold rounded-lg px-2 py-3 flex flex-col items-center justify-center min-w-[60px]">
-              <div className="text-[10px] font-bold uppercase tracking-wider text-ca-dark text-center leading-tight">
-                Café
-              </div>
-              <div className="text-[8px] text-ca-dark/60 mt-1 text-center leading-tight">
-                no
-                <br />
-                seating
-              </div>
-            </div>
-            <div className="flex-1 flex items-center justify-center text-[10px] uppercase tracking-wider font-bold text-ca-dark/50 italic">
-              open lobby
-            </div>
-            <div className="flex items-center text-[10px] uppercase tracking-wider font-bold text-ca-dark/60">
-              Elevators
-            </div>
+        {/* Row 1, Col 2: NW committee */}
+        <div className="row-start-1 col-start-2">
+          {committeeCell("10th St side")}
+        </div>
+
+        {/* Col 3: Café — spans all 3 rows, dead center */}
+        <div className="row-start-1 row-end-4 col-start-3 bg-ca-gold/40 border-2 border-ca-gold rounded-lg flex flex-col items-center justify-between py-4 px-2 min-w-[90px]">
+          <div className="text-[14px] font-bold uppercase tracking-wider text-ca-dark text-center">
+            Café
+          </div>
+          <div className="text-[10px] text-ca-dark/60 italic text-center leading-snug px-1">
+            Little to no
+            <br />
+            seating
+          </div>
+          <div className="text-[10px] text-ca-dark/40 italic text-center">
+            ·
           </div>
         </div>
-        <div className={edgeLabel}>11th St</div>
 
-        {/* Row 3: 10th | SW committees | SE committees | 11th */}
-        <div className={edgeLabel}>10th St</div>
-        {committeeCell("10th/O corner")}
-        {committeeCell("11th/O corner")}
-        <div className={edgeLabel}>11th St</div>
+        {/* Row 1, Col 4: NE committee */}
+        <div className="row-start-1 col-start-4">
+          {committeeCell("11th St side")}
+        </div>
+
+        {/* Col 5: 11th St label, spans all 3 rows */}
+        <div className="row-start-1 row-end-4 col-start-5 flex items-center justify-center font-bold text-[10px] text-ca-dark/50 uppercase tracking-wider px-1">
+          11th St
+        </div>
+
+        {/* Row 2, Col 2: lobby strip left half (Restroom + open lobby) */}
+        <div className="row-start-2 col-start-2 bg-ca-cream border-y-2 border-dashed border-ca-dark/30 py-3 px-3 flex items-center justify-between gap-2">
+          <div className="bg-white border border-ca-dark/30 rounded-lg px-3 py-2 text-[11px] uppercase tracking-wider font-bold text-ca-dark/80 shadow-sm">
+            Restroom
+          </div>
+          <span className="text-[10px] uppercase tracking-wider italic text-ca-dark/40">
+            open lobby
+          </span>
+        </div>
+
+        {/* Row 2, Col 4: lobby strip right half (open lobby + Elevators) */}
+        <div className="row-start-2 col-start-4 bg-ca-cream border-y-2 border-dashed border-ca-dark/30 py-3 px-3 flex items-center justify-between gap-2">
+          <span className="text-[10px] uppercase tracking-wider italic text-ca-dark/40">
+            open lobby
+          </span>
+          <div className="bg-white border border-ca-dark/30 rounded-lg px-3 py-2 text-[11px] uppercase tracking-wider font-bold text-ca-dark/80 shadow-sm">
+            Elevators
+          </div>
+        </div>
+
+        {/* Row 3, Col 2: SW committee */}
+        <div className="row-start-3 col-start-2">
+          {committeeCell("10th / O corner")}
+        </div>
+
+        {/* Row 3, Col 4: SE committee */}
+        <div className="row-start-3 col-start-4">
+          {committeeCell("11th / O corner")}
+        </div>
       </div>
 
       <div className="text-center text-[10px] text-ca-dark/50 font-semibold uppercase tracking-wider mt-2">
@@ -349,7 +366,7 @@ function Floor3Diagram() {
       <div className="mt-3 text-[11px] text-ca-dark/70 bg-ca-cream border border-ca-dark/10 rounded p-2 leading-snug">
         Floor 3 has no legislator offices. The four hallways host Senate
         committee staff, the Department of Finance, and Legislative Counsel.
-        A small café sits dead-center in the open lobby (no seating).
+        A small café sits dead-center in the building (little to no seating).
       </div>
     </div>
   );
