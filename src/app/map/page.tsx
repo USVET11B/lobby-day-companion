@@ -135,11 +135,15 @@ export default function MapPage() {
       </div>
 
       {/* Floor diagram */}
-      <FloorDiagram
-        byQuadrant={byQuadrant}
-        selectedRoom={selectedRoom}
-        onSelectRoom={setSelectedRoom}
-      />
+      {selectedFloor === 3 ? (
+        <Floor3Diagram />
+      ) : (
+        <FloorDiagram
+          byQuadrant={byQuadrant}
+          selectedRoom={selectedRoom}
+          onSelectRoom={setSelectedRoom}
+        />
+      )}
 
       {/* Selected room detail */}
       {selectedRoom && (
@@ -268,6 +272,98 @@ function FloorDiagram({
           {byQuadrant.unknown.map((o) => o.room).join(", ")}
         </div>
       )}
+    </div>
+  );
+}
+
+function Floor3Diagram() {
+  const edgeLabel =
+    "flex items-center justify-center font-bold text-[10px] text-ca-dark/50 uppercase tracking-wider px-1";
+
+  return (
+    <div className="bg-white border border-ca-dark/10 rounded-xl p-3 shadow-card">
+      <div className="text-center text-[10px] text-ca-dark/50 font-semibold uppercase tracking-wider mb-2">
+        ↑ Back of building (away from O St)
+      </div>
+
+      <div className="grid grid-cols-[auto_1fr_auto] gap-2 items-stretch">
+        {/* Left edge label */}
+        <div className={edgeLabel}>10th St</div>
+
+        {/* Wide center column */}
+        <div className="border-2 border-dashed border-ca-dark/20 rounded-lg p-3 min-h-[260px]">
+          {/* Top row: committee offices on each side */}
+          <div className="grid grid-cols-2 gap-2 mb-3">
+            <div className="bg-ca-blue/5 border border-ca-blue/20 rounded-lg p-2 text-center">
+              <div className="text-[10px] font-bold uppercase tracking-wider text-ca-blue">
+                Committee Offices
+              </div>
+              <div className="text-[9px] text-ca-dark/50 mt-0.5">10th St side</div>
+            </div>
+            <div className="bg-ca-blue/5 border border-ca-blue/20 rounded-lg p-2 text-center">
+              <div className="text-[10px] font-bold uppercase tracking-wider text-ca-blue">
+                Committee Offices
+              </div>
+              <div className="text-[9px] text-ca-dark/50 mt-0.5">11th St side</div>
+            </div>
+          </div>
+
+          {/* Center: lobby with vertical cafeteria block */}
+          <div className="bg-ca-cream border border-dashed border-ca-dark/30 rounded-lg p-3">
+            <div className="text-center text-[10px] uppercase tracking-wider font-bold text-ca-dark/60 mb-2">
+              Open Lobby
+            </div>
+            <div className="grid grid-cols-[auto_1fr_auto] items-stretch gap-2">
+              <div className="text-[10px] uppercase tracking-wider font-bold text-ca-dark/60 self-center">
+                Restroom
+              </div>
+              <div className="bg-ca-gold/30 border border-ca-gold/60 rounded-lg p-3 text-center min-h-[80px] flex flex-col items-center justify-center">
+                <div className="text-[10px] font-bold uppercase tracking-wider text-ca-dark">
+                  Cafeteria
+                </div>
+                <div className="text-[9px] text-ca-dark/60 mt-0.5">
+                  small café
+                </div>
+                <div className="text-[9px] text-ca-dark/50">
+                  no seating
+                </div>
+              </div>
+              <div className="text-[10px] uppercase tracking-wider font-bold text-ca-dark/60 self-center">
+                Elevators
+              </div>
+            </div>
+          </div>
+
+          {/* Bottom: more committee offices */}
+          <div className="grid grid-cols-2 gap-2 mt-3">
+            <div className="bg-ca-blue/5 border border-ca-blue/20 rounded-lg p-2 text-center">
+              <div className="text-[10px] font-bold uppercase tracking-wider text-ca-blue">
+                Committee Offices
+              </div>
+              <div className="text-[9px] text-ca-dark/50 mt-0.5">10th St side</div>
+            </div>
+            <div className="bg-ca-blue/5 border border-ca-blue/20 rounded-lg p-2 text-center">
+              <div className="text-[10px] font-bold uppercase tracking-wider text-ca-blue">
+                Committee Offices
+              </div>
+              <div className="text-[9px] text-ca-dark/50 mt-0.5">11th St side</div>
+            </div>
+          </div>
+        </div>
+
+        {/* Right edge label */}
+        <div className={edgeLabel}>11th St</div>
+      </div>
+
+      <div className="text-center text-[10px] text-ca-dark/50 font-semibold uppercase tracking-wider mt-2">
+        ↓ O St entrance ↓
+      </div>
+
+      <div className="mt-3 text-[11px] text-ca-dark/70 bg-ca-cream border border-ca-dark/10 rounded p-2 leading-snug">
+        Floor 3 has no legislator offices. It houses Senate committee staff,
+        the Department of Finance, Legislative Counsel, and a small café in
+        the open lobby area (no seating).
+      </div>
     </div>
   );
 }
