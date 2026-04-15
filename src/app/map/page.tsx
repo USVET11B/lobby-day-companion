@@ -192,15 +192,19 @@ function FloorDiagram({
   selectedRoom: string | null;
   onSelectRoom: (room: string) => void;
 }) {
+  const edgeLabel =
+    "flex items-center justify-center font-bold text-[10px] text-ca-dark/50 uppercase tracking-wider px-1";
+
   return (
     <div className="bg-white border border-ca-dark/10 rounded-xl p-3 shadow-card">
-      {/* Orientation label */}
+      {/* North label */}
       <div className="text-center text-[10px] text-ca-dark/50 font-semibold uppercase tracking-wider mb-2">
         ↑ Back of building (away from O St)
       </div>
 
-      {/* Top row: NW + elev label + NE */}
-      <div className="grid grid-cols-[1fr_auto_1fr] gap-2 items-stretch">
+      <div className="grid grid-cols-[auto_1fr_1fr_auto] gap-2 items-stretch">
+        {/* Row 1: 10th | NW | NE | 11th */}
+        <div className={edgeLabel}>10th St</div>
         <QuadrantCell
           label="NW"
           range="rooms 220–350"
@@ -210,11 +214,6 @@ function FloorDiagram({
           onSelectRoom={onSelectRoom}
           alignCorner="topLeft"
         />
-        <div className="flex flex-col items-center justify-center text-[9px] text-ca-dark/40 font-semibold uppercase tracking-wide gap-4 px-1">
-          <div>10th</div>
-          <div className="writing-vertical">lobby</div>
-          <div>11th</div>
-        </div>
         <QuadrantCell
           label="NE"
           range="rooms 510–640"
@@ -224,15 +223,19 @@ function FloorDiagram({
           onSelectRoom={onSelectRoom}
           alignCorner="topRight"
         />
-      </div>
+        <div className={edgeLabel}>11th St</div>
 
-      {/* Center strip */}
-      <div className="my-2 bg-ca-cream border-y border-dashed border-ca-dark/15 py-2 px-3 text-[10px] text-ca-dark/50 text-center uppercase tracking-wider font-semibold">
-        restroom · lobby · elevators
-      </div>
+        {/* Row 2: center strip with restroom (far-left) | lobby | elevators (far-right) */}
+        <div className={edgeLabel}>10th St</div>
+        <div className="col-span-2 bg-ca-cream border-y border-dashed border-ca-dark/20 py-3 px-2 flex items-center justify-between text-[10px] uppercase tracking-wider font-bold text-ca-dark/60">
+          <span>Restroom</span>
+          <span className="text-ca-dark/70">Lobby</span>
+          <span>Elevators</span>
+        </div>
+        <div className={edgeLabel}>11th St</div>
 
-      {/* Bottom row: SW + label + SE */}
-      <div className="grid grid-cols-[1fr_auto_1fr] gap-2 items-stretch">
+        {/* Row 3: 10th | SW | SE | 11th */}
+        <div className={edgeLabel}>10th St</div>
         <QuadrantCell
           label="SW"
           range="rooms 100–240"
@@ -242,11 +245,6 @@ function FloorDiagram({
           onSelectRoom={onSelectRoom}
           alignCorner="bottomLeft"
         />
-        <div className="flex flex-col items-center justify-center text-[9px] text-ca-dark/40 font-semibold uppercase tracking-wide gap-4 px-1">
-          <div>10th</div>
-          <div>rest</div>
-          <div>11th</div>
-        </div>
         <QuadrantCell
           label="SE"
           range="rooms 620–740"
@@ -256,6 +254,7 @@ function FloorDiagram({
           onSelectRoom={onSelectRoom}
           alignCorner="bottomRight"
         />
+        <div className={edgeLabel}>11th St</div>
       </div>
 
       {/* South label (entrance) */}
