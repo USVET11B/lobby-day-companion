@@ -196,9 +196,6 @@ function FloorDiagram({
   selectedRoom: string | null;
   onSelectRoom: (room: string) => void;
 }) {
-  const edgeLabel =
-    "flex items-center justify-center font-bold text-[10px] text-ca-dark/50 uppercase tracking-wider px-1";
-
   return (
     <div className="bg-white border border-ca-dark/10 rounded-xl p-3 shadow-card">
       {/* North label */}
@@ -206,59 +203,112 @@ function FloorDiagram({
         ↑ Back of building (away from O St)
       </div>
 
-      <div className="grid grid-cols-[auto_1fr_1fr_auto] gap-2 items-stretch">
-        {/* Row 1: 10th | NW | NE | 11th */}
-        <div className={edgeLabel}>10th St</div>
-        <QuadrantCell
-          label="NW"
-          range="rooms 220–350"
-          corner="10th St side"
-          occupants={byQuadrant.NW}
-          selectedRoom={selectedRoom}
-          onSelectRoom={onSelectRoom}
-          alignCorner="topLeft"
-        />
-        <QuadrantCell
-          label="NE"
-          range="rooms 510–640"
-          corner="11th St side"
-          occupants={byQuadrant.NE}
-          selectedRoom={selectedRoom}
-          onSelectRoom={onSelectRoom}
-          alignCorner="topRight"
-        />
-        <div className={edgeLabel}>11th St</div>
-
-        {/* Row 2: center strip with restroom (far-left) | lobby | elevators (far-right) */}
-        <div className={edgeLabel}>10th St</div>
-        <div className="col-span-2 bg-ca-cream border-y border-dashed border-ca-dark/20 py-3 px-2 flex items-center justify-between text-[10px] uppercase tracking-wider font-bold text-ca-dark/60">
-          <span>Restroom</span>
-          <span className="text-ca-dark/70">Lobby</span>
-          <span>Elevators</span>
+      <div className="grid grid-cols-[auto_1fr_auto_1fr_auto] gap-2">
+        {/* Col 1: 10th St label, spans all 3 rows */}
+        <div className="row-start-1 row-end-4 col-start-1 flex items-center justify-center font-bold text-[10px] text-ca-dark/50 uppercase tracking-wider px-1">
+          10th St
         </div>
-        <div className={edgeLabel}>11th St</div>
 
-        {/* Row 3: 10th | SW | SE | 11th */}
-        <div className={edgeLabel}>10th St</div>
-        <QuadrantCell
-          label="SW"
-          range="rooms 100–240"
-          corner="10th/O corner"
-          occupants={byQuadrant.SW}
-          selectedRoom={selectedRoom}
-          onSelectRoom={onSelectRoom}
-          alignCorner="bottomLeft"
-        />
-        <QuadrantCell
-          label="SE"
-          range="rooms 620–740"
-          corner="11th/O corner"
-          occupants={byQuadrant.SE}
-          selectedRoom={selectedRoom}
-          onSelectRoom={onSelectRoom}
-          alignCorner="bottomRight"
-        />
-        <div className={edgeLabel}>11th St</div>
+        {/* Row 1, Col 2: NW quadrant */}
+        <div className="row-start-1 col-start-2">
+          <QuadrantCell
+            label="NW"
+            range="rooms 220–350"
+            corner="10th St side"
+            occupants={byQuadrant.NW}
+            selectedRoom={selectedRoom}
+            onSelectRoom={onSelectRoom}
+            alignCorner="topLeft"
+          />
+        </div>
+
+        {/* Col 3: Seating area — spans all 3 rows, dead center */}
+        <div className="row-start-1 row-end-4 col-start-3 bg-ca-gold/40 border-2 border-ca-gold rounded-lg flex flex-col items-center justify-around py-4 px-2 min-w-[88px]">
+          <div className="text-[10px] font-bold uppercase tracking-wider text-ca-dark text-center leading-tight">
+            Seating
+            <br />
+            area
+          </div>
+          <div className="text-[10px] font-bold uppercase tracking-wider text-ca-dark text-center leading-tight">
+            Seating
+            <br />
+            area
+          </div>
+          <div className="text-[10px] font-bold uppercase tracking-wider text-ca-dark text-center leading-tight">
+            Seating
+            <br />
+            area
+          </div>
+          <div className="text-[10px] font-bold uppercase tracking-wider text-ca-dark text-center leading-tight">
+            Seating
+            <br />
+            area
+          </div>
+        </div>
+
+        {/* Row 1, Col 4: NE quadrant */}
+        <div className="row-start-1 col-start-4">
+          <QuadrantCell
+            label="NE"
+            range="rooms 510–640"
+            corner="11th St side"
+            occupants={byQuadrant.NE}
+            selectedRoom={selectedRoom}
+            onSelectRoom={onSelectRoom}
+            alignCorner="topRight"
+          />
+        </div>
+
+        {/* Col 5: 11th St label, spans all 3 rows */}
+        <div className="row-start-1 row-end-4 col-start-5 flex items-center justify-center font-bold text-[10px] text-ca-dark/50 uppercase tracking-wider px-1">
+          11th St
+        </div>
+
+        {/* Row 2, Col 2: lobby strip left half (Restroom + open lobby) */}
+        <div className="row-start-2 col-start-2 bg-ca-cream border-y-2 border-dashed border-ca-dark/30 py-3 px-3 flex items-center justify-between gap-2">
+          <div className="bg-white border border-ca-dark/30 rounded-lg px-3 py-2 text-[11px] uppercase tracking-wider font-bold text-ca-dark/80 shadow-sm">
+            Restroom
+          </div>
+          <span className="text-[10px] uppercase tracking-wider italic text-ca-dark/40">
+            open lobby
+          </span>
+        </div>
+
+        {/* Row 2, Col 4: lobby strip right half (open lobby + Elevators) */}
+        <div className="row-start-2 col-start-4 bg-ca-cream border-y-2 border-dashed border-ca-dark/30 py-3 px-3 flex items-center justify-between gap-2">
+          <span className="text-[10px] uppercase tracking-wider italic text-ca-dark/40">
+            open lobby
+          </span>
+          <div className="bg-white border border-ca-dark/30 rounded-lg px-3 py-2 text-[11px] uppercase tracking-wider font-bold text-ca-dark/80 shadow-sm">
+            Elevators
+          </div>
+        </div>
+
+        {/* Row 3, Col 2: SW quadrant */}
+        <div className="row-start-3 col-start-2">
+          <QuadrantCell
+            label="SW"
+            range="rooms 100–240"
+            corner="10th/O corner"
+            occupants={byQuadrant.SW}
+            selectedRoom={selectedRoom}
+            onSelectRoom={onSelectRoom}
+            alignCorner="bottomLeft"
+          />
+        </div>
+
+        {/* Row 3, Col 4: SE quadrant */}
+        <div className="row-start-3 col-start-4">
+          <QuadrantCell
+            label="SE"
+            range="rooms 620–740"
+            corner="11th/O corner"
+            occupants={byQuadrant.SE}
+            selectedRoom={selectedRoom}
+            onSelectRoom={onSelectRoom}
+            alignCorner="bottomRight"
+          />
+        </div>
       </div>
 
       {/* South label (entrance) */}
