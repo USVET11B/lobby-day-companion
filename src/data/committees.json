@@ -167,7 +167,7 @@
       "committee_type": "standing",
       "phone": "(916) 319-2087",
       "secretary_name": "Lauren Robinson",
-      "chair_legislator_id": "5bb0f8e2-b4c9-41d7-af5f-a46ffc9cc10a",
+      "chair_legislator_id": "f396f1af-20f4-4dfe-8dc6-21ce5938081d",
       "vice_chair_legislator_id": "86c563c7-c0d2-4e4f-96c9-5f7eda0e3ff3"
     },
     {
@@ -775,7 +775,7 @@
       "name": "Joint Committee on Fisheries and Aquaculture",
       "chamber": "Joint",
       "committee_type": "joint",
-      "phone": "(916) 651-4338",
+      "phone": "(916) 651-4002",
       "secretary_name": null,
       "chair_legislator_id": "bd51dc19-e783-4160-9da4-e75646b68bf5",
       "vice_chair_legislator_id": "cf5b9fd8-af6e-49a7-8f7b-ad3b845d6dc1"
@@ -795,7 +795,7 @@
       "name": "Joint Committee on the Arts",
       "chamber": "Joint",
       "committee_type": "joint",
-      "phone": "(916) 651-4026",
+      "phone": "(916) 651-4024",
       "secretary_name": null,
       "chair_legislator_id": "c10ba4e1-d0d4-4bde-8f39-77a9461a2ee9",
       "vice_chair_legislator_id": "d326723c-d281-416b-a34e-79d959dcad98"
@@ -938,7 +938,7 @@
       "phone": "(916) 651-4104",
       "secretary_name": "Krimilda McKenzie",
       "chair_legislator_id": "2da7544b-5770-4898-9f5a-9c0361f72021",
-      "vice_chair_legislator_id": null
+      "vice_chair_legislator_id": "c79774bd-2009-4340-ad14-be3b05015a3d"
     },
     {
       "id": "ca3c02bc-943b-45e8-aedf-062ea1ecfe2a",
@@ -958,7 +958,7 @@
       "phone": "(916) 651-4106",
       "secretary_name": "Rida Shaikh",
       "chair_legislator_id": "7061603d-3ddc-4245-86fc-b585c400b4c7",
-      "vice_chair_legislator_id": null
+      "vice_chair_legislator_id": "c79774bd-2009-4340-ad14-be3b05015a3d"
     },
     {
       "id": "64b3997d-e6eb-4477-9ee7-88d77085f158",
@@ -1007,7 +1007,7 @@
       "committee_type": "standing",
       "phone": "(916) 651-4111",
       "secretary_name": "Margarita Niemann",
-      "chair_legislator_id": null,
+      "chair_legislator_id": "b81d7e3c-d581-4c09-8659-0953b66b899a",
       "vice_chair_legislator_id": "0717c49d-e496-4677-ae55-91b697b62f1e"
     },
     {
@@ -1078,7 +1078,7 @@
       "phone": "(916) 651-4119",
       "secretary_name": "Sophia Reynoso-Lopez",
       "chair_legislator_id": "89b1f36a-d348-46a4-9953-eae764bed7d4",
-      "vice_chair_legislator_id": null
+      "vice_chair_legislator_id": "c79774bd-2009-4340-ad14-be3b05015a3d"
     },
     {
       "id": "646b0678-e70a-4e8d-a633-5ec685be340d",
@@ -1257,7 +1257,7 @@
       "committee_type": "select",
       "phone": "(916) 651-4039",
       "secretary_name": null,
-      "chair_legislator_id": null,
+      "chair_legislator_id": "b81d7e3c-d581-4c09-8659-0953b66b899a",
       "vice_chair_legislator_id": null
     },
     {

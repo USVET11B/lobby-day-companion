@@ -20,7 +20,8 @@
     },
     "scheduling_portal_url": null,
     "scheduler_emails": [
-      "hadwick.scheduler@asm.ca.gov"
+      "hadwick.scheduler@asm.ca.gov",
+      "jazmin.rodriguez@asm.ca.gov"
     ],
     "veteran_relevance_score": 0,
     "veteran_relevance_notes": null,
@@ -38,6 +39,31 @@
         "committee": "Emergency Management",
         "chamber": "Assembly",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 3 on Education Finance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Emergency Management",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -75,6 +101,41 @@
         "committee": "Select Committee on Climate Innovation and Infrastructure",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Communications and Conveyance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Utilities and Energy",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Water, Parks, and Wildlife",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 4 on Climate, Crisis, Resources, Energy and Transportation",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Fisheries and Aquaculture",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -112,6 +173,26 @@
         "committee": "Elections",
         "chamber": "Assembly",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Water, Parks, and Wildlife",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 4 on Climate, Crisis, Resources, Energy and Transportation",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -149,6 +230,26 @@
         "committee": "Select Committee on Child Care Costs",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Agriculture",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -191,6 +292,31 @@
         "committee": "Utilities and Energy",
         "chamber": "Assembly",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Privacy and Consumer Protection",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 1 on Health",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Budget Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -223,7 +349,28 @@
     "has_military_base": false,
     "has_va_facility": false,
     "bio_notes": null,
-    "committees": []
+    "committees": [
+      {
+        "committee": "Appropriations",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Banking and Finance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Communications and Conveyance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Assembly",
+        "role": "member"
+      }
+    ]
   },
   {
     "id": "86c563c7-c0d2-4e4f-96c9-5f7eda0e3ff3",
@@ -269,6 +416,26 @@
         "committee": "Education",
         "chamber": "Assembly",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Natural Resources",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Privacy and Consumer Protection",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Audit Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -331,6 +498,11 @@
         "committee": "Joint Legislative Budget Committee",
         "chamber": "Joint",
         "role": "member"
+      },
+      {
+        "committee": "Human Services",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -368,6 +540,11 @@
         "committee": "X1 Session Budget and Fiscal Review",
         "chamber": "Assembly",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -405,6 +582,31 @@
         "committee": "Select Committee on Child Care Costs",
         "chamber": "Assembly",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Public Employment and Retirement",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Public Safety",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -450,6 +652,31 @@
       },
       {
         "committee": "Select Committee on Community Reinvestment",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Housing and Community Development",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Local Government",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Privacy and Consumer Protection",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 4 on Climate, Crisis, Resources, Energy and Transportation",
         "chamber": "Assembly",
         "role": "member"
       }
@@ -499,6 +726,36 @@
         "committee": "Select Committee on Community Reinvestment",
         "chamber": "Assembly",
         "role": "member"
+      },
+      {
+        "committee": "Agriculture",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Natural Resources",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 4 on Climate, Crisis, Resources, Energy and Transportation",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Fairs, Allocation and Classification",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -541,6 +798,31 @@
         "committee": "Joint Legislative Committee on Emergency Management",
         "chamber": "Joint",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Agriculture",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Local Government",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Fairs, Allocation and Classification",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Audit Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -583,6 +865,21 @@
         "committee": "Select Committee on Housing Construction Innovation",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Housing and Community Development",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Natural Resources",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Privacy and Consumer Protection",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -620,6 +917,31 @@
         "committee": "Select Committee on Housing Finance and Affordability",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Aging and Long-Term Care",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Housing and Community Development",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Military and Veterans Affairs",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Water, Parks, and Wildlife",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -644,7 +966,7 @@
     },
     "scheduling_portal_url": "https://scheduling.assembly.ca.gov/a16",
     "scheduler_emails": [
-      "https://scheduling.assembly.ca.gov/a16"
+      "jose.gomez@asm.ca.gov"
     ],
     "veteran_relevance_score": 2,
     "veteran_relevance_notes": "Bauer-Kahan does not serve on the Military & Veterans Affairs Committee or Appropriations Committee, and is not a known veteran. Her district in Contra Costa, Alameda, and San Joaquin counties does not include a major active military installation, though the broader Bay Area has VA facilities accessible to district constituents. Her committees focus on judiciary, privacy, environmental safety, and mental health, with the Select Committee on Mental Health Crisis offering a tangential connection to veteran mental health issues. Score reflects VA facility proximity (+1) and mental health committee relevance (+1).",
@@ -656,7 +978,7 @@
       {
         "committee": "Privacy and Consumer Protection",
         "chamber": "Assembly",
-        "role": "vice_chair"
+        "role": "chair"
       },
       {
         "committee": "Select Committee on Reproductive Health",
@@ -739,6 +1061,31 @@
         "committee": "Select Committee on Community Reinvestment",
         "chamber": "Assembly",
         "role": "member"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Natural Resources",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Public Safety",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 5 on State Administration",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -763,8 +1110,7 @@
     },
     "scheduling_portal_url": "https://scheduling.assembly.ca.gov/a18",
     "scheduler_emails": [
-      "rickiea.lacy@asm.ca.gov",
-      "jo.tinoco@asm.ca.gov"
+      "rickiea.lacy@asm.ca.gov"
     ],
     "veteran_relevance_score": 0,
     "veteran_relevance_notes": null,
@@ -774,14 +1120,14 @@
     "bio_notes": null,
     "committees": [
       {
-        "committee": "Budget Subcommittee No. 1 on Health",
-        "chamber": "Assembly",
-        "role": "vice_chair"
-      },
-      {
         "committee": "Health",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Budget Subcommittee No. 1 on Health",
+        "chamber": "Assembly",
+        "role": "member"
       },
       {
         "committee": "Select Committee on Calfresh Enrollment and Nutrition",
@@ -790,6 +1136,21 @@
       },
       {
         "committee": "Select Committee on Community Reinvestment",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Communications and Conveyance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Education",
         "chamber": "Assembly",
         "role": "member"
       }
@@ -829,6 +1190,36 @@
         "committee": "Legislative Ethics",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Elections",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Local Government",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 1 on Health",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -866,6 +1257,31 @@
         "committee": "Labor and Employment",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Arts, Entertainment, Sports, and Tourism",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Privacy and Consumer Protection",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 5 on State Administration",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -913,6 +1329,26 @@
         "committee": "Water, Parks, and Wildlife",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Environmental Safety and Toxic Materials",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Utilities and Energy",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -1087,6 +1523,21 @@
         "committee": "Select Committee on Master Plan for Higher Education in California",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Elections",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -1129,6 +1580,31 @@
         "committee": "Select Committee on Social Housing",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Environmental Safety and Toxic Materials",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Housing and Community Development",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Labor and Employment",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 2 on Human Services",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -1171,6 +1647,26 @@
         "committee": "Select Committee on Alternative Protien Innovation",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Housing and Community Development",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Labor and Employment",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Natural Resources",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Utilities and Energy",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -1203,7 +1699,43 @@
     "has_military_base": false,
     "has_va_facility": false,
     "bio_notes": null,
-    "committees": []
+    "committees": [
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Rules",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 2 on Human Services",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
+      }
+    ]
   },
   {
     "id": "51f500a7-c644-40b0-8f34-5533f9a0544c",
@@ -1244,6 +1776,21 @@
         "committee": "Joint Committee on Fairs, Allocation and Classification",
         "chamber": "Joint",
         "role": "chair"
+      },
+      {
+        "committee": "Banking and Finance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Economic Development, Growth, and Household Impact",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -1286,6 +1833,31 @@
         "committee": "Select Committee on California's Mental Health Crisis",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Appropriations",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Education",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Natural Resources",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Privacy and Consumer Protection",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -1318,7 +1890,13 @@
     "has_military_base": false,
     "has_va_facility": false,
     "bio_notes": null,
-    "committees": []
+    "committees": [
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
+      }
+    ]
   },
   {
     "id": "f3086582-0503-4049-9d1f-ae0a1bf5abcc",
@@ -1359,6 +1937,31 @@
         "committee": "Select Committee on Serving Students With Disabilities",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Budget Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -1396,6 +1999,31 @@
         "committee": "Select Committee on Community Economic Mobility and Investment",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Aging and Long-Term Care",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Appropriations",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Emergency Management",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Fairs, Allocation and Classification",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Emergency Management",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -1443,6 +2071,11 @@
         "committee": "Natural Resources",
         "chamber": "Assembly",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -1485,6 +2118,26 @@
         "committee": "Privacy and Consumer Protection",
         "chamber": "Assembly",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Natural Resources",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -1537,6 +2190,41 @@
         "committee": "X1 Session Rules",
         "chamber": "Assembly",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Public Safety",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 4 on Climate, Crisis, Resources, Energy and Transportation",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 6 on Public Safety",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on the Arts",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -1574,6 +2262,31 @@
         "committee": "Aging and Long-Term Care",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Emergency Management",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Water, Parks, and Wildlife",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Fairs, Allocation and Classification",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Emergency Management",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -1598,7 +2311,8 @@
     },
     "scheduling_portal_url": null,
     "scheduler_emails": [
-      "dylan.callaway@asm.ca.gov"
+      "dylan.callaway@asm.ca.gov",
+      "alexander.smith@asm.ca.gov"
     ],
     "veteran_relevance_score": 5,
     "veteran_relevance_notes": "The 36th District encompasses portions of San Diego, Riverside, Imperial, and San Bernardino counties, a region with significant military presence including proximity to Marine Corps Air Ground Combat Center Twentynine Palms and Naval Air Facility El Centro. The district likely includes VA clinic or outreach facilities serving the large veteran population in the desert communities. No confirmed committee assignments on Military & Veterans Affairs or Appropriations are available, but the district's geographic overlap with major military installations and a historically high veteran population density elevates relevance. Score reflects military base presence (+2), VA facility likelihood (+1), and district veteran population considerations (+2).",
@@ -1805,6 +2519,36 @@
         "committee": "Budget Subcommittee No. 4 on Climate, Crisis, Resources, Energy and Transportation",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Elections",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Emergency Management",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Water, Parks, and Wildlife",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Budget Committee",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Emergency Management",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -1845,6 +2589,31 @@
       },
       {
         "committee": "Select Committee on Community Reinvestment",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Military and Veterans Affairs",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Revenue and Taxation",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
         "chamber": "Assembly",
         "role": "member"
       }
@@ -1889,6 +2658,31 @@
         "committee": "Select Committee on Electric Vehicles and Charging Infrastructure",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Banking and Finance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Utilities and Energy",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 1 on Health",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -1931,6 +2725,31 @@
         "committee": "Select Committee on Housing Finance and Affordability",
         "chamber": "Assembly",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Public Safety",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Utilities and Energy",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -1973,6 +2792,46 @@
         "committee": "Select Committee on Cybersecurity",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Agriculture",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Military and Veterans Affairs",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Privacy and Consumer Protection",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Rules",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Utilities and Energy",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Fairs, Allocation and Classification",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -2005,7 +2864,68 @@
     "has_military_base": false,
     "has_va_facility": false,
     "bio_notes": null,
-    "committees": []
+    "committees": [
+      {
+        "committee": "Banking and Finance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Economic Development, Growth, and Household Impact",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Higher Education",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Human Services",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Public Employment and Retirement",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Revenue and Taxation",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Rules",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Water, Parks, and Wildlife",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
+      }
+    ]
   },
   {
     "id": "07e9afc7-d233-4a4f-8ff1-128fa3a4c5b1",
@@ -2041,6 +2961,26 @@
         "committee": "Public Safety",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Natural Resources",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Utilities and Energy",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 6 on Public Safety",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -2083,6 +3023,26 @@
         "committee": "Select Committee on Native American Affairs",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Local Government",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Public Safety",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -2130,6 +3090,11 @@
         "committee": "X1 Session Budget and Fiscal Review",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -2189,11 +3154,6 @@
         "role": "member"
       },
       {
-        "committee": "Insurance",
-        "chamber": "Assembly",
-        "role": "member"
-      },
-      {
         "committee": "Select Committee on Climate Innovation and Infrastructure",
         "chamber": "Assembly",
         "role": "member"
@@ -2222,6 +3182,11 @@
         "committee": "Utilities and Energy",
         "chamber": "Assembly",
         "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Assembly",
+        "role": "vice_chair"
       },
       {
         "committee": "X1 Session Budget and Fiscal Review",
@@ -2269,6 +3234,26 @@
         "committee": "Select Committee on Domestic Violence",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Aging and Long-Term Care",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Banking and Finance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Communications and Conveyance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Local Government",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -2311,6 +3296,36 @@
         "committee": "Select Committee on Effective Postsecondary Career Technical Education and Workforce Development Programs",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Appropriations",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Banking and Finance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 3 on Education Finance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Audit Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -2343,7 +3358,38 @@
     "has_military_base": false,
     "has_va_facility": false,
     "bio_notes": null,
-    "committees": []
+    "committees": [
+      {
+        "committee": "Education",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Housing and Community Development",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Natural Resources",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Public Employment and Retirement",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Rules",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
+      }
+    ]
   },
   {
     "id": "47ad89fc-0166-4586-9867-3ad8d9b7adb5",
@@ -2366,7 +3412,7 @@
     },
     "scheduling_portal_url": "https://scheduling.assembly.ca.gov/a51",
     "scheduler_emails": [
-      "rachel.tyberg@asm.ca.gov"
+      "tami.martin@asm.ca.gov"
     ],
     "veteran_relevance_score": 0,
     "veteran_relevance_notes": null,
@@ -2374,7 +3420,48 @@
     "has_military_base": false,
     "has_va_facility": false,
     "bio_notes": null,
-    "committees": []
+    "committees": [
+      {
+        "committee": "Arts, Entertainment, Sports, and Tourism",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Education",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Natural Resources",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Rules",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Utilities and Energy",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on the Arts",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
+      }
+    ]
   },
   {
     "id": "b08fd339-2f2c-44ad-9bbd-a4222c52cae0",
@@ -2410,6 +3497,46 @@
         "committee": "Select Committee on Asia/California Trade and Investment",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Appropriations",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Communications and Conveyance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Housing and Community Development",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Water, Parks, and Wildlife",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 5 on State Administration",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -2470,14 +3597,47 @@
       "phone": "(213) 620-4646"
     },
     "scheduling_portal_url": "https://scheduling.assembly.ca.gov/a54",
-    "scheduler_emails": [],
+    "scheduler_emails": [
+      "cyla.holiday@asm.ca.gov"
+    ],
     "veteran_relevance_score": 0,
     "veteran_relevance_notes": null,
     "has_veteran_legislation": false,
     "has_military_base": false,
     "has_va_facility": false,
     "bio_notes": null,
-    "committees": []
+    "committees": [
+      {
+        "committee": "Appropriations",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Public Safety",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Rules",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Utilities and Energy",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
+      }
+    ]
   },
   {
     "id": "e6eb5a26-13bf-4bd6-8c14-cd2edaa2128f",
@@ -2519,6 +3679,26 @@
         "committee": "Select Committee on the Status of Boys and Men of Color",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Privacy and Consumer Protection",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Climate Change Policies",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -2556,6 +3736,31 @@
         "committee": "Insurance",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Appropriations",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Emergency Management",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Human Services",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Utilities and Energy",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Emergency Management",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -2580,7 +3785,8 @@
     },
     "scheduling_portal_url": "https://scheduling.assembly.ca.gov/a57",
     "scheduler_emails": [
-      "elizabeth.orkeh@asm.ca.gov"
+      "elizabeth.orkeh@asm.ca.gov",
+      "jose.ruiz-benites@asm.ca.gov"
     ],
     "veteran_relevance_score": 0,
     "veteran_relevance_notes": null,
@@ -2588,7 +3794,38 @@
     "has_military_base": false,
     "has_va_facility": false,
     "bio_notes": null,
-    "committees": []
+    "committees": [
+      {
+        "committee": "Arts, Entertainment, Sports, and Tourism",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Elections",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Human Services",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Labor and Employment",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on the Arts",
+        "chamber": "Joint",
+        "role": "member"
+      }
+    ]
   },
   {
     "id": "f95c3e44-1d70-4fd9-9f7f-af8d72448ae1",
@@ -2629,6 +3866,21 @@
         "committee": "Human Services",
         "chamber": "Assembly",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Communications and Conveyance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Education",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Environmental Safety and Toxic Materials",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -2676,6 +3928,26 @@
         "committee": "Legislative Ethics",
         "chamber": "Assembly",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Labor and Employment",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Utilities and Energy",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -2718,6 +3990,36 @@
         "committee": "Select Committee on Racism, Hate, and Xenophobia",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Business and Professions",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Higher Education",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Human Services",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Budget Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -2760,6 +4062,31 @@
         "committee": "Select Committee on 2028 Olympic and Paralympic Games",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Arts, Entertainment, Sports, and Tourism",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Environmental Safety and Toxic Materials",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Privacy and Consumer Protection",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Revenue and Taxation",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -2797,6 +4124,31 @@
         "committee": "Economic Development, Growth, and Household Impact",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Appropriations",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Elections",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 1 on Health",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -2859,6 +4211,11 @@
         "committee": "Local Government",
         "chamber": "Assembly",
         "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -2911,6 +4268,26 @@
         "committee": "X1 Session Rules",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Appropriations",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Local Government",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -2953,6 +4330,16 @@
         "committee": "Select Committee on Ports and Goods Movement",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -2989,7 +4376,27 @@
       {
         "committee": "Education",
         "chamber": "Assembly",
-        "role": "chair"
+        "role": "member"
+      },
+      {
+        "committee": "Appropriations",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Economic Development, Growth, and Household Impact",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Higher Education",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Natural Resources",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -3032,6 +4439,46 @@
         "committee": "Select Committee on Community Reinvestment",
         "chamber": "Assembly",
         "role": "member"
+      },
+      {
+        "committee": "Arts, Entertainment, Sports, and Tourism",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Housing and Community Development",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Military and Veterans Affairs",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Revenue and Taxation",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on the Arts",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Audit Committee",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Budget Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -3072,6 +4519,26 @@
       },
       {
         "committee": "Select Committee on Community Reinvestment",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Arts, Entertainment, Sports, and Tourism",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Military and Veterans Affairs",
         "chamber": "Assembly",
         "role": "member"
       }
@@ -3156,6 +4623,11 @@
         "committee": "Select Committee on the Nonprofit Sector",
         "chamber": "Assembly",
         "role": "member"
+      },
+      {
+        "committee": "Education",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -3193,6 +4665,26 @@
         "committee": "Local Government",
         "chamber": "Assembly",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Appropriations",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Housing and Community Development",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Utilities and Energy",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -3230,6 +4722,26 @@
         "committee": "Revenue and Taxation",
         "chamber": "Assembly",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Rules",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -3262,7 +4774,38 @@
     "has_military_base": false,
     "has_va_facility": false,
     "bio_notes": null,
-    "committees": []
+    "committees": [
+      {
+        "committee": "Appropriations",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Banking and Finance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Rules",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
+      }
+    ]
   },
   {
     "id": "8fadc14b-1345-4e98-b5b8-1de7e064ca47",
@@ -3298,6 +4841,36 @@
         "committee": "Utilities and Energy",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Economic Development, Growth, and Household Impact",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Privacy and Consumer Protection",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 4 on Climate, Crisis, Resources, Energy and Transportation",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Climate Change Policies",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -3442,6 +5015,11 @@
         "committee": "Joint Legislative Committee on Climate Change Policies",
         "chamber": "Joint",
         "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Emergency Management",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -3465,7 +5043,9 @@
       "phone": "(858) 675-0760"
     },
     "scheduling_portal_url": "https://scheduling.assembly.ca.gov/a76",
-    "scheduler_emails": [],
+    "scheduler_emails": [
+      "annie.chou@asm.ca.gov"
+    ],
     "veteran_relevance_score": 0,
     "veteran_relevance_notes": null,
     "has_veteran_legislation": false,
@@ -3477,6 +5057,36 @@
         "committee": "Select Committee on Youth Mental Health and Treatment Accessibility",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Economic Development, Growth, and Household Impact",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Education",
+        "chamber": "Assembly",
+        "role": "chair"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Higher Education",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 3 on Education Finance",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -3519,6 +5129,31 @@
         "committee": "Select Committee on Sea Level Rise and the California Economy",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Higher Education",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Public Employment and Retirement",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Utilities and Energy",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Water, Parks, and Wildlife",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Fisheries and Aquaculture",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -3616,6 +5251,11 @@
         "committee": "Budget Subcommittee No. 4 on Climate, Crisis, Resources, Energy and Transportation",
         "chamber": "Assembly",
         "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -3653,6 +5293,41 @@
         "committee": "Select Committee on Calfresh Enrollment and Nutrition",
         "chamber": "Assembly",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Aging and Long-Term Care",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Higher Education",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Public Safety",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Budget Subcommittee No. 2 on Human Services",
+        "chamber": "Assembly",
+        "role": "member"
       }
     ]
   },
@@ -3677,7 +5352,7 @@
     },
     "scheduling_portal_url": "https://scheduling.assembly.ca.gov/a80",
     "scheduler_emails": [
-      "cleo.solon@asm.ca.gov"
+      "priscilla.salcedo@asm.ca.gov"
     ],
     "veteran_relevance_score": 0,
     "veteran_relevance_notes": null,
@@ -3700,6 +5375,36 @@
         "committee": "Select Committee on the Transportation Costs and Impact of the Low Carbon Fuel Standard",
         "chamber": "Assembly",
         "role": "chair"
+      },
+      {
+        "committee": "Budget",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Education",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Water, Parks, and Wildlife",
+        "chamber": "Assembly",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Budget Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -3732,7 +5437,68 @@
     "has_military_base": false,
     "has_va_facility": false,
     "bio_notes": null,
-    "committees": []
+    "committees": [
+      {
+        "committee": "Appropriations",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Environmental Quality",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Local Government",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Natural Resources and Water",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Emergency Management",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Energy Utilities and Communications",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Ports and Goods Movement",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Fairs, Allocation and Classification",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Audit Committee",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Emergency Management",
+        "chamber": "Joint",
+        "role": "member"
+      }
+    ]
   },
   {
     "id": "bd51dc19-e783-4160-9da4-e75646b68bf5",
@@ -3769,6 +5535,11 @@
         "committee": "Joint Committee on Fisheries and Aquaculture",
         "chamber": "Joint",
         "role": "chair"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -3816,6 +5587,61 @@
         "committee": "Select Committee on California's Wine Industry",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Appropriations",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Education",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Housing",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Natural Resources and Water",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Budget and Fiscal Review Subcommittee No. 4 on State Administration and General Government",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Bay Area Public Transportation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Green Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Ports and Goods Movement",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Fairs, Allocation and Classification",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -3859,6 +5685,16 @@
         "committee": "Revenue and Taxation",
         "chamber": "Senate",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Fairs, Allocation and Classification",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -3956,6 +5792,11 @@
         "committee": "Select Committee on Ports and Goods Movement",
         "chamber": "Senate",
         "role": "member"
+      },
+      {
+        "committee": "Budget and Fiscal Review Subcommittee No. 2 on Resources, Environmental Protection and Energy",
+        "chamber": "Senate",
+        "role": "member"
       }
     ]
   },
@@ -4013,6 +5854,36 @@
         "committee": "X1 Session Budget and Fiscal Review",
         "chamber": "Senate",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Select Committee on Hydrogen Energy",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Budget and Fiscal Review Subcommittee No. 4 on State Administration and General Government",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Economic Development and Technological Innovation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Green Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Budget Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -4056,6 +5927,46 @@
         "committee": "Public Safety",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Energy Utilities and Communications",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Local Government",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Bay Area Public Transportation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on California-Mexico Cooperation and Dialogue",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Green Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Ports and Goods Movement",
+        "chamber": "Senate",
+        "role": "member"
       }
     ]
   },
@@ -4093,6 +6004,61 @@
         "committee": "Joint Committee on Fairs, Allocation and Classification",
         "chamber": "Joint",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Agriculture",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Emergency Management",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Local Government",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Revenue and Taxation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Economic Development and Technological Innovation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Minority Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Social Determinants of Health",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Audit Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -4135,6 +6101,61 @@
         "committee": "Select Committee on Green Economic Development",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Select Committee on Hydrogen Energy",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Appropriations",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Emergency Management",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Housing",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Revenue and Taxation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Bay Area Public Transportation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Nonprofit Sector",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Emergency Management",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -4177,6 +6198,31 @@
         "committee": "Special Committee on International Sporting Events: Olympics, Paralympics and World Cup Soccer",
         "chamber": "Senate",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Appropriations",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Energy Utilities and Communications",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Bay Area Public Transportation",
+        "chamber": "Senate",
+        "role": "member"
       }
     ]
   },
@@ -4224,6 +6270,36 @@
         "committee": "X1 Session Budget and Fiscal Review",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Privacy, Digital Technologies, and Consumer Protection",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Public Safety",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Climate Change Policies",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -4248,7 +6324,8 @@
     },
     "scheduling_portal_url": null,
     "scheduler_emails": [
-      "alicia.zgombic@sen.ca.gov"
+      "alicia.zgombic@sen.ca.gov",
+      "paula.francis@sen.ca.gov"
     ],
     "veteran_relevance_score": 9,
     "veteran_relevance_notes": "Vice Chair of Senate Military & Veterans Affairs Committee. Vice Chair of Senate Rules Committee. District covers Edwards AFB, China Lake NAWS (Ridgecrest), and large veteran populations in Bakersfield, Fresno, and Kern County. Republican caucus leader on veteran issues.",
@@ -4295,6 +6372,21 @@
       {
         "committee": "Natural Resources and Water",
         "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on the Arts",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
         "role": "member"
       }
     ]
@@ -4344,6 +6436,36 @@
         "committee": "Select Committee on Economic Development and Technological Innovation",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Energy Utilities and Communications",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Revenue and Taxation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Bay Area Public Transportation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Green Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Audit Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -4381,6 +6503,61 @@
         "committee": "Agriculture",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Select Committee on Hydrogen Energy",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Energy Utilities and Communications",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Housing",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Public Safety",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Green Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Nonprofit Sector",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Ports and Goods Movement",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Fairs, Allocation and Classification",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -4418,6 +6595,51 @@
         "committee": "Transportation",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Select Committee on Hydrogen Energy",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Education",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Housing",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Labor, Public Employment and Retirement",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Public Safety",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Bay Area Public Transportation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Fisheries and Aquaculture",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Audit Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -4442,7 +6664,6 @@
     },
     "scheduling_portal_url": null,
     "scheduler_emails": [
-      "chris.brieno@sen.ca.gov",
       "priscila.morales@sen.ca.gov"
     ],
     "veteran_relevance_score": 0,
@@ -4456,6 +6677,56 @@
         "committee": "Budget and Fiscal Review Subcommittee No. 4 on State Administration and General Government",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Banking and Financial Institutions",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Energy Utilities and Communications",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Environmental Quality",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on California-Mexico Cooperation and Dialogue",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Minority Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Social Determinants of Health",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Budget Committee",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Climate Change Policies",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -4508,6 +6779,51 @@
         "committee": "Select Committee on Older LGBTQ+ Californians",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Human Services",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Labor, Public Employment and Retirement",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Local Government",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Natural Resources and Water",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Rules",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Bay Area Public Transportation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Community College: the Hub of the Community",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Nonprofit Sector",
+        "chamber": "Senate",
+        "role": "member"
       }
     ]
   },
@@ -4550,6 +6866,51 @@
         "committee": "Select Committee on California-Mexico Cooperation and Dialogue",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Agriculture",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Housing",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Privacy, Digital Technologies, and Consumer Protection",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Economic Development and Technological Innovation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Minority Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Social Determinants of Health",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Fairs, Allocation and Classification",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -4597,6 +6958,51 @@
         "committee": "Human Services",
         "chamber": "Senate",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Housing",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Privacy, Digital Technologies, and Consumer Protection",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Budget and Fiscal Review Subcommittee No. 1 on Education",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Community College: the Hub of the Community",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Nonprofit Sector",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Social Determinants of Health",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Budget Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -4634,6 +7040,51 @@
         "committee": "Budget and Fiscal Review Subcommittee No. 3 on Health and Human Services",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Military and Veterans Affairs",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Environmental Quality",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Minority Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Budget Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -4671,6 +7122,16 @@
         "committee": "Rules",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Select Committee on Minority Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -4713,6 +7174,36 @@
         "committee": "Select Committee on Minority Economic Development",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Emergency Management",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Energy Utilities and Communications",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on the Arts",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Emergency Management",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -4736,7 +7227,9 @@
       "phone": "(661) 729-6232"
     },
     "scheduling_portal_url": "https://sr23.senate.ca.gov/node/619",
-    "scheduler_emails": [],
+    "scheduler_emails": [
+      "bryan.shroyer@sen.ca.gov"
+    ],
     "veteran_relevance_score": 0,
     "veteran_relevance_notes": null,
     "has_veteran_legislation": false,
@@ -4758,6 +7251,36 @@
         "committee": "Health",
         "chamber": "Senate",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Select Committee on Hydrogen Energy",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Minority Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Audit Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -4805,6 +7328,56 @@
         "committee": "Special Committee on International Sporting Events: Olympics, Paralympics and World Cup Soccer",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Select Committee on Hydrogen Energy",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Elections and Constitutional Amendments",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Emergency Management",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Environmental Quality",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Natural Resources and Water",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on California-Mexico Cooperation and Dialogue",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Economic Development and Technological Innovation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Nonprofit Sector",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Emergency Management",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -4847,6 +7420,46 @@
         "committee": "Education",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Emergency Management",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Human Services",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Public Safety",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Nonprofit Sector",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on the Arts",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Budget Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -4884,6 +7497,41 @@
         "committee": "Local Government",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Select Committee on Hydrogen Energy",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Housing",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Labor, Public Employment and Retirement",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Budget and Fiscal Review Subcommittee No. 5 on Corrections, Public Safety, Judiciary, Labor and Transportation",
+        "chamber": "Senate",
+        "role": "member"
       }
     ]
   },
@@ -4931,6 +7579,21 @@
         "committee": "Joint Legislative Committee on Emergency Management",
         "chamber": "Joint",
         "role": "chair"
+      },
+      {
+        "committee": "Energy Utilities and Communications",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Natural Resources and Water",
+        "chamber": "Senate",
+        "role": "member"
       }
     ]
   },
@@ -4969,6 +7632,51 @@
         "committee": "Labor, Public Employment and Retirement",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Select Committee on Hydrogen Energy",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Budget and Fiscal Review Subcommittee No. 4 on State Administration and General Government",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Nonprofit Sector",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on the Arts",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -5016,6 +7724,46 @@
         "committee": "Select Committee on Community College: the Hub of the Community",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Banking and Financial Institutions",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Education",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Energy Utilities and Communications",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Privacy, Digital Technologies, and Consumer Protection",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Rules",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Budget Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -5058,6 +7806,46 @@
         "committee": "Select Committee on Hydrogen Energy",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Energy Utilities and Communications",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Budget and Fiscal Review Subcommittee No. 1 on Education",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation Subcommittee on LOSSAN Rail Corridor Resiliency",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Community College: the Hub of the Community",
+        "chamber": "Senate",
+        "role": "member"
       }
     ]
   },
@@ -5095,6 +7883,51 @@
         "committee": "Appropriations",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Banking and Financial Institutions",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Elections and Constitutional Amendments",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Local Government",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Community College: the Hub of the Community",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Green Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Minority Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Audit Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -5177,6 +8010,16 @@
         "committee": "Budget and Fiscal Review Subcommittee No. 5 on Corrections, Public Safety, Judiciary, Labor and Transportation",
         "chamber": "Senate",
         "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Emergency Management",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -5214,6 +8057,51 @@
         "committee": "Select Committee on Ports and Goods Movement",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Education",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Energy Utilities and Communications",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Environmental Quality",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Housing",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Privacy, Digital Technologies, and Consumer Protection",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on the Arts",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -5311,7 +8199,7 @@
     "scheduling_portal_url": "https://sd35.senate.ca.gov/contact",
     "scheduler_emails": [
       "samahndi.cunningham@sen.ca.gov",
-      "connor.anderson@sen.ca.gov"
+      "stacy.towles@sen.ca.gov"
     ],
     "veteran_relevance_score": 0,
     "veteran_relevance_notes": null,
@@ -5324,6 +8212,61 @@
         "committee": "Budget and Fiscal Review Subcommittee No. 5 on Corrections, Public Safety, Judiciary, Labor and Transportation",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Appropriations",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Banking and Financial Institutions",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Energy Utilities and Communications",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Green Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Ports and Goods Movement",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on the Arts",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Budget Committee",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -5367,6 +8310,21 @@
         "committee": "Transportation",
         "chamber": "Senate",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Banking and Financial Institutions",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Business, Professions and Economic Development",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Energy Utilities and Communications",
+        "chamber": "Senate",
+        "role": "member"
       }
     ]
   },
@@ -5429,6 +8387,16 @@
         "committee": "X1 Session Budget and Fiscal Review",
         "chamber": "Senate",
         "role": "member"
+      },
+      {
+        "committee": "Education",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Budget and Fiscal Review Subcommittee No. 2 on Resources, Environmental Protection and Energy",
+        "chamber": "Senate",
+        "role": "member"
       }
     ]
   },
@@ -5471,6 +8439,41 @@
         "committee": "Transportation Subcommittee on LOSSAN Rail Corridor Resiliency",
         "chamber": "Senate",
         "role": "chair"
+      },
+      {
+        "committee": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Emergency Management",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Transportation",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Budget and Fiscal Review Subcommittee No. 2 on Resources, Environmental Protection and Energy",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Climate Change Policies",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Emergency Management",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   },
@@ -5504,7 +8507,68 @@
     "has_military_base": false,
     "has_va_facility": false,
     "bio_notes": null,
-    "committees": []
+    "committees": [
+      {
+        "committee": "Budget and Fiscal Review",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Health",
+        "chamber": "Senate",
+        "role": "chair"
+      },
+      {
+        "committee": "Human Services",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Judiciary",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Governmental Organization",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Budget and Fiscal Review Subcommittee No. 3 on Health and Human Services",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on California-Mexico Cooperation and Dialogue",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Community College: the Hub of the Community",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Ports and Goods Movement",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on Social Determinants of Health",
+        "chamber": "Senate",
+        "role": "chair"
+      },
+      {
+        "committee": "Joint Committee on Fisheries and Aquaculture",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Legislative Committee on Climate Change Policies",
+        "chamber": "Joint",
+        "role": "member"
+      }
+    ]
   },
   {
     "id": "90726194-4cdf-4849-bb67-578499cb5c59",
@@ -5540,6 +8604,36 @@
         "committee": "Privacy, Digital Technologies, and Consumer Protection",
         "chamber": "Senate",
         "role": "vice_chair"
+      },
+      {
+        "committee": "Select Committee on Hydrogen Energy",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Insurance",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Rules",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Select Committee on California-Mexico Cooperation and Dialogue",
+        "chamber": "Senate",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Fisheries and Aquaculture",
+        "chamber": "Joint",
+        "role": "member"
+      },
+      {
+        "committee": "Joint Committee on Rules",
+        "chamber": "Joint",
+        "role": "member"
       }
     ]
   }
